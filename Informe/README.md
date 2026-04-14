@@ -619,6 +619,118 @@ Se detallan las acciones, problemas y emociones de cada etapa, lo que nos permit
 20. **Provider (Proveedor)**  
     An external party that offers services such as maintenance, cleaning, or security for the building.
 
+**Capítulo III: Requirements Specification**
+
+**3.1. User Stories**
+
+### EPICS
+
+| EPIC ID | Título | Descripción |
+|--------|--------|-------------|
+| EP-01 | Adquisición y Presentación Comercial (Landing Page) | Portal público donde los clientes visualizan beneficios, planes de suscripción y acceden o contactan la plataforma. |
+| EP-02 | Gestión de Onboarding y Configuración | Configuración inicial: registro de administradora, creación del edificio e importación masiva de residentes desde Excel. |
+| EP-03 | Facturación y Cobranza Mensual | Generación masiva de recibos mensuales y notificación a residentes por correo. |
+| EP-04 | Pagos y Conciliación Automática | Pago online con integración a pasarela y conciliación automática de deudas. |
+| EP-05 | Gestión de Morosidad | Aplicación automática de multas y envío de recordatorios periódicos. |
+| EP-06 | Gestión de Áreas Comunes y Visitas | Consulta de disponibilidad, reservas y generación de códigos QR para visitas. |
+| EP-07 | Reportes Financieros (Dashboard) | Visualización en tiempo real de ingresos, egresos y morosidad. |
+
+### EPICS & USER STORIES
+
+| ID | Título | Descripción | Criterios de Aceptación | Epic |
+|----|--------|------------|-------------------------|------|
+| EP-01 | Adquisición y Presentación Comercial | Portal público con beneficios, pricing y acceso a la app. | — | — |
+| US-01 | Ver propuesta de valor | Como admin quiero entender el beneficio del sistema. | Ver mensaje claro en landing. | EP-01 |
+| US-02 | Ver módulos | Como admin quiero ver funcionalidades. | Mostrar módulos como cobranzas y reservas. | EP-01 |
+| US-03 | Entender funcionalidades | Como junta quiero evaluar utilidad. | Mostrar descripción clara por módulo. | EP-01 |
+| US-04 | Ver planes | Como admin quiero ver precios. | Mostrar planes con precios. | EP-01 |
+| US-05 | Comparar planes | Como junta quiero comparar opciones. | Mostrar diferencias entre planes. | EP-01 |
+| US-06 | Suscribirme | Como usuario quiero iniciar compra. | Redirige a registro y compra. | EP-01 |
+| US-07 | Ver beneficios | Como admin quiero conocer ventajas. | Mostrar beneficios clave. | EP-01 |
+| US-08 | FAQ | Como usuario quiero resolver dudas. | Mostrar preguntas desplegables. | EP-01 |
+| US-09 | Buscar ayuda | Como usuario quiero buscar info. | Mostrar resultados relevantes. | EP-01 |
+| US-010 | Navegar | Como usuario quiero moverme fácil. | Navegación fluida por menú. | EP-01 |
+| US-011 | Cambiar idioma | Como usuario quiero cambiar idioma. | Contenido cambia automáticamente. | EP-01 |
+| US-012 | Acceder a app | Como usuario quiero ingresar. | Redirige a plataforma SaaS. | EP-01 |
+| US-013 | Navegación móvil | Como usuario quiero usar móvil. | Menú accesible y usable. | EP-01 |
+
+---
+
+| ID | Título | Descripción | Criterios de Aceptación | Epic |
+|----|--------|------------|-------------------------|------|
+| EP-02 | Onboarding y Configuración | Configuración inicial del sistema. | — | — |
+| US-014 | Crear edificio | Registrar nuevo condominio. | Se crea panel exclusivo. | EP-02 |
+| US-015 | Importar residentes | Subir Excel de vecinos. | Se crean cuentas y envían correos. | EP-02 |
+
+---
+
+| ID | Título | Descripción | Criterios de Aceptación | Epic |
+|----|--------|------------|-------------------------|------|
+| EP-03 | Facturación Mensual | Generación de recibos. | — | — |
+| US-016 | Generar recibos | Crear recibos masivos. | Se generan en estado pendiente. | EP-03 |
+
+---
+
+| ID | Título | Descripción | Criterios de Aceptación | Epic |
+|----|--------|------------|-------------------------|------|
+| EP-04 | Pagos y Conciliación | Pagos online y conciliación. | — | — |
+| US-017 | Pago online | Pagar mantenimiento. | Pago exitoso con pasarela. | EP-04 |
+| US-018 | Conciliación automática | Marcar pago automático. | Estado cambia a pagado. | EP-04 |
+
+---
+
+| ID | Título | Descripción | Criterios de Aceptación | Epic |
+|----|--------|------------|-------------------------|------|
+| EP-05 | Gestión de Morosidad | Multas y recordatorios. | — | — |
+| US-019 | Aplicar mora | Penalizar retrasos. | Se añade mora automática. | EP-05 |
+
+---
+
+| ID | Título | Descripción | Criterios de Aceptación | Epic |
+|----|--------|------------|-------------------------|------|
+| EP-06 | Áreas y Visitas | Reservas y accesos. | — | — |
+| US-020 | Reservar áreas | Reservar parrilla. | Se bloquea horario. | EP-06 |
+| US-021 | QR visitas | Generar acceso. | QR válido por 24h. | EP-06 |
+
+---
+
+| ID | Título | Descripción | Criterios de Aceptación | Epic |
+|----|--------|------------|-------------------------|------|
+| EP-07 | Dashboard Financiero | Visualización financiera. | — | — |
+| US-022 | Ver dashboard | Consultar métricas. | Mostrar ingresos y deudas. | EP-07 |
+
+**3.2 Impact Mapping**
+
+![Empact Mapping](../imagenes/impactmap.png)
+
+**3.3 Product Backlog**
+
+# User Stories - Story Points
+
+| #Orden | User Story ID | Descripción | Story Points (1/2/3/5/8) |
+|--------|--------------|-------------|---------------------------|
+| 01 | US01 | Como administrador de edificios, quiero entender rápidamente el beneficio del sistema para decidir si me interesa | 1 |
+| 02 | US02 | Como administrador, quiero visualizar las funcionalidades disponibles para entender qué puedo gestionar. | 2 |
+| 03 | US03 | Como junta directiva, quiero leer descripciones de cada módulo para evaluar su utilidad. | 1 |
+| 04 | US04 | Como administrador, quiero ver los planes de suscripción para evaluar costos. | 2 |
+| 05 | US05 | Como junta directiva, quiero comparar características entre planes para elegir el adecuado. | 3 |
+| 06 | US06 | Como usuario interesado, quiero tener un botón de suscripción para iniciar el proceso de compra. | 2 |
+| 07 | US07 | Como administrador, quiero conocer ventajas del sistema para confiar en la solución. | 1 |
+| 08 | US08 | Como usuario interesado, quiero revisar preguntas frecuentes para resolver dudas rápidamente. | 1 |
+| 09 | US09 | Como usuario, quiero buscar información específica dentro de la sección de ayuda para encontrar respuestas precisas. | 3 |
+| 10 | US10 | Como usuario, quiero usar el menú de navegación para moverme fácilmente por la landing. | 2 |
+| 11 | US11 | Como usuario, quiero cambiar el idioma para entender mejor el contenido de la plataforma. | 3 |
+| 12 | US12 | Como usuario interesado o registrado, quiero tener un botón visible para acceder a la aplicación web. | 1 |
+| 13 | US13 | Como junta directiva, quiero navegar fácilmente desde mi celular para acceder rápidamente a la información. | 3 |
+| 14 | US14 | Como administrador, quiero registrar un nuevo edificio en el sistema, para empezar a gestionar sus finanzas de manera independiente. | 5 |
+| 15 | US15 | Como administrador, quiero subir un archivo Excel con los datos de los vecinos, para no tener que registrar departamento por departamento manualmente. | 5 |
+| 16 | US16 | Como administrador, quiero generar los recibos de mantenimiento de todos los departamentos con un solo clic, para ahorrar tiempo al inicio de cada mes. | 5 |
+| 17 | US17 | Como residente, quiero pagar mi cuota de mantenimiento usando mi tarjeta desde la plataforma, para evitar hacer transferencias bancarias manuales. | 8 |
+| 18 | US18 | Como administrador, quiero que el sistema marque automáticamente como "Pagado" un recibo abonado por la web, para evitar cruzar vouchers manualmente. | 5 |
+| 19 | US19 | Como administrador, quiero que el sistema aplique una multa automática a los recibos vencidos, para penalizar la morosidad sin tener que discutir con el vecino. | 5 |
+| 20 | US20 | Como residente, quiero reservar la zona de parrillas desde la plataforma, para asegurar mi turno sin buscar al conserje. | 3 |
+| 21 | US21 | Como residente, quiero generar un código QR de invitación, para que mis visitas puedan ingresar rápido y el conserje los valide. | 5 |
+| 22 | US22 | Como administrador, quiero ver un resumen visual de los ingresos y el porcentaje de morosidad, para conocer la salud financiera del edificio rápidamente. | 5 |
 
 **Capítulo IV: Product Design**
 
