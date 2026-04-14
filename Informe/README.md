@@ -732,7 +732,9 @@ Se detallan las acciones, problemas y emociones de cada etapa, lo que nos permit
 | 21 | US21 | Como residente, quiero generar un código QR de invitación, para que mis visitas puedan ingresar rápido y el conserje los valide. | 5 |
 | 22 | US22 | Como administrador, quiero ver un resumen visual de los ingresos y el porcentaje de morosidad, para conocer la salud financiera del edificio rápidamente. | 5 |
 
-**Capítulo IV: Product Design**
+---
+
+## Capítulo IV: Product Design
 
 **4.1. Style Guidelines**
 
@@ -745,7 +747,7 @@ Buscamos transmitir **transparencia, solidez y eficiencia**. Para reflejar la id
 La identidad visual de **BuildingFex** se construye sobre la base de:
 
 - **Misión:** Transformar la administración de condominios y edificios en una experiencia digital eficiente, transparente y automatizada, permitiendo a las administradoras escalar su gestión y a los residentes disfrutar de una convivencia organizada y moderna.
-- **Visión:** Consolidarnos como la plataforma SaaS líder en el mercado inmobiliario peruano, reconocida por integrar innovación tecnológica y transparencia financiera que impacte positivamente en la plusvalía de los inmuebles y la armonía de las comunidades.
+- **Visión:** Consolidarnos como la plataforma SaaS líder en el mercado inmobiliario peruano, reconocida por integrar innovación tecnológica y transparencia financiera que impacte positivamente en la plusvalía de los inmuebles y la armonía de las comunidades. 
 
 **Logo**
 
