@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d9b4fa2-8d48-4958-b1b9-1a4535ad4f7e" name="Changes" comment="">
+    <list default="true" id="0d9b4fa2-8d48-4958-b1b9-1a4535ad4f7e" name="Changes" comment="Add database diagram">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informe/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Informe/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8d639e4e-5ae0-4cac-be3f-0d2826f72567" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -70,9 +72,22 @@
       <updated>1776139151921</updated>
       <workItem from="1776139153371" duration="5780000" />
     </task>
+    <task id="LOCAL-00001" summary="Add database diagram">
+      <option name="closed" value="true" />
+      <created>1776213133411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776213133411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add database diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add database diagram" />
   </component>
 </project>
