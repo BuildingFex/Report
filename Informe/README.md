@@ -261,6 +261,193 @@ En esta sección se presenta la relación entre el trabajo realizado por el equi
 
 > **Conclusión grupal:** Concluimos que durante la TB1 la comunicación escrita fue esencial para la coordinación del equipo y el avance del informe. Aprendimos a estructurar nuestras ideas de manera clara y a adaptar nuestros entregables a distintos destinatarios, sentando las bases para una trazabilidad y una colaboración eficientes en las fases siguientes del proyecto.
 
+
+<a id="capitulo-i-introduccion"></a>
+# Capítulo I: Introducción
+
+<a id="1-1-startup-profile"></a>
+## 1.1. Startup Profile
+
+<a id="1-1-1-descripcion-de-la-startup"></a>
+### 1.1.1. Descripción de la Startup
+
+La administración de condominios y torres residenciales implica gestionar múltiples procesos críticos: desde el control de las finanzas y la recaudación de cuotas, hasta el mantenimiento de las instalaciones y la comunicación con los residentes. Tradicionalmente, estas operaciones se manejan de forma fragmentada, utilizando hojas de cálculo, correos electrónicos y grupos de mensajería, lo que genera desorden, retrasos en los pagos y falta de transparencia.
+
+A pesar de que existen algunas herramientas digitales en el mercado, muchas de ellas resultan demasiado complejas para los comités de administración o no ofrecen una experiencia unificada tanto para el gestor como para el residente. Esto provoca que la información sobre normativas, actas o estados de cuenta no sea fácilmente accesible para la comunidad.
+
+Frente a esta situación, se requiere una plataforma centralizada y escalable que simplifique estas operaciones. Una solución en la nube que integre la gestión de áreas comunes, cobranzas, mantenimiento y comunicados en un solo entorno, mejorando la convivencia, optimizando el tiempo de los administradores y brindando total visibilidad a las juntas de propietarios.
+
+<a id="1-1-2-perfiles-de-integrantes-del-equipo"></a>
+### 1.1.2. Perfiles de integrantes del equipo
+
+| Nombre | Descripción |
+|---|---|
+| <img src="Images/Giuseppe.jpeg" width="200" alt="Foto de Giuseppe Villanueva"/> | Soy estudiante de Ingeniería de Software con un enfoque en el desarrollo de software. Me caracterizo por mi resiliencia y mi conocimiento en varias áreas de programación como el uso de .NET 8, C#, C++, JavaScript, Node, Python, HTML, Redis y SignalR. |
+
+<a id="1-2-solution-profile"></a>
+## 1.2. Solution Profile
+
+El nombre de nuestro producto es **“BuildingFex”**. Este término fusiona la palabra inglesa "Building" (edificio), haciendo referencia directa a nuestro rubro inmobiliario, con "Fex", que evoca un sentido de eficiencia, agilidad y flexibilidad operativa. Este nombre transmite la misión principal de la plataforma: modernizar y agilizar las operaciones de los condominios y torres residenciales bajo un ecosistema robusto y profesional.
+
+**Product Description:** BuildingFex es una plataforma SaaS (Software as a Service) integral diseñada para juntas de propietarios y empresas administradoras. El sistema unifica la operatividad del edificio ofreciendo una misma experiencia fluida tanto en la aplicación web como en la versión móvil. 
+
+El software centraliza las siguientes operaciones clave:
+- **Áreas Comunes:** Gestión de reservas, reglas y mantenimiento en una sola vista.
+- **Cobranzas (Collections):** Visibilidad de pagos, cuotas y recordatorios para los residentes, disminuyendo la morosidad.
+- **Mantenimiento:** Registro de solicitudes, control de proveedores y estado de las reparaciones de todo el edificio.
+- **Comunicados y Documentos:** Emisión de avisos oficiales y un repositorio seguro para actas, reglamentos y archivos de la comunidad.
+- **Accesos y Visitas:** Registros alineados con las políticas de seguridad del edificio.
+
+De esta forma, BuildingFex garantiza una entrega de servicio responsable y estandarizada, guiada por normativas éticas y de transparencia para toda la comunidad.
+
+**Monetización:** El modelo de negocio es B2B, basado en suscripciones mensuales (SaaS) facturadas en Soles Peruanos (PEN). Los planes están diseñados para escalar según el tamaño del condominio:
+
+- **Plan Essential (S/ 40 al mes):** Dirigido a edificios pequeños o condominios boutique (10 a 15 departamentos). Incluye la consola web, gestión de áreas comunes, cobranzas, comunicados, documentos, registro de visitas y soporte por correo en días hábiles.
+- **Plan Standard (S/ 80 al mes):** Diseñado para torres medianas y comunidades activas (16 a 40 departamentos). Suma a lo anterior una mayor capacidad, visibilidad más clara de deudas, notificaciones masivas para residentes y soporte operativo prioritario.
+- **Plan Scale (S/ 120 al mes):** Enfocado en grandes complejos y portafolios de gran altura (41 a 80 departamentos). Incluye reportes avanzados para comités grandes, asistencia en la implementación (onboarding) y canales de soporte con tiempos de respuesta acordados.
+
+<a id="1-2-1-antecedentes-y-problematica"></a>
+### 1.2.1. Antecedentes y problemática
+
+**Descripción de la problemática**
+El problema central se encuentra en la ineficiencia logística y financiera que sufren las administraciones de inmuebles al no contar con un flujo de trabajo centralizado. La dependencia de procesos manuales dificulta el seguimiento de la morosidad, genera conflictos en la reserva de espacios compartidos y propicia la pérdida de información histórica del edificio (como actas o contratos con proveedores). 
+
+Esta carencia de tecnología perjudica tanto a las empresas administradoras, que ven limitada su capacidad de gestionar más propiedades, como a los propietarios, que perciben una falta de transparencia sobre cómo se invierte su dinero y cómo se gestionan las incidencias del día a día.
+
+**Objetivos**
+- Desarrollar una plataforma SaaS que unifique la administración de finanzas, operaciones y comunicaciones de los edificios.
+- Facilitar la visibilidad de los pagos y automatizar los recordatorios para reducir los índices de morosidad.
+- Proveer un sistema transparente de reportes y almacenamiento de documentos accesibles para la comunidad.
+- Escalar la capacidad operativa de los property managers mediante flujos de trabajo claros y estandarizados.
+
+**Restricciones**
+- La plataforma depende de la conexión a internet para la sincronización de datos en tiempo real entre la aplicación web y los usuarios.
+- La adopción del sistema requiere un cambio de hábitos en los residentes, especialmente en aquellos menos familiarizados con herramientas digitales.
+- La gestión de datos financieros y personales exige altos estándares de seguridad y protección de la privacidad.
+
+**Antecedentes**
+- **Administración tradicional:** El uso de herramientas genéricas como Excel y WhatsApp domina el mercado actual. Aunque son de bajo costo, no escalan, carecen de seguridad de datos y no ofrecen transparencia financiera en tiempo real.
+- **Sistemas contables genéricos:** Existen programas de contabilidad robustos, pero no están enfocados en la convivencia comunitaria, dejando de lado módulos esenciales como la reserva de áreas comunes o el control de visitas.
+- **Plataformas extranjeras:** Hay soluciones PropTech en otros países, pero sus planes de suscripción suelen ser elevados (facturados en dólares) y no siempre se adaptan a las dinámicas residenciales locales.
+
+**Herramienta de 5W y 2H**
+- **What - ¿Cuál es el problema?**
+  - La gestión dispersa, poco transparente y manual de las operaciones y cobranzas en condominios y torres residenciales.
+- **When - ¿Cuándo sucede el problema?**
+  - Ocurre constantemente en el registro de visitas e incidencias diarias, y se agudiza a fin de mes durante los procesos de facturación y conciliación de pagos.
+- **Where - ¿Dónde surge el problema?**
+  - En la administración interna de edificios de departamentos y complejos residenciales.
+- **Who - ¿Quiénes son afectados por el problema?**
+  - Las empresas administradoras, las juntas de propietarios, los conserjes y, en última instancia, los residentes.
+- **Why - ¿Cuál es la causa del problema?**
+  - La falta de adopción de plataformas centralizadas y la dependencia de métodos informales para la comunicación y contabilidad.
+- **How - ¿Cómo se manifiesta el problema?**
+  - Mediante altos índices de pagos atrasados, desinformación sobre las normativas del edificio, cruces en reservas de áreas comunes y demoras en el mantenimiento.
+- **How much - ¿Cuál es la magnitud del problema?**
+  - Afecta directamente la salud financiera del condominio y genera horas de trabajo no productivo para los administradores, limitando el crecimiento de sus portafolios.
+
+<a id="1-2-2-lean-ux-process"></a>
+### 1.2.2. Lean UX Process.
+
+<a id="1-2-2-1-lean-ux-problem-statements"></a>
+#### 1.2.2.1. Lean UX Problem Statements.
+
+La operación diaria de torres residenciales ha recaído históricamente en el esfuerzo manual de los administradores y en canales de comunicación no oficiales. Este enfoque, aunque funcional para edificios muy pequeños, genera cuellos de botella en la recaudación de cuotas, pérdida de trazabilidad en las reparaciones y frustración entre los propietarios por la falta de transparencia.
+
+Debido a esto, los ecosistemas de gestión actuales están desconectados. Los administradores no tienen una única vista para controlar las áreas comunes y las finanzas al mismo tiempo, lo que reduce su capacidad de respuesta y profesionalismo.
+
+Nuestro producto resuelve esta fricción al ofrecer BuildingFex, una plataforma centralizada que actúa como el núcleo operativo del edificio. 
+
+**A través de esta plataforma unificada se cubren los frentes más críticos:**
+- Los residentes pueden revisar sus deudas, reservar áreas comunes y leer comunicados oficiales desde una misma interfaz.
+- Los administradores y juntas cuentan con una consola web para gestionar proveedores, emitir avisos, llevar el control de accesos y visualizar el estado financiero de la comunidad de manera estructurada.
+
+A diferencia de los métodos improvisados, BuildingFex brinda flujos de trabajo claros, alineados con la ética profesional y términos de servicio transparentes, preparados para escalar desde un edificio boutique hasta un gran complejo.
+
+**El éxito de la solución se medirá en función de:**
+- La disminución de la cartera morosa gracias a la visibilidad de los pagos y recordatorios.
+- El tiempo ahorrado por las empresas administradoras al gestionar múltiples tareas desde "una sola experiencia".
+- La cantidad de suscripciones activas (MRR) en los diferentes planes (Essential, Standard, Scale).
+
+<a id="1-2-2-2-lean-ux-assumptions"></a>
+#### 1.2.2.2. Lean UX Assumptions.
+
+En esta sección se detallan las suposiciones que validarán la viabilidad y adopción de BuildingFex. Se categorizan en impactos comerciales, beneficios para el usuario y funcionalidades clave del software.
+
+##### Business Outcomes
+- Creemos que al centralizar la visibilidad de las cobranzas, reduciremos la tasa de morosidad en los condominios afiliados en un 25%.
+- Creemos que al ofrecer planes de suscripción escalonados basados en el número de departamentos, facilitaremos la adquisición de clientes de diversos tamaños.
+- Creemos que el diseño responsivo y la interfaz estandarizada reducirán los tiempos de capacitación (onboarding) para las empresas administradoras en un 40%.
+- Creemos que al proveer flujos de trabajo claros, las administradoras podrán gestionar más edificios simultáneamente, incrementando nuestra retención de clientes B2B.
+
+##### Business Outcomes Assumptions
+- Creemos que las juntas de propietarios están dispuestas a pagar entre S/ 40 y S/ 120 mensuales si perciben un incremento real en la transparencia y orden del edificio.
+- Creemos que el mercado local requiere facturación en moneda nacional (PEN) para agilizar la aprobación de presupuestos en asambleas.
+- Creemos que las agencias de administración prefieren un software unificado antes que utilizar múltiples aplicaciones desconectadas.
+
+##### User Outcomes
+- Creemos que al ofrecer un módulo digital de reservas, los residentes evitarán conflictos y malentendidos por el uso de áreas comunes.
+- Creemos que al disponer de un repositorio de documentos en la nube, los propietarios tendrán la tranquilidad de consultar reglamentos y actas cuando lo necesiten.
+- Creemos que los avisos oficiales en la plataforma mejorarán la tasa de lectura de comunicados en comparación con los correos electrónicos tradicionales.
+- Creemos que el registro digital de visitas brindará un mayor sentido de seguridad y control a toda la comunidad.
+
+##### User Outcomes Assumptions
+- Creemos que los residentes demandan una manera rápida y transparente de verificar si sus pagos han sido registrados correctamente.
+- Creemos que los comités de administración necesitan reportes consolidados para justificar sus decisiones frente a los vecinos.
+- Creemos que la estandarización de procesos de mantenimiento calmará la ansiedad de los residentes frente a desperfectos en el edificio.
+
+##### Features Assumptions
+- Creemos que incluir un sistema de recordatorios de cobro será la característica más valorada por los tesoreros.
+- Creemos que la consola web para administradores facilitará la gestión simultánea de múltiples propiedades.
+- Creemos que ofrecer soporte segmentado (email en días hábiles vs. tiempos de respuesta acordados) aportará valor diferenciado a los planes superiores.
+- Creemos que un dashboard que resuma áreas comunes, cobranzas e incidencias en "una sola vista" será el diferencial principal frente a la competencia.
+
+<a id="1-2-2-3-lean-ux-hypothesis-statements"></a>
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+
+Las siguientes hipótesis buscan validar el impacto de la adopción de BuildingFex en la operatividad de los condominios y el crecimiento del producto en el mercado.
+
+##### Hypothesis Statement #1
+- Creemos que incrementaremos la puntualidad en el pago de cuotas de mantenimiento.
+- Si las juntas de propietarios y residentes
+  - Obtienen visibilidad clara de las deudas y un sistema de recordatorios.
+- Con un módulo de "Collections" centralizado dentro de la plataforma.
+
+##### Hypothesis Statement #2
+- Creemos que optimizaremos la eficiencia del personal de administración y conserjería.
+- Si los property managers
+  - Obtienen la capacidad de gestionar visitas, solicitudes de mantenimiento y emitir anuncios masivos.
+- Con una consola web unificada que reemplaza los registros en papel y los avisos en ascensores.
+
+##### Hypothesis Statement #3
+- Creemos que reduciremos las quejas vecinales respecto al uso de las instalaciones.
+- Si los propietarios
+  - Obtienen un acceso directo a las normativas y disponibilidad de espacios.
+- Con un módulo de "Common areas" que muestra reservas, reglas y mantenimiento en una sola vista.
+
+##### Hypothesis Statement #4
+- Creemos que lograremos un rápido crecimiento comercial entre diferentes perfiles de clientes.
+- Si las comunidades de edificios
+  - Reciben opciones de precios adaptadas a su tamaño real.
+- Con una estructura de suscripción en tres niveles (Essential, Standard, Scale) basada en la cantidad de unidades.
+
+<a id="1-2-2-4-lean-ux-canvas"></a>
+#### 1.2.2.4. Lean UX Canvas.
+
+A continuación, se adjunta el Lean UX Canvas, una matriz colaborativa que nos ayuda a mapear los dolores de la administración de inmuebles con las soluciones de nuestra plataforma, estructurando el diseño de nuestros MVP y las métricas que evaluarán la adopción de los planes de suscripción.
+
+[Enlace al Lean UX Canvas de BuildingFex](https://miro.com/app/board/uXjVGk8AMJ4=/?share_link_id=471167764648)
+
+<a id="1-3-segmentos-objetivo"></a>
+## 1.3. Segmentos objetivo.
+
+La modernización del sector de la gestión de propiedades demuestra que implementar soluciones tecnológicas es fundamental no solo para llevar un control contable, sino para garantizar la armonía residencial y el mantenimiento del valor de los inmuebles. El uso de plataformas digitales elimina la fricción diaria y profesionaliza la labor de los comités vecinales.
+
+En base a la estructura de nuestra plataforma SaaS y los planes de suscripción establecidos, los segmentos objetivos de BuildingFex son:
+
+- **Segmento 1: Empresas y agencias administradoras de inmuebles (Property Managers).** Compañías que buscan escalar sus operaciones y gestionar múltiples torres residenciales o condominios bajo una misma consola web estandarizada y eficiente.
+- **Segmento 2: Juntas de propietarios de condominios y torres residenciales.** Edificios autogestionados por los propios vecinos (desde pequeñas comunidades de 10 unidades hasta complejos de 80 departamentos) que requieren organizar sus cobros, áreas comunes y comunicaciones con total transparencia y seguridad.
+
 **Capítulo II: Requirements Elicitation & Analysis**
 
 **2.1. Competidores**
