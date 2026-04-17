@@ -1170,7 +1170,9 @@ Aqui se puede ver las preguntas frecuentes acerca de la aplicacion y un boton qu
 
 **4.5 Web Applications Prototyping.**
 
-Falta Video
+Link del video: https://1drv.ms/v/c/2f673bdd57dbed09/IQB_rKkNDW1USLRHOQByi1UUAX_XYLIKf3Bej1yj7cWdlxY?e=2NKZFR
+
+![prototipovideoimg.png](../imagenes/prototipovideoimg.png)
 
 **4.6 Domain-Driven Software Architecture.**
 
