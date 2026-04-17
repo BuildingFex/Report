@@ -1450,21 +1450,29 @@ Aqui se puede ver las preguntas frecuentes acerca de la aplicacion y un boton qu
 
 **4.5 Web Applications Prototyping.**
 
-Falta Video
+Link del video: https://1drv.ms/v/c/2f673bdd57dbed09/IQB_rKkNDW1USLRHOQByi1UUAX_XYLIKf3Bej1yj7cWdlxY?e=2NKZFR
+
+![prototipovideoimg.png](../imagenes/prototipovideoimg.png)
 
 **4.6 Domain-Driven Software Architecture.**
 
-**4.6.1 Software Architecture Context Diagram**
+**4.6.1. Design-Level EventStorming**
+
+![designeventstorming1.png](../imagenes/designeventstorming1.png)
+
+![designeventstorming2.png](../imagenes/designeventstorming2.png)
+
+**4.6.2 Software Architecture Context Diagram**
 
 Este diagrama de contexto representa cómo funciona la plataforma BuildingFex: los visitantes envian consultas y revisan informacion de suscripciones, mientras que los administradores analizan las respuestas. El sistema central, la aplicacion, se conecta con un API externo para obtener datos de edificios y con Firebase Cloud Messaging para enviar notificaciones push, mostrando así el flujo de interaccion entre usuarios, la plataforma y servicios externos.
 ![contextDiagram.png](../imagenes/contextDiagram.png)
 
-**4.6.2 Software Architecture Container Diagrams**
+**4.6.3 Software Architecture Container Diagrams**
 
 Este diagrama de BuildingFex resume la estructura del sistema: los usuarios interactuan con una aplicación web Angular que envia solicitudes al API Gateway, el cual distribuye el trafico hacia tres modulos principales (reportes, contactos/marketing y planes de suscripcion), cada uno con su propia base de datos. Ademas, el sistema se conecta con un API externo para obtener datos de edificios y con Firebase para enviar notificaciones push. En conjunto, muestra cómo fluye la informacion entre usuarios, aplicación, bases de datos y servicios externos.
 ![containerdiagram.png](../imagenes/containerdiagram.png)
 
-**4.6.3 Software Architecture Components Diagrams**
+**4.6.4 Software Architecture Components Diagrams**
 
 Analytics y Reporting: 
 
@@ -1678,7 +1686,9 @@ Garantiza trazabilidad de las acciones en el sistema.
 **4.8 Database Design**
 
 **4.8.1 Database Diagram**
-
+  
+![databasediagram.png](../imagenes/databasediagram.png)
+  
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 Este capítulo documenta **únicamente el alcance de la entrega TB1** del curso: configuración del entorno y despliegue del *landing*, implementación del **Sprint 1** (landing en Vue + informe técnico en el repositorio **Report**) y evidencias de validación previstas para esa misma entrega. No incluye **sprints ni productos de entregas posteriores** (aplicación web completa, APIs, base de datos en producción, etc.); esas fases se describirán en los capítulos correspondientes cuando correspondan a **TB2** u otras entregas.
