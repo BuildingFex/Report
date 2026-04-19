@@ -234,11 +234,12 @@ Frente a esta situación, se requiere una plataforma centralizada y escalable qu
 
 | Nombre | Descripción |
 |---|---|
-| <img src="Images/Giuseppe.jpeg" width="200" alt="Foto de Giuseppe Villanueva"/> | Soy estudiante de Ingeniería de Software con un enfoque en el desarrollo de software. Me caracterizo por mi resiliencia y mi conocimiento en varias áreas de programación como el uso de .NET 8, C#, C++, JavaScript, Node, Python, HTML, Redis y SignalR. |
-| <img src="../imagenes/sebastian.png" width="200" alt="Foto de Sebastian Martin Beingolea Montalvo"/> | Me gusta el trabajo en equipo, tengo la experiencia y habilidades para el desarrolo de software. Me gusta cumplir con las fechas propuestas y ademas tengo conociemientos en base de datos, serverless, lenguajes de programacion. |
-| <img src="Images/Giuseppe.jpeg" width="200" alt="Foto de Giuseppe Villanueva"/> | Soy estudiante de Ingeniería de Software con un enfoque en el desarrollo de software. Me caracterizo por mi resiliencia y mi conocimiento en varias áreas de programación como el uso de .NET 8, C#, C++, JavaScript, Node, Python, HTML, Redis y SignalR. |
-| <img src="Images/Giuseppe.jpeg" width="200" alt="Foto de Giuseppe Villanueva"/> | Soy estudiante de Ingeniería de Software con un enfoque en el desarrollo de software. Me caracterizo por mi resiliencia y mi conocimiento en varias áreas de programación como el uso de .NET 8, C#, C++, JavaScript, Node, Python, HTML, Redis y SignalR. |
-| <img src="Images/Giuseppe.jpeg" width="200" alt="Foto de Giuseppe Villanueva"/> | Soy estudiante de Ingeniería de Software con un enfoque en el desarrollo de software. Me caracterizo por mi resiliencia y mi conocimiento en varias áreas de programación como el uso de .NET 8, C#, C++, JavaScript, Node, Python, HTML, Redis y SignalR. |
+| <img src="../imagenes/sebastian.png" width="200" alt="Foto de Sebastian Martin Beingolea Montalvo"/><br><strong>Sebastian Martin Beingolea Montalvo</strong> | Me gusta el trabajo en equipo, tengo la experiencia y habilidades para el desarrolo de software. Me gusta cumplir con las fechas propuestas y ademas tengo conociemientos en base de datos, serverless, lenguajes de programacion. |
+| <img src="../imagenes/giussepe.png" width="200" alt="Foto de Villanueva Rodríguez Giuseppe Adrián"/><br><strong>Villanueva Rodríguez Giuseppe Adrián</strong> | Soy estudiante de Ingeniería de Software con un enfoque en el desarrollo de software. Me caracterizo por mi resiliencia y mi conocimiento en varias áreas de programación como el uso de .NET 8, C#, C++, JavaScript, Node, Python, HTML, Redis y SignalR. |
+| <img src="../imagenes/saul.png" width="200" alt="Foto de Saul Ortega Muñoz"/><br><strong>Saul Ortega Muñoz</strong> | Soy estudiante de Ingeniería de Software con formación en programación y desarrollo web. Tengo conocimientos en algunos lenguajes de programacion. Me caracterizo por ser responsable, con capacidad de aprendizaje rápido y trabajo en equipo, aportando ideas prácticas para resolver problemas y mejorar proyectos tecnológicos. |
+| <img src="../imagenes/alejandro.jpeg" width="200" alt="Foto de Alejandro Manuel Jave Chang"/><br><strong>Alejandro Manuel Jave Chang</strong> | Vengo de la carrera de Ingeniería de software, me gusta explorar diversas soluciones a desafíos tecnológicos y me apasiona aprender nuevas cosas. Mi enfoque dedicado a los proyectos que me apasionan me impulsa a explorar nuevas fronteras en mi carrera. |
+| <img src="../imagenes/valentino.jpeg" width="200" alt="Foto de Valentin Nicolas Medina Mamani"/><br><strong>Valentin Nicolas Medina Mamani</strong> | Me describo como una persona curiosa y apasionada con la tecnología, lo que busco es aprender más. Actualmente tengo conocimientos de programación, base de datos y un poco de hacking ético. Finalmente al respecto sobre el trabajo en equipo soy muy puntual y responsable, además de trabajar siempre todos juntos. |
+
 
 <a id="1-2-solution-profile"></a>
 ## 1.2. Solution Profile
@@ -619,7 +620,7 @@ Explorar cómo manejan el volumen (varios edificios a la vez), cómo estandariza
 | **Apellidos** | Delgado |
 | **Edad** | 24 |
 | **Distrito** | Surco |
-| **Screenshot** | ![Entrevista 6](..imagenes/entrevista6_adrian.png) |
+| **Screenshot** |  ![Vercel — evidencia 1](../imagenes/entrevista6.jpeg)  |
 | **URL** | [upc-pre-202610-1asi0730-6818-BuildingFex-needfinding-sprint-6.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312510_upc_edu_pe/IQCU3cNsBGklT4-T2l_crjfeAfIA-zu4Aj5K_0AmkObByA8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=12dNB5) |
 | **Duración** | 17:04 |
 | **Resumen** | Adrián es un Asistente de Operaciones de 24 años que actúa como el brazo ejecutor y la mano derecha en la gestión de 18 edificios. A diferencia de un perfil tradicional, es un nativo digital que sufre con los procesos analógicos de su propia empresa. Su día a día es altamente reactivo y caótico: pasa horas persiguiendo comprobantes de pago, actualizando hojas de cálculo desde su celular y actuando como mediador en conflictos por reservas mal anotadas. Ve en la adopción de una plataforma moderna la clave no solo para automatizar su carga operativa (y recuperar su tiempo libre), sino para mejorar radicalmente la experiencia del residente, un factor que ya les ha costado contratos en el pasado por parecer "anticuados". |
@@ -1856,24 +1857,6 @@ El equipo trabajó con **ramas por funcionalidad** y **pull requests** para inte
 
 ![Network — colaboración](../imagenes/network-landingpage.png)
 
-**5.3. Validation Interviews *(TB1)***
-
-Esta sección se limita a lo que corresponde validar o registrar **dentro del alcance de la TB1** (p. ej. revisión de la landing desplegada o criterios de usabilidad acordados con el curso). Entregas posteriores al **TB1** no se documentan aquí.
-
-**5.3.1. Diseño de entrevistas**
-
-*(Las entrevistas de validación del producto se documentan alineando con el diseño de entrevistas del Capítulo II y los criterios de usabilidad definidos para el TB1.)*
-
-**5.3.2. Registro de entrevistas**
-
-*(Registro de sesiones, enlaces a grabaciones y síntesis por participante — dentro del alcance TB1.)*
-
-**5.3.3. Validación según heurísticas**
-
-*(Evaluación heurística de la landing desplegada o prototipo según Nielsen u otro marco acordado, con hallazgos y severidad — solo en lo que aplique a la TB1.)*
-
----
-
 ## Bibliografía
 
 Enlaces y plataformas utilizadas por el equipo durante el proyecto **BuildingFex** (planificación, código, despliegue y documentación colaborativa).
@@ -1913,11 +1896,6 @@ Compendio de **evidencias gráficas** citadas en el informe. Las figuras **perma
 - ![Commits — repositorio Landing Page](../imagenes/aaaaaa.png)
 - ![Network — repositorio Report](../imagenes/network-report.png)
 - ![Network — repositorio Landing Page](../imagenes/network-landingpage.png)
-
-### Anexo C — Fotografías de integrantes
-
-- ![Foto de Giuseppe Villanueva](Images/Giuseppe.jpeg)
-- ![Foto de Sebastian Martin Beingolea Montalvo](../imagenes/sebastian.png)
 
 ### Anexo D — Registro visual de entrevistas
 
@@ -2002,6 +1980,4 @@ Compendio de **evidencias gráficas** citadas en el informe. Las figuras **perma
 - ![Vercel — evidencia 1](../imagenes/vercel1.png)
 - ![Vercel — evidencia 2](../imagenes/vercel2.png)
 - ![Vercel — evidencia 3](../imagenes/vercel3.png)
-
-*Las capturas de commits y el grafo de red (*network graph*) del landing y del reporte que se usan también en el capítulo de colaboración del sprint figuran en **Anexo B** (`aaaaaa.png`, `commit-repo.png`, `network-landingpage.png`, etc.).*
 
