@@ -107,15 +107,15 @@ Gráfico de actividad durante la preparación del TB1. Los commits reflejan prog
 ---
 
 <a id="studentoutcome-rubrica-tb1"></a>
-## Student Outcome
+## ABET – EAC - Student Outcome 5
 
 En esta sección se presenta la relación entre el trabajo realizado por el equipo y las dimensiones del Student Outcome establecido. Cada integrante ha colaborado en la redacción conjunta de los sustentos y evidencias que demuestran cómo las actividades desarrolladas en la **TB1** han contribuido al logro de este objetivo. A través de las acciones individuales y colectivas, se busca evidenciar de manera clara y organizada el impacto del proyecto en el desarrollo de las competencias señaladas.
 
 
 | Criterio específico | Acciones realizadas (TB1) | Conclusiones |
-| --- | --- | --- |
-| **4.c.1** Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software | **Sebastian Martin Beingolea Montalvo — U202217853**<br>**TB1:** Gracias a la TB1 pude mejorar mi comunicación oral, ya que tuve que explicar ideas en reuniones de equipo y presentar avances del proyecto a personas externas.<br><br>**Villanueva Rodríguez Giuseppe Adrián — U20221c554**<br>**TB1:** La TB1 me permitió desarrollar habilidades para expresar y defender mis puntos de vista en reuniones con el equipo y en presentaciones generales del proyecto.<br><br>**Saul Ortega Muñoz — U20231c019**<br>**TB1:** Gracias a la TB1 practiqué cómo comunicarme verbalmente con efectividad tanto en discusiones internas con el equipo como en presentaciones externas.<br><br>**Alejandro Manuel Jave Chang — U202312510**<br>**TB1:** Gracias a la TB1 he podido desarrollar mi comunicación oral, ya sea al momento de tener que llegar a un acuerdo con mi equipo o al tener que exponer y explicar mi trabajo frente a personas ajenas al proyecto.<br><br>**Valentin Nicolas Medina Mamani — U202316829**<br>**TB1:** Participar en la TB1 me ayudó a expresarme mejor durante las reuniones y a comunicar avances del proyecto de manera entendible para todos. | **Conclusión grupal:** Como grupo, concluimos que las actividades realizadas durante la TB1 fueron fundamentales para comenzar a consolidar nuestras habilidades de comunicación oral en diversos contextos. En esta etapa inicial avanzamos en expresarnos con mayor claridad y en adaptar nuestro lenguaje según la audiencia (técnica o de negocio), fortaleciendo la base para seguir desarrollando el proyecto en las siguientes entregas del curso. |
-| **4.c.2** Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales | **Sebastian Martin Beingolea Montalvo — U202217853**<br>**TB1:** Durante el proyecto tuve que comunicarme constantemente por escrito, lo que me ayudó a expresar mis ideas de manera clara y precisa para mi equipo y otras áreas interesadas.<br><br>**Villanueva Rodríguez Giuseppe Adrián — U20221c554**<br>**TB1:** Aprendí a redactar mensajes y reportes con información clara y organizada para distintos públicos involucrados en el proyecto.<br><br>**Saul Ortega Muñoz — U20231c019**<br>**TB1:** Tuve que elaborar comunicaciones escritas dirigidas a diferentes personas, lo que mejoró mi habilidad para transmitir ideas de manera breve y clara.<br><br>**Alejandro Manuel Jave Chang — U202312510**<br>**TB1:** Al hacer el desarrollo de este proyecto no podía estar comunicándome verbalmente con mi equipo todo el tiempo, así que tuve que empezar a comunicar mis ideas de manera escrita de forma concisa y clara, no solo con mensajes para mi equipo sino también para comunicarme con distintas personas que no podía hacerlo en persona.<br><br>**Valentin Nicolas Medina Mamani — U202316829**<br>**TB1:** Durante el proyecto aprendí a sintetizar información y a transmitirla por escrito a diferentes audiencias de manera efectiva. | **Conclusión grupal:** Concluimos que durante la TB1 la comunicación escrita fue esencial para la coordinación del equipo y el avance del informe. Aprendimos a estructurar nuestras ideas de manera clara y a adaptar nuestros entregables a distintos destinatarios, sentando las bases para una trazabilidad y una colaboración eficientes en las fases siguientes del proyecto. |
+| :--- | :--- | :--- |
+| **5.c.1** Funciona eficazmente en un equipo compartiendo el liderazgo y creando un entorno colaborativo e inclusivo. | **Sebastian Martin Beingolea Montalvo — U202217853**<br>**TB1:** Durante la TB1, fomenté la participación activa de todos los miembros, asegurando que cada integrante tuviera un rol claro en el desarrollo y que las decisiones técnicas se tomaran por consenso.<br><br>**Villanueva Rodríguez Giuseppe Adrián — U20221c554**<br>**TB1:** Promoví un ambiente inclusivo donde se valoraron las sugerencias de mejora de cada compañero, facilitando la resolución de dudas grupales de manera conjunta.<br><br>**Saul Ortega Muñoz — U20231c019**<br>**TB1:** Colaboré activamente en la mediación de ideas durante las reuniones, asegurando que el equipo se mantuviera unido y enfocado en el bienestar colectivo del proyecto.<br><br>**Alejandro Manuel Jave Chang — U202312510**<br>**TB1:** Apoyé en la integración de las diferentes propuestas del equipo, fomentando un clima de respeto y apoyo mutuo para que todos pudiéramos aportar desde nuestras fortalezas.<br><br>**Valentin Nicolas Medina Mamani — U202316829**<br>**TB1:** Participé en la organización de las sesiones de trabajo, ayudando a que la comunicación entre nosotros fuera fluida y que nadie se quedara atrás en el avance del informe. | **Conclusión grupal:** Como grupo, concluimos que la TB1 fortaleció nuestra capacidad de liderazgo compartido. Logramos establecer un entorno colaborativo donde la inclusión y el respeto por las opiniones diversas permitieron consolidar una estructura de equipo sólida, fundamental para el éxito de las próximas fases del proyecto. |
+| **5.c.2** Establece metas, planifica tareas y cumple objetivos. | **Sebastian Martin Beingolea Montalvo — U202217853**<br>**TB1:** Definí los hitos principales del backlog para la TB1 y cumplí con la entrega de mis componentes de software e imágenes en los plazos acordados para evitar cuellos de botella.<br><br>**Villanueva Rodríguez Giuseppe Adrián — U20221c554**<br>**TB1:** Organicé mis tareas individuales siguiendo el cronograma grupal, asegurando que cada entrega cumpliera con los estándares de calidad requeridos por el equipo.<br><br>**Saul Ortega Muñoz — U20231c019**<br>**TB1:** Realicé un seguimiento constante de los objetivos de la TB1, ajustando mis tiempos de trabajo para garantizar que el informe final se completara antes de la fecha límite.<br><br>**Alejandro Manuel Jave Chang — U202312510**<br>**TB1:** Participé en la estimación de tiempos para las tareas asignadas y cumplí responsablemente con mis entregables, permitiendo una integración de componentes sin retrasos.<br><br>**Valentin Nicolas Medina Mamani — U202316829**<br>**TB1:** Me enfoqué en alcanzar las metas semanales establecidas, planificando mis actividades diarias para contribuir de manera puntual al progreso general del reporte. | **Conclusión grupal:** Concluimos que el éxito de la TB1 se basó en una planificación estructurada y el compromiso individual con las metas grupales. El uso de herramientas de gestión y el cumplimiento estricto de los plazos permitieron alcanzar los objetivos trazados, estableciendo un flujo de trabajo eficiente para el futuro. |
 
 
 
@@ -205,11 +205,9 @@ En esta sección se presenta la relación entre el trabajo realizado por el equi
 
 ### Bibliografía
 
-*(Contenido según el cuerpo del informe.)*
 
 ### Anexos
 
-*(Contenido según el cuerpo del informe.)*
 
 ---
 
@@ -1689,7 +1687,6 @@ El código fuente y el informe se versionan en GitHub: [BuildingFex — Report](
 | **JavaScript / TypeScript** | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) | Uso de `const` y `let` en lugar de `var`, funciones flecha, desestructuración, módulos ES6 (`import`/`export`), nombres en `lowerCamelCase`, tipado explícito cuando aplica, y organización por carpetas (`components/`, `services/`, `utils/`, etc.). |
 | **Vue.js** | [Vue.js — Style Guide](https://vuejs.org/style-guide/) | Componentes en `PascalCase`, nombres de archivo alineados a la guía oficial, separación clara de plantilla, script y estilos (p. ej. SFC), uso coherente de Composition API u Options API, `props`/`emits` definidos, estructura por carpetas (`components/`, `views/`, `composables/` o `assets/`), e internacionalización con recursos en `src` cuando aplique. |
 
-*Nota TB1:* En esta entrega solo se implementa el *frontend* del *landing*; convenciones de backend (Java, Spring, etc.) no forman parte del código desarrollado en la **TB1** y se aplicarán en fases posteriores del proyecto.
 
 Además, se aplica **Conventional Commits** para los mensajes de Git, en inglés, con formato:
 
@@ -1750,7 +1747,7 @@ En esta sección se presentan los aspectos funcionales y técnicos abordados dur
 - **DO**: *Deployment & hosting* — Despliegue del *landing* y verificación de URL pública.
 - **RI**: *Repository initialization* — Organización del repositorio [**LandingPage**](https://github.com/BuildingFex/LandingPage.git), `README`, `.gitignore` y convenciones.
 
-> *Nota:* Todos los integrantes participaron en los distintos frentes; los líderes facilitan decisiones y trazabilidad.
+
 
 ### 5.2.1.3. Sprint Backlog 1
 
@@ -1793,7 +1790,6 @@ Durante este *Sprint* el equipo avanzó en la **Landing Page de BuildingFex** de
 | `BuildingFex/LandingPage` | `feature/i18n` | *(hash)* | `feat(i18n): language toggle and copy` | Soporte de idioma / textos según alcance. | *(fecha)* |
 | `BuildingFex/LandingPage` | `main` | *(hash)* | `docs(landing): update README with run instructions` | Documentación de uso y despliegue. | *(fecha)* |
 
-> **Nota:** Sustituir `*(hash)*` y fechas por los valores reales exportados desde GitHub para la entrega.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -1849,7 +1845,6 @@ El sitio incluye las secciones desarrolladas para la **TB1** dentro del *Sprint 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
-El equipo trabajó con **ramas por funcionalidad** y **pull requests** para integrar cambios sin bloquearse mutuamente. A continuación, evidencias de colaboración en GitHub (commits, *network graph*).
 
 ![Commits — evidencia 1](../imagenes/aaaaaa.png)
 
