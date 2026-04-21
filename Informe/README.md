@@ -2,6 +2,8 @@
 
 **Universidad Peruana de Ciencias Aplicadas**
 
+<img src="../imagenes/upc.png" width="200" alt="Universidad"/>
+
 | | |
 | --- | --- |
 | **Curso** | Ingeniería de Software |
@@ -80,42 +82,44 @@ Durante el desarrollo del informe se siguieron estos lineamientos:
 - Los contenidos asignados a cada miembro fueron redactados en **Markdown**, con presentación clara y estandarizada.
 - Cada cambio quedó respaldado con **commits** en el repositorio (trazabilidad y control de versiones).
 - Se crearon los artefactos con las herramientas recomendadas.
-- Las imágenes se obtuvieron desde la carpeta `assets` o desde **Imgur** para su integración en el informe.
+- Las imágenes se obtuvieron desde la carpeta `imagenes`. 
 - Hubo reuniones periódicas para coordinar el informe y el avance del **Sprint 1** (alcance inicial y diseño preliminar).
 
 Los cambios están alineados con el **Registro de versiones** y reflejan el trabajo colaborativo del equipo.
 
 Este historial coincide con el trabajo del TB1 y muestra el avance continuo y colaborativo del informe.
 
-#### Actividad en GitHub — TB1 (septiembre 2025)
+#### Actividad en GitHub 
 
 Gráfico de actividad durante la preparación del TB1. Los commits reflejan progreso constante y colaboración entre integrantes.
 
 | Evidencia | Descripción |
 | --- | --- |
-| Actividad TB-1 Report (BuildingFex) | ![Actividad en el repositorio del reporte](../imagenes/github-repositorio-buildingfex.png) |
-| Actividad TB-1 Landing (BuildingFex) | *(pendiente: captura del repositorio del landing)* |
-| Commits TB-1 Report | *(pendiente: captura de commits del reporte)* |
-| Network TB-1 | *(pendiente: network graph del reporte)* |
-| Network TB-1 Landing | *(pendiente: network graph del landing)* |
+| Actividad TB-1 Report (BuildingFex) | ![Actividad en el repositorio del reporte](../imagenes/repo-git.png) |
+| Actividad TB-1 Landing (BuildingFex) | ![Actividad en el repositorio del reporte](../imagenes/Landing-page-repo.png) |
+| Commits TB-1 Report | ![Actividad en el repositorio del reporte](../imagenes/commit-repo.png) |
+| Commits TB-1 Landing-Page | ![Actividad en el repositorio del reporte](../imagenes/aaaaaa.png) |
+| Network TB-1 Report | ![Actividad en el repositorio del reporte](../imagenes/network-report.png) |
+| Network TB-1 Landing page | ![Actividad en el repositorio del reporte](../imagenes/network-landingpage.png) |
 
-*Nota: las rutas de imagen son relativas a este archivo; convención `![descripción](../imagenes/archivo.png)`.*
+
 
 ---
 
-## Contenido
+<a id="studentoutcome-rubrica-tb1"></a>
+## ABET – EAC - Student Outcome 5
 
-### Registro de versiones del informe
+En esta sección se presenta la relación entre el trabajo realizado por el equipo y las dimensiones del Student Outcome establecido. Cada integrante ha colaborado en la redacción conjunta de los sustentos y evidencias que demuestran cómo las actividades desarrolladas en la **TB1** han contribuido al logro de este objetivo. A través de las acciones individuales y colectivas, se busca evidenciar de manera clara y organizada el impacto del proyecto en el desarrollo de las competencias señaladas.
 
-*(Sección anterior en este documento.)*
 
-### Project Report Collaboration Insights
+| Criterio específico | Acciones realizadas (TB1) | Conclusiones |
+| :--- | :--- | :--- |
+| **5.c.1** Funciona eficazmente en un equipo compartiendo el liderazgo y creando un entorno colaborativo e inclusivo. | **Sebastian Martin Beingolea Montalvo — U202217853**<br>**TB1:** Durante la TB1, fomenté la participación activa de todos los miembros, asegurando que cada integrante tuviera un rol claro en el desarrollo y que las decisiones técnicas se tomaran por consenso.<br><br>**Villanueva Rodríguez Giuseppe Adrián — U20221c554**<br>**TB1:** Promoví un ambiente inclusivo donde se valoraron las sugerencias de mejora de cada compañero, facilitando la resolución de dudas grupales de manera conjunta.<br><br>**Saul Ortega Muñoz — U20231c019**<br>**TB1:** Colaboré activamente en la mediación de ideas durante las reuniones, asegurando que el equipo se mantuviera unido y enfocado en el bienestar colectivo del proyecto.<br><br>**Alejandro Manuel Jave Chang — U202312510**<br>**TB1:** Apoyé en la integración de las diferentes propuestas del equipo, fomentando un clima de respeto y apoyo mutuo para que todos pudiéramos aportar desde nuestras fortalezas.<br><br>**Valentin Nicolas Medina Mamani — U202316829**<br>**TB1:** Participé en la organización de las sesiones de trabajo, ayudando a que la comunicación entre nosotros fuera fluida y que nadie se quedara atrás en el avance del informe. | **Conclusión grupal:** Como grupo, concluimos que la TB1 fortaleció nuestra capacidad de liderazgo compartido. Logramos establecer un entorno colaborativo donde la inclusión y el respeto por las opiniones diversas permitieron consolidar una estructura de equipo sólida, fundamental para el éxito de las próximas fases del proyecto. |
+| **5.c.2** Establece metas, planifica tareas y cumple objetivos. | **Sebastian Martin Beingolea Montalvo — U202217853**<br>**TB1:** Definí los hitos principales del backlog para la TB1 y cumplí con la entrega de mis componentes de software e imágenes en los plazos acordados para evitar cuellos de botella.<br><br>**Villanueva Rodríguez Giuseppe Adrián — U20221c554**<br>**TB1:** Organicé mis tareas individuales siguiendo el cronograma grupal, asegurando que cada entrega cumpliera con los estándares de calidad requeridos por el equipo.<br><br>**Saul Ortega Muñoz — U20231c019**<br>**TB1:** Realicé un seguimiento constante de los objetivos de la TB1, ajustando mis tiempos de trabajo para garantizar que el informe final se completara antes de la fecha límite.<br><br>**Alejandro Manuel Jave Chang — U202312510**<br>**TB1:** Participé en la estimación de tiempos para las tareas asignadas y cumplí responsablemente con mis entregables, permitiendo una integración de componentes sin retrasos.<br><br>**Valentin Nicolas Medina Mamani — U202316829**<br>**TB1:** Me enfoqué en alcanzar las metas semanales establecidas, planificando mis actividades diarias para contribuir de manera puntual al progreso general del reporte. | **Conclusión grupal:** Concluimos que el éxito de la TB1 se basó en una planificación estructurada y el compromiso individual con las metas grupales. El uso de herramientas de gestión y el cumplimiento estricto de los plazos permitieron alcanzar los objetivos trazados, estableciendo un flujo de trabajo eficiente para el futuro. |
 
-*(Sección anterior en este documento.)*
 
-### Student Outcome
 
-*(Ver sección [Student Outcome](#student-outcome).)*
+### CONTENIDO
 
 ### Capítulo I: Introducción
 
@@ -201,65 +205,203 @@ Gráfico de actividad durante la preparación del TB1. Los commits reflejan prog
 
 ### Bibliografía
 
-*(Contenido según el cuerpo del informe.)*
 
 ### Anexos
 
-*(Contenido según el cuerpo del informe.)*
 
 ---
 
-## Student Outcome
 
-En esta sección se presenta la relación entre el trabajo realizado por el equipo y las dimensiones del Student Outcome establecido. Cada integrante ha colaborado en la redacción conjunta de los sustentos y evidencias que demuestran cómo las actividades desarrolladas en la **TB1** han contribuido al logro de este objetivo. A través de las acciones individuales y colectivas, se busca evidenciar de manera clara y organizada el impacto del proyecto en el desarrollo de las competencias señaladas.
+<a id="capitulo-i-introduccion"></a>
+# Capítulo I: Introducción
 
-### Comunica oralmente con efectividad a diferentes rangos de audiencia
+<a id="1-1-startup-profile"></a>
+## 1.1. Startup Profile
 
-#### Alejandro Manuel Jave Chang
+<a id="1-1-1-descripcion-de-la-startup"></a>
+### 1.1.1. Descripción de la Startup
 
-**TB1:** Gracias a la TB1 he podido desarrollar mi comunicación oral, ya sea al momento de tener que llegar a un acuerdo con mi equipo o al tener que exponer y explicar mi trabajo frente a personas ajenas al proyecto.
+La administración de condominios y torres residenciales implica gestionar múltiples procesos críticos: desde el control de las finanzas y la recaudación de cuotas, hasta el mantenimiento de las instalaciones y la comunicación con los residentes. Tradicionalmente, estas operaciones se manejan de forma fragmentada, utilizando hojas de cálculo, correos electrónicos y grupos de mensajería, lo que genera desorden, retrasos en los pagos y falta de transparencia.
 
-#### Sebastian Martin Beingolea Montalvo
+A pesar de que existen algunas herramientas digitales en el mercado, muchas de ellas resultan demasiado complejas para los comités de administración o no ofrecen una experiencia unificada tanto para el gestor como para el residente. Esto provoca que la información sobre normativas, actas o estados de cuenta no sea fácilmente accesible para la comunidad.
 
-**TB1:** Gracias a la TB1 pude mejorar mi comunicación oral, ya que tuve que explicar ideas en reuniones de equipo y presentar avances del proyecto a personas externas.
+Frente a esta situación, se requiere una plataforma centralizada y escalable que simplifique estas operaciones. Una solución en la nube que integre la gestión de áreas comunes, cobranzas, mantenimiento y comunicados en un solo entorno, mejorando la convivencia, optimizando el tiempo de los administradores y brindando total visibilidad a las juntas de propietarios.
 
-#### Villanueva Rodríguez Giuseppe Adrián
+<a id="1-1-2-perfiles-de-integrantes-del-equipo"></a>
+### 1.1.2. Perfiles de integrantes del equipo
 
-**TB1:** La TB1 me permitió desarrollar habilidades para expresar y defender mis puntos de vista en reuniones con el equipo y en presentaciones generales del proyecto.
+| Nombre | Descripción |
+|---|---|
+| <img src="../imagenes/sebastian.png" width="200" alt="Foto de Sebastian Martin Beingolea Montalvo"/><br><strong>Sebastian Martin Beingolea Montalvo</strong> | Me gusta el trabajo en equipo, tengo la experiencia y habilidades para el desarrolo de software. Me gusta cumplir con las fechas propuestas y ademas tengo conociemientos en base de datos, serverless, lenguajes de programacion. |
+| <img src="../imagenes/giussepe.png" width="200" alt="Foto de Villanueva Rodríguez Giuseppe Adrián"/><br><strong>Villanueva Rodríguez Giuseppe Adrián</strong> | Soy estudiante de Ingeniería de Software con un enfoque en el desarrollo de software. Me caracterizo por mi resiliencia y mi conocimiento en varias áreas de programación como el uso de .NET 8, C#, C++, JavaScript, Node, Python, HTML, Redis y SignalR. |
+| <img src="../imagenes/saul.png" width="200" alt="Foto de Saul Ortega Muñoz"/><br><strong>Saul Ortega Muñoz</strong> | Soy estudiante de Ingeniería de Software con formación en programación y desarrollo web. Tengo conocimientos en algunos lenguajes de programacion. Me caracterizo por ser responsable, con capacidad de aprendizaje rápido y trabajo en equipo, aportando ideas prácticas para resolver problemas y mejorar proyectos tecnológicos. |
+| <img src="../imagenes/alejandro.jpeg" width="200" alt="Foto de Alejandro Manuel Jave Chang"/><br><strong>Alejandro Manuel Jave Chang</strong> | Vengo de la carrera de Ingeniería de software, me gusta explorar diversas soluciones a desafíos tecnológicos y me apasiona aprender nuevas cosas. Mi enfoque dedicado a los proyectos que me apasionan me impulsa a explorar nuevas fronteras en mi carrera. |
+| <img src="../imagenes/valentino.jpeg" width="200" alt="Foto de Valentin Nicolas Medina Mamani"/><br><strong>Valentin Nicolas Medina Mamani</strong> | Me describo como una persona curiosa y apasionada con la tecnología, lo que busco es aprender más. Actualmente tengo conocimientos de programación, base de datos y un poco de hacking ético. Finalmente al respecto sobre el trabajo en equipo soy muy puntual y responsable, además de trabajar siempre todos juntos. |
 
-#### Saul Ortega Muñoz
 
-**TB1:** Gracias a la TB1 practiqué cómo comunicarme verbalmente con efectividad tanto en discusiones internas con el equipo como en presentaciones externas.
+<a id="1-2-solution-profile"></a>
+## 1.2. Solution Profile
 
-#### Valentin Nicolas Medina Mamani
+El nombre de nuestro producto es **“BuildingFex”**. Este término fusiona la palabra inglesa "Building" (edificio), haciendo referencia directa a nuestro rubro inmobiliario, con "Fex", que evoca un sentido de eficiencia, agilidad y flexibilidad operativa. Este nombre transmite la misión principal de la plataforma: modernizar y agilizar las operaciones de los condominios y torres residenciales bajo un ecosistema robusto y profesional.
 
-**TB1:** Participar en la TB1 me ayudó a expresarme mejor durante las reuniones y a comunicar avances del proyecto de manera entendible para todos.
+**Product Description:** BuildingFex es una plataforma SaaS (Software as a Service) integral diseñada para juntas de propietarios y empresas administradoras. El sistema unifica la operatividad del edificio ofreciendo una misma experiencia fluida tanto en la aplicación web como en la versión móvil. 
 
-> **Conclusión grupal:** Como grupo, concluimos que las actividades realizadas durante la TB1 fueron fundamentales para comenzar a consolidar nuestras habilidades de comunicación oral en diversos contextos. En esta etapa inicial avanzamos en expresarnos con mayor claridad y en adaptar nuestro lenguaje según la audiencia (técnica o de negocio), fortaleciendo la base para seguir desarrollando el proyecto en las siguientes entregas del curso.
+El software centraliza las siguientes operaciones clave:
+- **Áreas Comunes:** Gestión de reservas, reglas y mantenimiento en una sola vista.
+- **Cobranzas (Collections):** Visibilidad de pagos, cuotas y recordatorios para los residentes, disminuyendo la morosidad.
+- **Mantenimiento:** Registro de solicitudes, control de proveedores y estado de las reparaciones de todo el edificio.
+- **Comunicados y Documentos:** Emisión de avisos oficiales y un repositorio seguro para actas, reglamentos y archivos de la comunidad.
+- **Accesos y Visitas:** Registros alineados con las políticas de seguridad del edificio.
 
-### Comunica por escrito con efectividad a diferentes rangos de audiencia
+De esta forma, BuildingFex garantiza una entrega de servicio responsable y estandarizada, guiada por normativas éticas y de transparencia para toda la comunidad.
 
-#### Alejandro Manuel Jave Chang
+**Monetización:** El modelo de negocio es B2B, basado en suscripciones mensuales (SaaS) facturadas en Soles Peruanos (PEN). Los planes están diseñados para escalar según el tamaño del condominio:
 
-**TB1:** Al hacer el desarrollo de este proyecto no podía estar comunicándome verbalmente con mi equipo todo el tiempo, así que tuve que empezar a comunicar mis ideas de manera escrita de forma concisa y clara, no solo con mensajes para mi equipo sino también para comunicarme con distintas personas que no podía hacerlo en persona.
+- **Plan Essential (S/ 40 al mes):** Dirigido a edificios pequeños o condominios boutique (10 a 15 departamentos). Incluye la consola web, gestión de áreas comunes, cobranzas, comunicados, documentos, registro de visitas y soporte por correo en días hábiles.
+- **Plan Standard (S/ 80 al mes):** Diseñado para torres medianas y comunidades activas (16 a 40 departamentos). Suma a lo anterior una mayor capacidad, visibilidad más clara de deudas, notificaciones masivas para residentes y soporte operativo prioritario.
+- **Plan Scale (S/ 120 al mes):** Enfocado en grandes complejos y portafolios de gran altura (41 a 80 departamentos). Incluye reportes avanzados para comités grandes, asistencia en la implementación (onboarding) y canales de soporte con tiempos de respuesta acordados.
 
-#### Sebastian Martin Beingolea Montalvo
+<a id="1-2-1-antecedentes-y-problematica"></a>
+### 1.2.1. Antecedentes y problemática
 
-**TB1:** Durante el proyecto tuve que comunicarme constantemente por escrito, lo que me ayudó a expresar mis ideas de manera clara y precisa para mi equipo y otras áreas interesadas.
+**Descripción de la problemática**
+El problema central se encuentra en la ineficiencia logística y financiera que sufren las administraciones de inmuebles al no contar con un flujo de trabajo centralizado. La dependencia de procesos manuales dificulta el seguimiento de la morosidad, genera conflictos en la reserva de espacios compartidos y propicia la pérdida de información histórica del edificio (como actas o contratos con proveedores). 
 
-#### Villanueva Rodríguez Giuseppe Adrián
+Esta carencia de tecnología perjudica tanto a las empresas administradoras, que ven limitada su capacidad de gestionar más propiedades, como a los propietarios, que perciben una falta de transparencia sobre cómo se invierte su dinero y cómo se gestionan las incidencias del día a día.
 
-**TB1:** Aprendí a redactar mensajes y reportes con información clara y organizada para distintos públicos involucrados en el proyecto.
+**Objetivos**
+- Desarrollar una plataforma SaaS que unifique la administración de finanzas, operaciones y comunicaciones de los edificios.
+- Facilitar la visibilidad de los pagos y automatizar los recordatorios para reducir los índices de morosidad.
+- Proveer un sistema transparente de reportes y almacenamiento de documentos accesibles para la comunidad.
+- Escalar la capacidad operativa de los property managers mediante flujos de trabajo claros y estandarizados.
 
-#### Saul Ortega Muñoz
+**Restricciones**
+- La plataforma depende de la conexión a internet para la sincronización de datos en tiempo real entre la aplicación web y los usuarios.
+- La adopción del sistema requiere un cambio de hábitos en los residentes, especialmente en aquellos menos familiarizados con herramientas digitales.
+- La gestión de datos financieros y personales exige altos estándares de seguridad y protección de la privacidad.
 
-**TB1:** Tuve que elaborar comunicaciones escritas dirigidas a diferentes personas, lo que mejoró mi habilidad para transmitir ideas de manera breve y clara.
+**Antecedentes**
+- **Administración tradicional:** El uso de herramientas genéricas como Excel y WhatsApp domina el mercado actual. Aunque son de bajo costo, no escalan, carecen de seguridad de datos y no ofrecen transparencia financiera en tiempo real.
+- **Sistemas contables genéricos:** Existen programas de contabilidad robustos, pero no están enfocados en la convivencia comunitaria, dejando de lado módulos esenciales como la reserva de áreas comunes o el control de visitas.
+- **Plataformas extranjeras:** Hay soluciones PropTech en otros países, pero sus planes de suscripción suelen ser elevados (facturados en dólares) y no siempre se adaptan a las dinámicas residenciales locales.
 
-#### Valentin Nicolas Medina Mamani
+**Herramienta de 5W y 2H**
+- **What - ¿Cuál es el problema?**
+  - La gestión dispersa, poco transparente y manual de las operaciones y cobranzas en condominios y torres residenciales.
+- **When - ¿Cuándo sucede el problema?**
+  - Ocurre constantemente en el registro de visitas e incidencias diarias, y se agudiza a fin de mes durante los procesos de facturación y conciliación de pagos.
+- **Where - ¿Dónde surge el problema?**
+  - En la administración interna de edificios de departamentos y complejos residenciales.
+- **Who - ¿Quiénes son afectados por el problema?**
+  - Las empresas administradoras, las juntas de propietarios, los conserjes y, en última instancia, los residentes.
+- **Why - ¿Cuál es la causa del problema?**
+  - La falta de adopción de plataformas centralizadas y la dependencia de métodos informales para la comunicación y contabilidad.
+- **How - ¿Cómo se manifiesta el problema?**
+  - Mediante altos índices de pagos atrasados, desinformación sobre las normativas del edificio, cruces en reservas de áreas comunes y demoras en el mantenimiento.
+- **How much - ¿Cuál es la magnitud del problema?**
+  - Afecta directamente la salud financiera del condominio y genera horas de trabajo no productivo para los administradores, limitando el crecimiento de sus portafolios.
 
-**TB1:** Durante el proyecto aprendí a sintetizar información y a transmitirla por escrito a diferentes audiencias de manera efectiva.
+<a id="1-2-2-lean-ux-process"></a>
+### 1.2.2. Lean UX Process.
 
-> **Conclusión grupal:** Concluimos que durante la TB1 la comunicación escrita fue esencial para la coordinación del equipo y el avance del informe. Aprendimos a estructurar nuestras ideas de manera clara y a adaptar nuestros entregables a distintos destinatarios, sentando las bases para una trazabilidad y una colaboración eficientes en las fases siguientes del proyecto.
+<a id="1-2-2-1-lean-ux-problem-statements"></a>
+#### 1.2.2.1. Lean UX Problem Statements.
+
+La operación diaria de torres residenciales ha recaído históricamente en el esfuerzo manual de los administradores y en canales de comunicación no oficiales. Este enfoque, aunque funcional para edificios muy pequeños, genera cuellos de botella en la recaudación de cuotas, pérdida de trazabilidad en las reparaciones y frustración entre los propietarios por la falta de transparencia.
+
+Debido a esto, los ecosistemas de gestión actuales están desconectados. Los administradores no tienen una única vista para controlar las áreas comunes y las finanzas al mismo tiempo, lo que reduce su capacidad de respuesta y profesionalismo.
+
+Nuestro producto resuelve esta fricción al ofrecer BuildingFex, una plataforma centralizada que actúa como el núcleo operativo del edificio. 
+
+**A través de esta plataforma unificada se cubren los frentes más críticos:**
+- Los residentes pueden revisar sus deudas, reservar áreas comunes y leer comunicados oficiales desde una misma interfaz.
+- Los administradores y juntas cuentan con una consola web para gestionar proveedores, emitir avisos, llevar el control de accesos y visualizar el estado financiero de la comunidad de manera estructurada.
+
+A diferencia de los métodos improvisados, BuildingFex brinda flujos de trabajo claros, alineados con la ética profesional y términos de servicio transparentes, preparados para escalar desde un edificio boutique hasta un gran complejo.
+
+**El éxito de la solución se medirá en función de:**
+- La disminución de la cartera morosa gracias a la visibilidad de los pagos y recordatorios.
+- El tiempo ahorrado por las empresas administradoras al gestionar múltiples tareas desde "una sola experiencia".
+- La cantidad de suscripciones activas (MRR) en los diferentes planes (Essential, Standard, Scale).
+
+<a id="1-2-2-2-lean-ux-assumptions"></a>
+#### 1.2.2.2. Lean UX Assumptions.
+
+En esta sección se detallan las suposiciones que validarán la viabilidad y adopción de BuildingFex. Se categorizan en impactos comerciales, beneficios para el usuario y funcionalidades clave del software.
+
+##### Business Outcomes
+- Creemos que al centralizar la visibilidad de las cobranzas, reduciremos la tasa de morosidad en los condominios afiliados en un 25%.
+- Creemos que al ofrecer planes de suscripción escalonados basados en el número de departamentos, facilitaremos la adquisición de clientes de diversos tamaños.
+- Creemos que el diseño responsivo y la interfaz estandarizada reducirán los tiempos de capacitación (onboarding) para las empresas administradoras en un 40%.
+- Creemos que al proveer flujos de trabajo claros, las administradoras podrán gestionar más edificios simultáneamente, incrementando nuestra retención de clientes B2B.
+
+##### Business Outcomes Assumptions
+- Creemos que las juntas de propietarios están dispuestas a pagar entre S/ 40 y S/ 120 mensuales si perciben un incremento real en la transparencia y orden del edificio.
+- Creemos que el mercado local requiere facturación en moneda nacional (PEN) para agilizar la aprobación de presupuestos en asambleas.
+- Creemos que las agencias de administración prefieren un software unificado antes que utilizar múltiples aplicaciones desconectadas.
+
+##### User Outcomes
+- Creemos que al ofrecer un módulo digital de reservas, los residentes evitarán conflictos y malentendidos por el uso de áreas comunes.
+- Creemos que al disponer de un repositorio de documentos en la nube, los propietarios tendrán la tranquilidad de consultar reglamentos y actas cuando lo necesiten.
+- Creemos que los avisos oficiales en la plataforma mejorarán la tasa de lectura de comunicados en comparación con los correos electrónicos tradicionales.
+- Creemos que el registro digital de visitas brindará un mayor sentido de seguridad y control a toda la comunidad.
+
+##### User Outcomes Assumptions
+- Creemos que los residentes demandan una manera rápida y transparente de verificar si sus pagos han sido registrados correctamente.
+- Creemos que los comités de administración necesitan reportes consolidados para justificar sus decisiones frente a los vecinos.
+- Creemos que la estandarización de procesos de mantenimiento calmará la ansiedad de los residentes frente a desperfectos en el edificio.
+
+##### Features Assumptions
+- Creemos que incluir un sistema de recordatorios de cobro será la característica más valorada por los tesoreros.
+- Creemos que la consola web para administradores facilitará la gestión simultánea de múltiples propiedades.
+- Creemos que ofrecer soporte segmentado (email en días hábiles vs. tiempos de respuesta acordados) aportará valor diferenciado a los planes superiores.
+- Creemos que un dashboard que resuma áreas comunes, cobranzas e incidencias en "una sola vista" será el diferencial principal frente a la competencia.
+
+<a id="1-2-2-3-lean-ux-hypothesis-statements"></a>
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+
+Las siguientes hipótesis buscan validar el impacto de la adopción de BuildingFex en la operatividad de los condominios y el crecimiento del producto en el mercado.
+
+##### Hypothesis Statement #1
+- Creemos que incrementaremos la puntualidad en el pago de cuotas de mantenimiento.
+- Si las juntas de propietarios y residentes
+  - Obtienen visibilidad clara de las deudas y un sistema de recordatorios.
+- Con un módulo de "Collections" centralizado dentro de la plataforma.
+
+##### Hypothesis Statement #2
+- Creemos que optimizaremos la eficiencia del personal de administración y conserjería.
+- Si los property managers
+  - Obtienen la capacidad de gestionar visitas, solicitudes de mantenimiento y emitir anuncios masivos.
+- Con una consola web unificada que reemplaza los registros en papel y los avisos en ascensores.
+
+##### Hypothesis Statement #3
+- Creemos que reduciremos las quejas vecinales respecto al uso de las instalaciones.
+- Si los propietarios
+  - Obtienen un acceso directo a las normativas y disponibilidad de espacios.
+- Con un módulo de "Common areas" que muestra reservas, reglas y mantenimiento en una sola vista.
+
+##### Hypothesis Statement #4
+- Creemos que lograremos un rápido crecimiento comercial entre diferentes perfiles de clientes.
+- Si las comunidades de edificios
+  - Reciben opciones de precios adaptadas a su tamaño real.
+- Con una estructura de suscripción en tres niveles (Essential, Standard, Scale) basada en la cantidad de unidades.
+
+<a id="1-2-2-4-lean-ux-canvas"></a>
+#### 1.2.2.4. Lean UX Canvas.
+
+A continuación, se adjunta el Lean UX Canvas, una matriz colaborativa que nos ayuda a mapear los dolores de la administración de inmuebles con las soluciones de nuestra plataforma, estructurando el diseño de nuestros MVP y las métricas que evaluarán la adopción de los planes de suscripción.
+
+<p align="center"><img src="../imagenes/lean-ux-canva.jpeg" alt="Lean UX Canvas de BuildingFex: problema, usuarios, hipótesis y métricas" width="920"/></p>
+
+<a id="1-3-segmentos-objetivo"></a>
+## 1.3. Segmentos objetivo.
+
+La modernización del sector de la gestión de propiedades demuestra que implementar soluciones tecnológicas es fundamental no solo para llevar un control contable, sino para garantizar la armonía residencial y el mantenimiento del valor de los inmuebles. El uso de plataformas digitales elimina la fricción diaria y profesionaliza la labor de los comités vecinales.
+
+En base a la estructura de nuestra plataforma SaaS y los planes de suscripción establecidos, los segmentos objetivos de BuildingFex son:
+
+- **Segmento 1: Empresas y agencias administradoras de inmuebles (Property Managers).** Compañías que buscan escalar sus operaciones y gestionar múltiples torres residenciales o condominios bajo una misma consola web estandarizada y eficiente.
+- **Segmento 2: Juntas de propietarios de condominios y torres residenciales.** Edificios autogestionados por los propios vecinos (desde pequeñas comunidades de 10 unidades hasta complejos de 80 departamentos) que requieren organizar sus cobros, áreas comunes y comunicaciones con total transparencia y seguridad.
 
 **Capítulo II: Requirements Elicitation & Analysis**
 
@@ -476,7 +618,7 @@ Explorar cómo manejan el volumen (varios edificios a la vez), cómo estandariza
 | **Apellidos** | Delgado |
 | **Edad** | 24 |
 | **Distrito** | Surco |
-| **Screenshot** | ![Entrevista 6](..imagenes/entrevista6_adrian.png) |
+| **Screenshot** |  ![Vercel — evidencia 1](../imagenes/entrevista6.jpeg)  |
 | **URL** | [upc-pre-202610-1asi0730-6818-BuildingFex-needfinding-sprint-6.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312510_upc_edu_pe/IQCU3cNsBGklT4-T2l_crjfeAfIA-zu4Aj5K_0AmkObByA8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=12dNB5) |
 | **Duración** | 17:04 |
 | **Resumen** | Adrián es un Asistente de Operaciones de 24 años que actúa como el brazo ejecutor y la mano derecha en la gestión de 18 edificios. A diferencia de un perfil tradicional, es un nativo digital que sufre con los procesos analógicos de su propia empresa. Su día a día es altamente reactivo y caótico: pasa horas persiguiendo comprobantes de pago, actualizando hojas de cálculo desde su celular y actuando como mediador en conflictos por reservas mal anotadas. Ve en la adopción de una plataforma moderna la clave no solo para automatizar su carga operativa (y recuperar su tiempo libre), sino para mejorar radicalmente la experiencia del residente, un factor que ya les ha costado contratos en el pasado por parecer "anticuados". |
@@ -1183,6 +1325,8 @@ Sección de cards explicando al cliente por que somos mejores que la competencia
 Se ve un buen diseño en la sección de preguntas con la barra de búsqueda a la izquierda y las preguntas a la derecha con pequeños detalles que resaltan el interfaz. 
 
 ## **4.4. Web Applications UX/UI Design.**
+feat/capitulo-1
+
 **4.4.1 Web Applications Wireframes**
 
 Primero en esta seccion va el Login.
@@ -1279,21 +1423,31 @@ Aqui se puede ver las preguntas frecuentes acerca de la aplicacion y un boton qu
 
 **4.5 Web Applications Prototyping.**
 
-Falta Video
+Link del video: https://1drv.ms/v/c/2f673bdd57dbed09/IQB_rKkNDW1USLRHOQByi1UUAX_XYLIKf3Bej1yj7cWdlxY?e=2NKZFR
+
+![prototipovideoimg.png](../imagenes/prototipovideoimg.png)
 
 **4.6 Domain-Driven Software Architecture.**
 
-**4.6.1 Software Architecture Context Diagram**
+**4.6.1. Design-Level EventStorming**
+
+link del desiogn-level eventa storming: https://miro.com/app/board/uXjVJF4TquY=/?share_link_id=348452297177
+
+![designeventstorming1.png](../imagenes/designeventstorming1.png)
+
+![designeventstorming2.png](../imagenes/designeventstorming2.png)
+
+**4.6.2 Software Architecture Context Diagram**
 
 Este diagrama de contexto representa cómo funciona la plataforma BuildingFex: los visitantes envian consultas y revisan informacion de suscripciones, mientras que los administradores analizan las respuestas. El sistema central, la aplicacion, se conecta con un API externo para obtener datos de edificios y con Firebase Cloud Messaging para enviar notificaciones push, mostrando así el flujo de interaccion entre usuarios, la plataforma y servicios externos.
 ![contextDiagram.png](../imagenes/contextDiagram.png)
 
-**4.6.2 Software Architecture Container Diagrams**
+**4.6.3 Software Architecture Container Diagrams**
 
 Este diagrama de BuildingFex resume la estructura del sistema: los usuarios interactuan con una aplicación web Angular que envia solicitudes al API Gateway, el cual distribuye el trafico hacia tres modulos principales (reportes, contactos/marketing y planes de suscripcion), cada uno con su propia base de datos. Ademas, el sistema se conecta con un API externo para obtener datos de edificios y con Firebase para enviar notificaciones push. En conjunto, muestra cómo fluye la informacion entre usuarios, aplicación, bases de datos y servicios externos.
 ![containerdiagram.png](../imagenes/containerdiagram.png)
 
-**4.6.3 Software Architecture Components Diagrams**
+**4.6.4 Software Architecture Components Diagrams**
 
 Analytics y Reporting: 
 
@@ -1313,7 +1467,10 @@ Las solicitudes entran por el API Gateway y son procesadas por el SubscriptionPl
 **4.7 Software Object-Oriented Design**
 
 **4.7.1 Class Diagrams**
+
 ![classdiagram.png](../imagenes/classdiagram.png)
+
+link del diagrama de clases: https://lucid.app/lucidchart/0e5d0675-677f-461e-8020-3401e9e97f08/edit?viewport_loc=1382%2C-730%2C3262%2C1630%2C0_0&invitationId=inv_8b86276f-d74e-47d9-a568-db771c638a2d
 
 El diagrama de clases representa la estructura principal de un sistema para gestión de condominios. Incluye entidades de usuarios y roles para controlar accesos, suscripciones para manejar planes de servicio, y la estructura fisica de edificios, torres y unidades vinculadas a residentes. En el area financiera se modelan cobranzas, pagos, pasarelas de pago y reportes, mientras que en operaciones se incluyen reservas de areas comunes e incidencias de mantenimiento. Finalmente, la clase de auditoria asegura trazabilidad de todas las acciones. Las relaciones muestran como los usuarios interactuan con suscripciones, unidades y reservas, conectando la gestion administrativa, financiera y operativa en un solo ecosistema.
 
@@ -1507,8 +1664,6 @@ Garantiza trazabilidad de las acciones en el sistema.
 **4.8 Database Design**
 
 **4.8.1 Database Diagram**
-<<<<<<< Updated upstream
-=======
   
 ![databasediagram.png](../imagenes/databasediagram.png)
 
@@ -1760,6 +1915,9 @@ Compendio de **evidencias gráficas** citadas en el informe. Las figuras **perma
 - ![Empathy Map — Roberto](../imagenes/EmpathyMapping_Roberto.png)
 - ![Empathy Map — Valeria](../imagenes/EmpathyMapping_Valeria.png)
 - ![Big Picture EventStorming](../imagenes/BigPictureEventstorming.png)
+- ![Big Picture EventStorming — Parte 1](../imagenes/BigPictureEventstormingPart1.png)
+- ![Big Picture EventStorming — Parte 2](../imagenes/BigPictureEventstormingPart2.png)
+- ![Big Picture EventStorming — Parte 3](../imagenes/BigPictureEventstormingPart3.png)
 - ![Impact Mapping](../imagenes/impactmap.png)
 
 ### Anexo F — *Style guidelines* y secciones de *landing*
@@ -1823,5 +1981,3 @@ Compendio de **evidencias gráficas** citadas en el informe. Las figuras **perma
 - ![Vercel — evidencia 1](../imagenes/vercel1.png)
 - ![Vercel — evidencia 2](../imagenes/vercel2.png)
 - ![Vercel — evidencia 3](../imagenes/vercel3.png)
-
->>>>>>> Stashed changes
