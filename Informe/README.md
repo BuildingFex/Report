@@ -2087,6 +2087,27 @@ Esta sección se limita a lo que corresponde validar o registrar **dentro del al
 
 ![Network — colaboración](../imagenes/network-landingpage.png)
 
+### 5.2.3. Sprint 3
+
+Este Sprint se enfoca en el levantamiento de observaciones a nivel de software, la corrección de la base de datos y la finalización de toda la documentación y sustentación en video correspondientes a la entrega final del proyecto **BuildingFex**.
+
+#### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | **Sprint 3** |
+| --- | --- |
+| ***Sprint Planning Background*** | |
+| **Date** | Lunes |
+| **Time** | 21:20 (GMT-5) |
+| **Location** | Reunión virtual por Discord |
+| **Prepared By** | Sebastian Martin Beingolea Montalvo |
+| **Attendees (to planning meeting)** | Sebastian Martin Beingolea Montalvo, Villanueva Rodríguez Giuseppe Adrián, Saul Ortega Muñoz, Alejandro Manuel Jave Chang, Valentin Nicolas Medina Mamani |
+| **Sprint n – 1 Review Summary** | Se revisaron los avances del frontend y la base de datos, identificando observaciones a levantar a nivel de software y la necesidad de ajustar los Story Points en la documentación del informe. |
+| **Sprint n – 1 Retrospective Summary** | El equipo acordó asignar responsabilidades específicas para la documentación final, preparar los slides para la exposición y grabar el video de demostración de manera formal después de clases. |
+| ***Sprint Goal & User Stories*** | |
+| **Sprint 3 Goal** | Para este sprint se requiere el cumplimiento de los siguientes objetivos: Levantar las observaciones de la entrega a nivel de software (incluyendo la revisión de la base de datos sobre distritos y gastos comunitarios) y agregar la "landing videos page". Además, se debe finalizar la redacción de los puntos pendientes del informe (Student Outcome, 5.2.3 al 5.2.3.8 y 5.4) y realizar la grabación del video formal de sustentación. La métrica de cumplimiento se basará en el proceso de cómo nuestro Board de Trello luzca con el paso del tiempo; nuestro resultado final debe mostrar todas las tareas (mínimo 10 por integrante) en el lado derecho de la herramienta, ubicándolas en la columna "Terminado". |
+| **Sprint 3 Velocity** |  estimación basada en 5 tareas/User Stories por integrante) |
+| **Sum of Story Points** | 25 |
+
 ### Conclusiones 
 
 * **Centralización y Transparencia Operativa:** El desarrollo de BuildingFlex demuestra que la digitalización de la gestión inmobiliaria resuelve directamente los cuellos de botella contables y de comunicación. Al automatizar la facturación y la conciliación mediante pasarelas de pago, el sistema elimina las fricciones tradicionales entre la junta directiva, la administración y los residentes.
