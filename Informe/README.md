@@ -1,22 +1,24 @@
+<div align="center">
+
 # 🏢 BuildingFex – Plataforma SaaS para Administración de Edificios y Condominios
 
 **Universidad Peruana de Ciencias Aplicadas**
 
 <img src="../imagenes/upc.png" width="300" alt="Universidad"/>
 
-|               |                                                |
+|               |                                                |
 |---------------|------------------------------------------------|
-| **Carrera**   | Ingeniería de Software                         |
-| **Curso**     | Aplicaciones Web                               |
-| **Código**    | Aplicaciones Web - Virtual 1ASI0730-2610-10203 |
-| **NRC**       | 10203                                          |
-| **Profesor**  | Alex Humberto Sánchez Ponce                    |
-| **Documento** | Informe de Trabajo Final (entrega TP)          |
-| **Ciclo**     | 2026-01                                        |
-| **Facultad**  | Facultad de Ingeniería                         |
+| **Carrera**   | Ingeniería de Software                         |
+| **Curso**     | Aplicaciones Web                               |
+| **Código**    | Aplicaciones Web - Virtual 1ASI0730-2610-10203 |
+| **NRC**       | 10203                                          |
+| **Profesor**  | Alex Humberto Sánchez Ponce                    |
+| **Documento** | Informe de Trabajo Final (entrega TP)          |
+| **Ciclo**     | 2026-01                                        |
+| **Facultad**  | Facultad de Ingeniería                         |
 
-# Startup: BuildingFex  
-**Producto:** Plataforma SaaS para administración de edificios y condominios  
+# Startup: BuildingFex  
+**Producto:** Plataforma SaaS para administración de edificios y condominios  
 
 ### Integrantes del equipo
 
@@ -27,6 +29,52 @@
 | Saul Ortega Muñoz | U20231c019 |
 | Alejandro Manuel Jave Chang | U202312510 |
 | Valentin Nicolas Medina Mamani | U202316829 |
+
+</div>
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+      <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+      <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+  <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
 
 ### Problema a resolver
 
@@ -78,6 +126,7 @@ Se detalla el trabajo realizado en esta entrega, con evidencias visuales de part
 | --- | --- |
 | Reporte del equipo | [BuildingFex — Report](https://github.com/BuildingFex/Report.git) |
 | Landing page | [BuildingFex — LandingPage](https://github.com/BuildingFex/LandingPage.git) |
+| Landing Fronted | [BuildingFex — Fronted](https://github.com/BuildingFex/Fronted.git) |
 
 ---
 
@@ -112,7 +161,7 @@ Gráfico de actividad durante la preparación del TB1. Los commits reflejan prog
 | Network TB-1 Report                 | ![Actividad en el repositorio del reporte](../imagenes/network-report.png) |
 | Network TB-1 Landing page           | ![Actividad en el repositorio del reporte](../imagenes/network-landingpage.png) |
 | Frontend Deployment 1               | ![img_6.png](../imagenes/img_6.png)|
-| Frontend Deployment 2               |![img_1.png](../imagenes/commit%201.png) |
+| Frontend Deployment 2               |![img_1.png](../imagenes/commit_1.png) |
 | Commits TP Frontend                 | ![img_2.png](../imagenes/img_2.png)|
 | Network TP Frontend                 |![img_3.png](../imagenes/img_3.png) |
 | Network TP Report                   |![img_4.png](../imagenes/img_4.png) |
@@ -127,10 +176,10 @@ Gráfico de actividad durante la preparación del TB1. Los commits reflejan prog
 En esta sección se presenta la relación entre el trabajo realizado por el equipo y las dimensiones del Student Outcome establecido. Cada integrante ha colaborado en la redacción conjunta de los sustentos y evidencias que demuestran cómo las actividades desarrolladas en la **TB1** han contribuido al logro de este objetivo. A través de las acciones individuales y colectivas, se busca evidenciar de manera clara y organizada el impacto del proyecto en el desarrollo de las competencias señaladas.
 
 
-| Criterio específico | Acciones realizadas (TB1) | Conclusiones |
-| :--- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta | Sebastian Martin Beingolea Montalvo — U202217853<br>TB1: Asumí responsabilidades compartidas dentro del equipo, coordinando tareas y apoyando a mis compañeros para mantener una organización eficiente y colaborativa durante el desarrollo del trabajo.<br>TP: Colaboré en la organización de las mejoras del documento y en la coordinación de actividades relacionadas con el Sprint 2, promoviendo una comunicación constante entre los integrantes para mantener un trabajo colaborativo y ordenado.<br><br>Villanueva Rodríguez Giuseppe Adrián — U20221c554<br>TB1: Contribuí al liderazgo conjunto promoviendo la comunicación constante entre los integrantes y motivando la participación activa de todos en la toma de decisiones del proyecto.<br>TP: Participé activamente en la revisión y mejora del documento del proyecto, apoyando en la integración de aportes del equipo y fomentando un ambiente de trabajo participativo e inclusivo durante el desarrollo del Sprint 2.<br><br>Saul Ortega Muñoz — U20231c019<br>TB1: Participé activamente en la distribución equilibrada de tareas, colaborando con el equipo para garantizar que todos pudiéramos aportar y avanzar de manera coordinada. <br>TP: Colaboré en el desarrollo del frontend de la aplicación apoyando en la implementación de interfaces y en la integración de componentes visuales, manteniendo una comunicación constante con el equipo para fomentar un trabajo colaborativo e inclusivo.<br><br>Alejandro Manuel Jave Chang — U202312510<br>TB1: Apoyé en la coordinación de ideas y actividades grupales, fomentando un liderazgo colaborativo basado en el respeto, la cooperación y el cumplimiento de objetivos comunes.<br>TP: Apoyé en la elaboración del capítulo 5 y en la coordinación de tareas relacionadas con el Sprint 2, contribuyendo a que el equipo trabajara de manera organizada y alineada con los objetivos del proyecto.<br><br>Valentin Nicolas Medina Mamani — U202316829<br>TB1: Colaboré en la planificación de las actividades del equipo, impulsando un ambiente de trabajo participativo donde cada integrante pudiera asumir responsabilidades y contribuir al logro del proyecto. <br>TP: Colaboré en las mejoras del documento y en la revisión del contenido desarrollado para el Sprint 2, promoviendo el apoyo mutuo y la participación activa de todos los integrantes del equipo. | **Conclusión grupal:** Durante el desarrollo de la TB1, el equipo logró trabajar de manera colaborativa y organizada, promoviendo un liderazgo conjunto en cada una de las actividades realizadas. Todos los integrantes participaron activamente en la coordinación de tareas, la toma de decisiones y el apoyo mutuo, permitiendo mantener una comunicación efectiva y un ambiente de trabajo cooperativo. Gracias a ello, se fortaleció la capacidad del equipo para asumir responsabilidades compartidas y alcanzar los objetivos del proyecto de manera eficiente. <br> <br> **TP:**  Durante el desarrollo de la TP, el equipo trabajó de manera coordinada y colaborativa, compartiendo responsabilidades y apoyándose mutuamente en las distintas etapas del proyecto. La comunicación constante y la participación activa de todos los integrantes permitieron ejercer un liderazgo conjunto que facilitó la integración de ideas y el cumplimiento eficiente de las actividades asignadas. |
-| 5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Sebastian Martin Beingolea Montalvo — U202217853<br>TB1: Promoví un entorno colaborativo dentro del equipo al coordinar la definición de metas y la distribución de tareas, asegurando que todos los integrantes pudieran cumplir sus responsabilidades en los tiempos establecidos.<br>TP: Participé en la planificación de las actividades relacionadas con las mejoras del documento y el Sprint 2, cumpliendo con las tareas asignadas dentro de los plazos establecidos para asegurar el avance del proyecto.<br><br>Villanueva Rodríguez Giuseppe Adrián — U20221c554<br>TB1: Contribuí a mantener un ambiente inclusivo y organizado, apoyando en la planificación de actividades grupales y cumpliendo oportunamente con los objetivos asignados para el desarrollo del proyecto.<br>TP: Organicé mis actividades de revisión y actualización del documento de acuerdo con los objetivos del equipo, contribuyendo al cumplimiento oportuno de las entregas establecidas para la TP.<br><br>Saul Ortega Muñoz — U20231c019<br>TB1: Participé activamente en la planificación y seguimiento de tareas, fomentando la cooperación entre los integrantes para garantizar el cumplimiento de las metas establecidas en la TB1.<br>TP: Colaboré en la planificación y desarrollo de las funcionalidades del frontend, organizando mis tareas de acuerdo con los objetivos establecidos y cumpliendo oportunamente con la entrega de componentes para contribuir al avance del proyecto.<br><br>Alejandro Manuel Jave Chang — U202312510<br>TB1: Colaboré en la organización de las actividades del equipo y en la estimación de tiempos de trabajo, contribuyendo a un entorno de respeto y apoyo mutuo orientado al logro de objetivos comunes. <br>TP: Participé en la organización y desarrollo del capítulo 5 del proyecto, planificando mis tareas de manera responsable para cumplir con los objetivos y entregables definidos para el Sprint 2.<br><br>Valentin Nicolas Medina Mamani — U202316829<br>TB1: Apoyé en la coordinación de las tareas semanales y en la comunicación constante del equipo, promoviendo un ambiente participativo que permitió cumplir con los objetivos del reporte de manera eficiente.  <br>TP: Apoyé en la coordinación de las mejoras del documento y en la revisión de avances del Sprint 2, colaborando con el equipo para cumplir las metas propuestas de manera eficiente y organizada.                                                                                                                                                                 | **Conclusión grupal:** Durante el desarrollo de la TB1, el equipo logró crear un entorno colaborativo e inclusivo que facilitó la participación activa de todos los integrantes en las distintas actividades del proyecto. Se establecieron metas claras y se planificaron las tareas de manera organizada, permitiendo una adecuada distribución de responsabilidades y un seguimiento constante del progreso. Gracias a la comunicación efectiva, el apoyo mutuo y el cumplimiento oportuno de los entregables, el equipo pudo alcanzar los objetivos planteados de forma eficiente y coordinada.  <br> <br> **TP:**  En la TP, el equipo logró mantener un entorno colaborativo e inclusivo mediante una adecuada organización de tareas y una planificación constante de los objetivos del proyecto. Gracias a la distribución equilibrada de responsabilidades, el seguimiento de avances y el compromiso de cada integrante, se cumplieron satisfactoriamente las metas establecidas y los entregables definidos para la aplicación.                                                                                                                                                                                                                                                                                                                                                                             |
+| Criterio específico | Acciones realizadas (TB1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| :--- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta | Sebastian Martin Beingolea Montalvo — U202217853<br>TB1: Asumí responsabilidades compartidas dentro del equipo, coordinando tareas y apoyando a mis compañeros para mantener una organización eficiente y colaborativa durante el desarrollo del trabajo.<br>TP: Colaboré en la organización de las mejoras del documento y en la coordinación de actividades relacionadas con el Sprint 2, promoviendo una comunicación constante entre los integrantes para mantener un trabajo colaborativo y ordenado. <br>AV2: Colaboré en la coordinación de las mejoras del documento y en la supervisión de avances de la Landing Page, promoviendo la comunicación constante entre los integrantes para asegurar el cumplimiento de las actividades planificadas.<br><br>Villanueva Rodríguez Giuseppe Adrián — U20221c554<br>TB1: Contribuí al liderazgo conjunto promoviendo la comunicación constante entre los integrantes y motivando la participación activa de todos en la toma de decisiones del proyecto.<br>TP: Participé activamente en la revisión y mejora del documento del proyecto, apoyando en la integración de aportes del equipo y fomentando un ambiente de trabajo participativo e inclusivo durante el desarrollo del Sprint 2.<br>AV2: Participé en la revisión y actualización del documento del proyecto, apoyando la integración de aportes relacionados con la Landing Page y la implementación del backend, favoreciendo el trabajo colaborativo del equipo.<br><br>Saul Ortega Muñoz — U20231c019<br>TB1: Participé activamente en la distribución equilibrada de tareas, colaborando con el equipo para garantizar que todos pudiéramos aportar y avanzar de manera coordinada. <br>TP: Colaboré en el desarrollo del frontend de la aplicación apoyando en la implementación de interfaces y en la integración de componentes visuales, manteniendo una comunicación constante con el equipo para fomentar un trabajo colaborativo e inclusivo.<br>AV2: Colaboré en el desarrollo de la Landing Page y en la implementación de una parte del backend, coordinando con mis compañeros la integración de funcionalidades y manteniendo una comunicación efectiva para facilitar el trabajo conjunto.<br><br>Alejandro Manuel Jave Chang — U202312510<br>TB1: Apoyé en la coordinación de ideas y actividades grupales, fomentando un liderazgo colaborativo basado en el respeto, la cooperación y el cumplimiento de objetivos comunes.<br>TP: Apoyé en la elaboración del capítulo 5 y en la coordinación de tareas relacionadas con el Sprint 2, contribuyendo a que el equipo trabajara de manera organizada y alineada con los objetivos del proyecto.<br>AV2: Apoyé en la organización de las actividades relacionadas con las mejoras del documento y el desarrollo del proyecto, contribuyendo a que el equipo trabajara de forma coordinada y alineada con los objetivos establecidos.<br><br>Valentin Nicolas Medina Mamani — U202316829<br>TB1: Colaboré en la planificación de las actividades del equipo, impulsando un ambiente de trabajo participativo donde cada integrante pudiera asumir responsabilidades y contribuir al logro del proyecto. <br>TP: Colaboré en las mejoras del documento y en la revisión del contenido desarrollado para el Sprint 2, promoviendo el apoyo mutuo y la participación activa de todos los integrantes del equipo. <br>AV2: Participé en la revisión de avances de la Landing Page y del backend, promoviendo la colaboración entre los integrantes y apoyando la resolución conjunta de observaciones y mejoras identificadas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Conclusión grupal:** Durante el desarrollo de la TB1, el equipo logró trabajar de manera colaborativa y organizada, promoviendo un liderazgo conjunto en cada una de las actividades realizadas. Todos los integrantes participaron activamente en la coordinación de tareas, la toma de decisiones y el apoyo mutuo, permitiendo mantener una comunicación efectiva y un ambiente de trabajo cooperativo. Gracias a ello, se fortaleció la capacidad del equipo para asumir responsabilidades compartidas y alcanzar los objetivos del proyecto de manera eficiente. <br> <br> **TP:**  Durante el desarrollo de la TP, el equipo trabajó de manera coordinada y colaborativa, compartiendo responsabilidades y apoyándose mutuamente en las distintas etapas del proyecto. La comunicación constante y la participación activa de todos los integrantes permitieron ejercer un liderazgo conjunto que facilitó la integración de ideas y el cumplimiento eficiente de las actividades asignadas. <br><br> **AV2:**  Durante la AV2, el equipo mantuvo una dinámica de trabajo colaborativa en el desarrollo de las mejoras del documento, la implementación de la Landing Page y el desarrollo parcial del backend. La coordinación entre los integrantes, el intercambio constante de ideas y el apoyo mutuo permitieron ejercer un liderazgo compartido que facilitó la integración de los diferentes componentes del proyecto y el cumplimiento eficiente de las actividades planificadas. |
+| 5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Sebastian Martin Beingolea Montalvo — U202217853<br>TB1: Promoví un entorno colaborativo dentro del equipo al coordinar la definición de metas y la distribución de tareas, asegurando que todos los integrantes pudieran cumplir sus responsabilidades en los tiempos establecidos.<br>TP: Participé en la planificación de las actividades relacionadas con las mejoras del documento y el Sprint 2, cumpliendo con las tareas asignadas dentro de los plazos establecidos para asegurar el avance del proyecto.<br>AV2: Participé en la planificación de las mejoras del documento y en la definición de objetivos para la Landing Page, cumpliendo con las actividades asignadas dentro de los plazos establecidos.<br><br>Villanueva Rodríguez Giuseppe Adrián — U20221c554<br>TB1: Contribuí a mantener un ambiente inclusivo y organizado, apoyando en la planificación de actividades grupales y cumpliendo oportunamente con los objetivos asignados para el desarrollo del proyecto.<br>TP: Organicé mis actividades de revisión y actualización del documento de acuerdo con los objetivos del equipo, contribuyendo al cumplimiento oportuno de las entregas establecidas para la TP.<br>AV2: Organicé mis tareas de revisión y actualización documental de acuerdo con el cronograma del equipo, contribuyendo al cumplimiento de los entregables previstos para esta etapa del proyecto.<br><br>Saul Ortega Muñoz — U20231c019<br>TB1: Participé activamente en la planificación y seguimiento de tareas, fomentando la cooperación entre los integrantes para garantizar el cumplimiento de las metas establecidas en la TB1.<br>TP: Colaboré en la planificación y desarrollo de las funcionalidades del frontend, organizando mis tareas de acuerdo con los objetivos establecidos y cumpliendo oportunamente con la entrega de componentes para contribuir al avance del proyecto.<br>AV2: Planifiqué y desarrollé las tareas asignadas para la Landing Page y la implementación parcial del backend, cumpliendo los objetivos definidos y entregando los componentes correspondientes dentro del tiempo acordado.<br><br>Alejandro Manuel Jave Chang — U202312510<br>TB1: Colaboré en la organización de las actividades del equipo y en la estimación de tiempos de trabajo, contribuyendo a un entorno de respeto y apoyo mutuo orientado al logro de objetivos comunes. <br>TP: Participé en la organización y desarrollo del capítulo 5 del proyecto, planificando mis tareas de manera responsable para cumplir con los objetivos y entregables definidos para el Sprint 2.<br>AV2: Participé en la organización y seguimiento de las actividades del proyecto, gestionando adecuadamente mis responsabilidades para contribuir al cumplimiento de las metas establecidas para la entrega.<br><br>Valentin Nicolas Medina Mamani — U202316829<br>TB1: Apoyé en la coordinación de las tareas semanales y en la comunicación constante del equipo, promoviendo un ambiente participativo que permitió cumplir con los objetivos del reporte de manera eficiente.  <br>TP: Apoyé en la coordinación de las mejoras del documento y en la revisión de avances del Sprint 2, colaborando con el equipo para cumplir las metas propuestas de manera eficiente y organizada. <br>AV2: Apoyé en la coordinación de las mejoras documentales y en la revisión de avances del desarrollo, colaborando con el equipo para alcanzar los objetivos planteados de manera eficiente y organizada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Conclusión grupal:** Durante el desarrollo de la TB1, el equipo logró crear un entorno colaborativo e inclusivo que facilitó la participación activa de todos los integrantes en las distintas actividades del proyecto. Se establecieron metas claras y se planificaron las tareas de manera organizada, permitiendo una adecuada distribución de responsabilidades y un seguimiento constante del progreso. Gracias a la comunicación efectiva, el apoyo mutuo y el cumplimiento oportuno de los entregables, el equipo pudo alcanzar los objetivos planteados de forma eficiente y coordinada.  <br> <br> **TP:**  En la TP, el equipo logró mantener un entorno colaborativo e inclusivo mediante una adecuada organización de tareas y una planificación constante de los objetivos del proyecto. Gracias a la distribución equilibrada de responsabilidades, el seguimiento de avances y el compromiso de cada integrante, se cumplieron satisfactoriamente las metas establecidas y los entregables definidos para la aplicación. <br> <br> **AV2:** En la AV2, el equipo logró establecer un entorno colaborativo e inclusivo mediante una adecuada planificación de tareas y una distribución equilibrada de responsabilidades. La definición clara de objetivos para las mejoras del documento, la Landing Page y el backend permitió realizar un seguimiento efectivo de los avances y cumplir oportunamente con los entregables, contribuyendo al desarrollo exitoso de la etapa del proyecto.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 
 
@@ -244,6 +293,10 @@ Frente a esta situación, se requiere una plataforma centralizada y escalable qu
 <a id="1-1-2-perfiles-de-integrantes-del-equipo"></a>
 ### 1.1.2. Perfiles de integrantes del equipo
 
+| Nombre                                                                               | Descripción                                                                                                                                                                                                                                                |
+|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <br/><img src="Images/Giuseppe.jpeg" width="200" alt="Foto de Giuseppe Villanueva"/> | Soy estudiante de Ingeniería de Software con un enfoque en el desarrollo de software. Me caracterizo por mi resiliencia y mi conocimiento en varias áreas de programación como el uso de .NET 8, C#, C++, JavaScript, Node, Python, HTML, Redis y SignalR. |
+ |        ![fotoperfilsaul.png](../imagenes/fotoperfilsaul.png)                                                                              | Soy estudiante de Ingeniería de Software con formación en programación y desarrollo web. Tengo conocimientos en C++, HTML, CSS y JavaScript. Me caracterizo por ser responsable, con capacidad de aprendizaje rápido y trabajo en equipo, aportando ideas prácticas para resolver problemas y mejorar proyectos tecnológicos.                                                                                                              |
 | Nombre | Descripción |
 |---|---|
 | <img src="../imagenes/sebastian.png" width="200" alt="Foto de Sebastian Martin Beingolea Montalvo"/><br><strong>Sebastian Martin Beingolea Montalvo</strong> | Me gusta el trabajo en equipo, tengo la experiencia y habilidades para el desarrolo de software. Me gusta cumplir con las fechas propuestas y ademas tengo conociemientos en base de datos, serverless, lenguajes de programacion. |
@@ -410,13 +463,22 @@ A continuación, se adjunta el Lean UX Canvas, una matriz colaborativa que nos a
 <a id="1-3-segmentos-objetivo"></a>
 ## 1.3. Segmentos objetivo.
 
+<a id="1-3-segmentos-objetivo"></a>
+## 1.3. Segmentos objetivo.
+
 La modernización del sector de la gestión de propiedades demuestra que implementar soluciones tecnológicas es fundamental no solo para llevar un control contable, sino para garantizar la armonía residencial y el mantenimiento del valor de los inmuebles. El uso de plataformas digitales elimina la fricción diaria y profesionaliza la labor de los comités vecinales.
 
-En base a la estructura de nuestra plataforma SaaS y los planes de suscripción establecidos, los segmentos objetivos de BuildingFex son:
+Para dimensionar correctamente la cuota de mercado (Market Share) a la que apuntamos, hemos definido nuestros segmentos bajo variables geográficas, demográficas y operativas, enfocándonos inicialmente en el mercado inmobiliario de Lima Metropolitana:
 
-- **Segmento 1: Empresas y agencias administradoras de inmuebles (Property Managers).** Compañías que buscan escalar sus operaciones y gestionar múltiples torres residenciales o condominios bajo una misma consola web estandarizada y eficiente.
-- **Segmento 2: Juntas de propietarios de condominios y torres residenciales.** Edificios autogestionados por los propios vecinos (desde pequeñas comunidades de 10 unidades hasta complejos de 80 departamentos) que requieren organizar sus cobros, áreas comunes y comunicaciones con total transparencia y seguridad.
+- **Segmento 1: Empresas y agencias administradoras de inmuebles (Property Managers B2B).** Compañías constituidas que buscan escalar sus operaciones y gestionar múltiples torres residenciales o condominios bajo una misma consola web estandarizada y eficiente.
+  - **Perfil Demográfico y Operativo:** Empresas formales (Mypes y medianas empresas) con equipos operativos conformados por profesionales de entre 24 y 50 años. Manejan portafolios que van desde 3 hasta más de 20 edificios (alcanzando volúmenes de 100 a 700+ departamentos gestionados simultáneamente).
+  - **Perfil Geográfico (Market Focus):** Principalmente ubicadas en Lima Metropolitana, con fuerte enfoque en distritos de alta densidad vertical de Lima Moderna y Lima Top (ej. San Borja, Santiago de Surco, Jesús María, Miraflores, San Isidro, Magdalena).
+  - **Comportamiento:** Son usuarios altamente tecnológicos y pragmáticos (nativos digitales en muchos casos), que buscan reemplazar el uso excesivo de Excel y WhatsApp por soluciones que reduzcan sus "horas-hombre" y les permitan captar más clientes sin aumentar su plantilla.
 
+- **Segmento 2: Juntas de propietarios de condominios y torres residenciales (B2C / B2B2C).** Edificios autogestionados por los propios vecinos que requieren organizar sus cobros, áreas comunes y comunicaciones con total transparencia y seguridad para evitar conflictos internos.
+  - **Perfil Demográfico:** Residentes y propietarios pertenecientes a los Niveles Socioeconómicos (NSE) A, B y C+. Los miembros de las juntas directivas suelen ser profesionales o personas jubiladas con edades que oscilan entre los 28 y 75 años, quienes asumen el cargo *ad honorem*.
+  - **Perfil Geográfico y Estructural:** Edificios y torres residenciales ubicados en zonas urbanas de Lima Metropolitana. El segmento abarca desde condominios "boutique" pequeños (10 a 15 unidades) hasta grandes complejos residenciales (40 a 80 unidades).
+  - **Comportamiento:** Valoran la confianza, la transparencia financiera y la comunicación clara. Tienen distintos niveles de adopción tecnológica, por lo que necesitan una plataforma sencilla e intuitiva que automatice los recordatorios de morosidad sin generar fricción vecinal.
 **Capítulo II: Requirements Elicitation & Analysis**
 
 **2.1. Competidores**
@@ -442,7 +504,7 @@ Plataforma orientada al mercado latinoamericano para la gestión de condominios.
 | *Estrategias de marketing* | - Marketing digital<br>- Alianzas locales<br>- Enfoque educativo del sector | - Marketing B2B tradicional y digital | - Posicionamiento global<br>- Marca fuerte | - Marketing digital regional |
 | **Perfil de Producto** | | | | |
 | *Productos & Servicios* | Plataforma modular: cobranza, reservas, accesos, incidencias, comunicación, etc. | Gestión de comunidad + comunicación + reservas | Gestión financiera + mantenimiento | Gestión de condominios + comunicación + reservas |
-| *Precios & Costos* | Suscripción SaaS escalable (planes accesibles) | Suscripción (alto costo) | Suscripción premium | Suscripción accesible |
+| *Precios & Costos* | Free: S/0 (hasta 9 departamentos), Essential: S/40, Standard: S/80 y Scale: S/120 mensuales en PEN. | Desde aprox. S/180/mes para comunidades pequeñas y desde S/500/mes para condominios medianos/grandes. | Essential desde aprox. S/230/mes, Growth desde S/710/mes y Premium desde S/1,480/mes. | Planes desde aprox. S/160 mensuales, con cotización según tamaño del condominio. |
 | *Canales de distribución* | Web (principal) | Web + móvil | Web + móvil | Web + móvil |
 
 | **Análisis SWOT** | | | | |
@@ -942,6 +1004,7 @@ link del Big Picture EventStorming https://miro.com/welcomeonboard/bXdOWFFHWU1GW
 | **US-31** | Gestión del ciclo de vida de una incidencia | **Como** administrador, **quiero** asignar un proveedor y cambiar el estado de las incidencias, **para** que el residente esté informado. | **Scenario:** Asignación de técnico.<br>**Given:** Un reporte de falla con estado "Abierto".<br>**When:** El administrador escribe el proveedor ("Gasfitería Pérez") y cambia a "En Proceso".<br>**Then:** Se guardan los cambios y se actualiza la vista del residente con los datos del técnico.<br><br>**Scenario:** Cierre sin detalle de resolución.<br>**Given:** Un reporte "En Proceso".<br>**When:** Intenta marcarlo como "Resuelto" sin comentario de cierre.<br>**Then:** El sistema impide el cambio y solicita documentar la solución antes de finalizar. | EP-10 |
 | **US-32** | Atención de consultas administrativas (Chat) | **Como** administrador, **quiero** responder mensajes de los residentes desde una bandeja centralizada, **para** brindar soporte directo en tiempo real. | **Scenario:** Respuesta a consulta.<br>**Given:** Que un residente envió una duda sobre su recibo.<br>**When:** El administrador abre "Resident Help" y responde.<br>**Then:** El sistema notifica al residente y marca el chat como "Atendido".<br><br>**Scenario:** Intento de envío vacío.<br>**Given:** Que se visualiza una consulta pendiente.<br>**When:** Presiona enviar sin redactar texto.<br>**Then:** El botón se mantiene deshabilitado para evitar mensajes en blanco. | EP-11 |
 
+
 ---
 ### TECHNICAL STORIES
 
@@ -952,6 +1015,7 @@ link del Big Picture EventStorming https://miro.com/welcomeonboard/bXdOWFFHWU1GW
 | **TS-003** | Endpoint para generación de recibos masivos | **Como** Developer, **quiero** desarrollar un endpoint RESTful (POST) que ejecute la lógica de facturación, **para** procesar las cuotas de mantenimiento mensual de un condominio. | **Scenario:** Generación procesada correctamente.<br>**Given** que el mes contable está configurado correctamente en el sistema,<br>**When** se envía un request HTTP POST a `/api/v1/buildings/10/receipts/generate`,<br>**Then** la API procesa la creación de los documentos y responde con un código HTTP `200 OK`, indicando en el response la cantidad de recibos creados exitosamente. |
 | **TS-004** | Endpoint para actualizar estado de pago | **Como** Developer, **quiero** implementar un endpoint RESTful (PATCH) para actualizar el estado de un recibo específico, **para** conciliar automáticamente los pagos que provienen de la pasarela externa. | **Scenario:** Actualización de estado a "Pagado".<br>**Given** que existe un recibo con ID 100 en estado "Pendiente",<br>**When** se envía un request HTTP PATCH a `/api/v1/receipts/100/status` con el payload `{"status": "Pagado"}`,<br>**Then** la API actualiza el registro de base de datos y responde con un código HTTP `200 OK`.<br><br>**Scenario:** Intento de modificación de recibo inexistente.<br>**Given** que el recibo especificado en el parámetro de la ruta no existe,<br>**When** se envía un request HTTP PATCH a `/api/v1/receipts/999/status`,<br>**Then** la API responde con un código HTTP `404 Not Found`. |
 | **TS-005** | Endpoint para reserva de áreas comunes | **Como** Developer, **quiero** exponer un endpoint RESTful (POST) de reservas, **para** registrar los turnos de uso de las instalaciones (parrillas, SUM) garantizando la disponibilidad. | **Scenario:** Detección de conflicto de reserva.<br>**Given** que el horario de las 20:00 hrs ya se encuentra reservado para la instalación con ID 2,<br>**When** se envía un request HTTP POST a `/api/v1/facilities/2/reservations` solicitando exactamente el mismo bloque horario,<br>**Then** la API detecta el cruce de horarios y responde con un código HTTP `409 Conflict` adjuntando un mensaje de error explicativo en el response. |
+
 
 
 **3.2 Impact Mapping**
@@ -1432,7 +1496,7 @@ Aqui se puede ver las preguntas frecuentes acerca de la aplicacion y un boton qu
 ![mockup9app.png](../imagenes/mockup9app.png)
 
 **4.4.4 Web Applications User Flow Diagrams.**
-![img_1.png](../imagenes/commit%201.png)
+![img_1.png](../imagenes/commit_1.png)
 
 **4.5 Web Applications Prototyping.**
 
@@ -1488,197 +1552,222 @@ link del diagrama de clases: https://lucid.app/lucidchart/0e5d0675-677f-461e-802
 El diagrama de clases representa la estructura principal de un sistema para gestión de condominios. Incluye entidades de usuarios y roles para controlar accesos, suscripciones para manejar planes de servicio, y la estructura fisica de edificios, torres y unidades vinculadas a residentes. En el area financiera se modelan cobranzas, pagos, pasarelas de pago y reportes, mientras que en operaciones se incluyen reservas de areas comunes e incidencias de mantenimiento. Finalmente, la clase de auditoria asegura trazabilidad de todas las acciones. Las relaciones muestran como los usuarios interactuan con suscripciones, unidades y reservas, conectando la gestion administrativa, financiera y operativa en un solo ecosistema.
 
 **4.7.2 Class Dictionary**
+
 # Class Dictionary
 
-## Usuario
-Representa a la persona que accede al sistema.
-- **Atributos**:
-    - idUsuario (int)
-    - nombre (string)
-    - correo (string)
-    - rolId (int)
-- **Operaciones**:
-    - registrarUsuario()
-    - autenticar()
-    - asignarRol()
+El siguiente diccionario describe las entidades del modelo de datos alineadas al **diagrama de base de datos**: nombres de atributos y tipos como en el esquema. La mayoría de tablas incluyen `ownerAdminId` para **multi-tenancy** (partición por administrador o copropiedad). Varios registros referencian a residentes mediante `residentId`, coherente con un `User` en rol residente.
 
-## Rol
-Define los permisos y funciones que puede realizar un usuario.
-- **Atributos**:
-    - idRol (int)
-    - nombreRol (string)
-    - permisos (list<string>)
-- **Operaciones**:
-    - crearRol()
-    - asignarPermiso()
-    - eliminarRol()
+## User
 
-## Suscripcion
-Modela el plan contratado por un usuario para un edificio.
-- **Atributos**:
-    - idSuscripcion (int)
-    - tipoPlan (string)
-    - fechaInicio (date)
-    - fechaFin (date)
-    - edificioId (int)
-    - usuarioId (int)
-- **Operaciones**:
-    - crearSuscripcion()
-    - actualizarSuscripcion()
-    - cancelarSuscripcion()
+Persona registrada en el sistema (roles como administrador de edificio o residente, según `role`). Centraliza identidad, contacto y datos administrativos.
 
-## Edificio
-Representa un condominio o complejo.
 - **Atributos**:
-    - idEdificio (int)
-    - nombre (string)
-    - direccion (string)
-- **Operaciones**:
-    - agregarTorre()
-    - listarUnidades()
+    - id (string)
+    - name (string)
+    - email (string)
+    - password (string)
+    - role (string)
+    - floor (string)
+    - code (string)
+    - admissionDate (string)
+    - ownerAdminId (string)
+    - dni (string)
+    - address (string)
+    - company (string)
+    - ruc (string)
 
-## Torre
-Agrupa las unidades dentro de un edificio.
-- **Atributos**:
-    - idTorre (int)
-    - nombre (string)
-    - edificioId (int)
-- **Operaciones**:
-    - agregarUnidad()
-    - obtenerUnidades()
+## Payment
 
-## Unidad
-Representa un departamento o espacio habitable.
-- **Atributos**:
-    - idUnidad (int)
-    - numero (string)
-    - torreId (int)
-    - estado (string)
-- **Operaciones**:
-    - asignarResidente()
-    - liberarUnidad()
+Pago registrado de un residente asociado a un periodo o concepto de cobro.
 
-## Residente
-Perfil de ocupante (dueno o inquilino) vinculado a una unidad.
 - **Atributos**:
-    - idResidente (int)
-    - nombre (string)
-    - tipo (string)
-    - unidadId (int)
-    - usuarioId (int)
-- **Operaciones**:
-    - registrarResidente()
-    - actualizarPerfil()
+    - id (string)
+    - residentId (string)
+    - month (number)
+    - forMonth (string)
+    - amount (number)
+    - paidAt (string)
+    - method (string)
+    - reference (string)
+    - ownerAdminId (string)
 
-## Cobranza
-Registra las cuotas de mantenimiento y pagos pendientes.
-- **Atributos**:
-    - idCobranza (int)
-    - monto (decimal)
-    - fechaVencimiento (date)
-    - estado (string)
-    - unidadId (int)
-- **Operaciones**:
-    - generarAviso()
-    - registrarPago()
-    - calcularMorosidad()
+## Reservation
 
-## Pago
-Representa la transaccion realizada por un residente.
-- **Atributos**:
-    - idPago (int)
-    - monto (decimal)
-    - fecha (date)
-    - metodo (string)
-    - cobranzaId (int)
-- **Operaciones**:
-    - procesarPago()
-    - validarPago()
+Reserva de un **SocialSpace** por un residente, con franja horaria e invitación para invitados.
 
-## PasarelaPago
-Conecta con servicios externos de pago.
 - **Atributos**:
-    - idPasarela (int)
-    - nombre (string)
-    - apiKey (string)
-    - pagoId (int)
-- **Operaciones**:
-    - conectarServicio()
-    - enviarTransaccion()
+    - id (string)
+    - spaceId (string)
+    - residentId (string)
+    - residentName (string)
+    - residentPhone (string)
+    - date (string)
+    - startTime (string)
+    - endTime (string)
+    - guestInviteToken (string)
+    - ownerAdminId (string)
 
-## ReporteFinanciero
-Consolida informacion de ingresos y egresos.
-- **Atributos**:
-    - idReporte (int)
-    - periodo (string)
-    - ingresos (decimal)
-    - egresos (decimal)
-    - cobranzaId (int)
-    - proveedorId (int)
-- **Operaciones**:
-    - generarReporte()
-    - exportarPDF()
+## Receipt
 
-## Proveedor
-Representa a contratistas o empresas que brindan servicios al edificio.
-- **Atributos**:
-    - idProveedor (int)
-    - nombre (string)
-    - servicio (string)
-- **Operaciones**:
-    - registrarProveedor()
-    - actualizarDatos()
+Recibo o documento de deuda/cobro emitido para un residente (fechas de emisión y vencimiento, estado y mora).
 
-## Reserva
-Gestiona la ocupacion de areas comunes.
 - **Atributos**:
-    - idReserva (int)
-    - fecha (date)
-    - usuarioId (int)
-    - areaComunId (int)
-- **Operaciones**:
-    - crearReserva()
-    - cancelarReserva()
-    - validarDisponibilidad()
+    - id (number)
+    - residentId (string)
+    - issueDate (string)
+    - dueDate (string)
+    - amount (number)
+    - status (string)
+    - lateFee (number)
+    - ownerAdminId (string)
 
-## AreaComun
-Espacios compartidos como piscina, gimnasio o salon de eventos.
-- **Atributos**:
-    - idArea (int)
-    - nombre (string)
-    - reglasUso (string)
-- **Operaciones**:
-    - agregarRegla()
-    - listarReservas()
+## Guest
 
-## Incidencia
-Registra problemas o solicitudes de mantenimiento.
-- **Atributos**:
-    - idIncidencia (int)
-    - descripcion (string)
-    - estado (string)
-    - unidadId (int)
-- **Operaciones**:
-    - crearIncidencia()
-    - actualizarEstado()
-    - cerrarIncidencia()
+Invitado vinculado a un flujo de visita o reserva; control de ingreso.
 
-## Auditoria
-Garantiza trazabilidad de las acciones en el sistema.
 - **Atributos**:
-    - idLog (int)
-    - usuarioId (int)
-    - accion (string)
-    - fechaHora (datetime)
-- **Operaciones**:
-    - registrarAccion()
-    - consultarLogs()
+    - id (string)
+    - name (string)
+    - checkedIn (boolean)
+    - checkedInAt (string)
+
+## Fee
+
+Cuota o cargo recurrente por residente y mes, con monto, vencimiento y estado.
+
+- **Atributos**:
+    - id (number)
+    - residentId (string)
+    - month (string)
+    - amount (number)
+    - dueDate (string)
+    - status (string)
+    - ownerAdminId (string)
+
+## FixedPayoutRecipient
+
+Beneficiario de pagos fijos (personal o tercero) con datos de contacto, remuneración y calendario de pagos.
+
+- **Atributos**:
+    - id (string)
+    - name (string)
+    - dni (string)
+    - phone (string)
+    - salary (number)
+    - interestDays (number)
+    - nextPaymentDate (string)
+    - photoUrl (string)
+    - paymentHistory (array)
+    - createdAt (string)
+    - ownerAdminId (string)
+
+## FinanceSettings
+
+Parámetros financieros globales por administrador (gasto base y tasa de mora).
+
+- **Atributos**:
+    - id (string)
+    - ownerAdminId (string)
+    - baseMonthlyExpense (number)
+    - lateFeeRate (number)
+
+## Incident
+
+Reporte o ticket de incidencia/mantenimiento asociado a un residente y proveedor.
+
+- **Atributos**:
+    - id (string)
+    - residentId (string)
+    - residentName (string)
+    - description (string)
+    - status (string)
+    - createdAt (string)
+    - provider (string)
+    - companyName (string)
+
+## KPI
+
+Indicadores agregados de ocupación y cartera por administrador.
+
+- **Atributos**:
+    - id (string)
+    - ownerAdminId (string)
+    - totalResidents (number)
+    - occupiedUnits (number)
+    - emptyUnits (number)
+    - totalDebt (number)
+
+## AdminManagementExpense
+
+Gasto de administración registrado con soporte de factura o comprobante.
+
+- **Atributos**:
+    - id (string)
+    - name (string)
+    - amount (number)
+    - purchaseDate (string)
+    - invoicePhotoUrl (string)
+    - ownerAdminId (string)
+
+## TeamWorker
+
+Miembro del equipo de trabajo del edificio o administración.
+
+- **Atributos**:
+    - id (string)
+    - name (string)
+    - phone (string)
+    - dni (string)
+    - salary (number)
+    - photoUrl (string)
+    - ownerAdminId (string)
+
+## Announcement
+
+Comunicado o aviso publicado con prioridad, vigencia y autor.
+
+- **Atributos**:
+    - id (string)
+    - title (string)
+    - body (string)
+    - priority (string)
+    - duration (number)
+    - authorId (string)
+    - authorName (string)
+    - createdAt (string)
+    - expiresAt (string)
+    - ownerAdminId (string)
+
+## SocialSpace
+
+Espacio social o área comune reservable (nombre, aforo, imagen).
+
+- **Atributos**:
+    - id (string)
+    - name (string)
+    - description (string)
+    - capacity (number)
+    - imageUrl (string)
+    - ownerAdminId (string)
+
+## ImportUpload
+
+Metadatos y contenido de una importación masiva de datos (archivo cargado).
+
+- **Atributos**:
+    - id (string)
+    - fileName (string)
+    - mimeType (string)
+    - size (number)
+    - uploadedAt (string)
+    - dataUrl (string)
+    - ownerAdminId (string)
 
 **4.8 Database Design**
 
 **4.8.1 Database Diagram**
   
-![databasediagram.png](../imagenes/databasediagram.png)
+![databasediagram.png](../imagenes/databasediagram.jpeg)
 
 link del diagrama de base de datos: https://lucid.app/lucidchart/ea565e2d-77c5-40ea-87f3-28e6c02e7d20/edit?viewport_loc=-343%2C16%2C2936%2C1439%2C0_0&invitationId=inv_712e52ef-1985-4328-a3eb-e1548cc8c4e8
   
@@ -1865,11 +1954,11 @@ El sitio incluye las secciones desarrolladas para la **TB1** dentro del *Sprint 
 
 El equipo trabajó con **ramas por funcionalidad** y **pull requests** para integrar cambios sin bloquearse mutuamente. A continuación, evidencias de colaboración en GitHub (commits, *network graph*).
 
-![Commits — evidencia 1](../imagenes/chapter-5/commits1.png)
+![Commits — evidencia 1](../imagenes/commit_1.png)
 
-![Commits — evidencia 2](../imagenes/chapter-5/commits2.png)
+![Commits — evidencia 2](../imagenes/commit_2.png)
 
-![Network — colaboración](../imagenes/chapter-5/Network.png)
+![Network — colaboración](../imagenes/network_graph.jpeg)
 
 **5.2.2. Sprint 2** *(Alcance de Desarrollo Frontend)*
 
@@ -2220,6 +2309,63 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 * **Problema:** En el formulario de registro de residentes, los campos para llenar información utilizan colores de fondo y de texto iguales que evitan visualizar claramente lo que se está escribiendo. Distinguir qué es lo que se está llenando puede resultar complicado para usuarios con monitores de bajo brillo o dificultades visuales.
 ![Problema4](../imagenes/problema4.png)
 * **Recomendación:** Utilizar un fondo más claro para el fondo del formulario o para el color del texto.
+### 5.2.3. Sprint 3
+
+Este Sprint se enfoca en el levantamiento de observaciones a nivel de software, la corrección de la base de datos y la finalización de toda la documentación y sustentación en video correspondientes a la entrega final del proyecto **BuildingFex**.
+
+#### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | **Sprint 3** |
+| --- | --- |
+| ***Sprint Planning Background*** | |
+| **Date** | Lunes |
+| **Time** | 21:20 (GMT-5) |
+| **Location** | Reunión virtual por Discord |
+| **Prepared By** | Sebastian Martin Beingolea Montalvo |
+| **Attendees (to planning meeting)** | Sebastian Martin Beingolea Montalvo, Villanueva Rodríguez Giuseppe Adrián, Saul Ortega Muñoz, Alejandro Manuel Jave Chang, Valentin Nicolas Medina Mamani |
+| **Sprint n – 1 Review Summary** | Se revisaron los avances del frontend y la base de datos, identificando observaciones a levantar a nivel de software y la necesidad de ajustar los Story Points en la documentación del informe. |
+| **Sprint n – 1 Retrospective Summary** | El equipo acordó asignar responsabilidades específicas para la documentación final, preparar los slides para la exposición y grabar el video de demostración de manera formal después de clases. |
+| ***Sprint Goal & User Stories*** | |
+| **Sprint 3 Goal** | Para este sprint se requiere el cumplimiento de los siguientes objetivos: Levantar las observaciones de la entrega a nivel de software (incluyendo la revisión de la base de datos sobre distritos y gastos comunitarios) y agregar la "landing videos page". Además, se debe finalizar la redacción de los puntos pendientes del informe (Student Outcome, 5.2.3 al 5.2.3.8 y 5.4) y realizar la grabación del video formal de sustentación. La métrica de cumplimiento se basará en el proceso de cómo nuestro Board de Trello luzca con el paso del tiempo; nuestro resultado final debe mostrar todas las tareas (mínimo 10 por integrante) en el lado derecho de la herramienta, ubicándolas en la columna "Terminado". |
+| **Sprint 3 Velocity** |  estimación basada en 5 tareas/User Stories por integrante) |
+| **Sum of Story Points** | 25 |
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+En esta sección se presentan los aspectos funcionales y técnicos abordados durante el *Sprint 4*: **desarrollo de vistas de Administrador y Residente**. Para cada aspecto se asignó un **Líder (L)** y **Colaboradores (C)**.
+
+| Team Member (Last Name, First Name) | GitHub | FC | IN | BI | DE |
+| --- | --- |----|----|----|----|
+| Villanueva Rodríguez Giuseppe Adrián | [BuildingFex](https://github.com/BuildingFex) | C  | L  | L  | C  |
+| Alejandro Manuel Jave Chang | [BuildingFex](https://github.com/BuildingFex) | C  | C  | L  | L  |
+| Sebastian Martin Beingolea Montalvo | [BuildingFex](https://github.com/BuildingFex) | C  | L  | C  | L  |
+| Saul Ortega Muñoz | [BuildingFex](https://github.com/BuildingFex) | L  | L  | C  | C  |
+| Valentin Nicolas Medina Mamani | [BuildingFex](https://github.com/BuildingFex) | L  | C  | C  | C  |
+
+**Leyenda de aspectos técnicos**
+- **FC**: *Frontend Corrections* — Desarrollo de correciones del Front end.
+- **IN**: *Informe técnico* — Redacción y estructura del informe en el repositorio [**Report**](https://github.com/BuildingFex/Report.git) (`Informe/README.md`).
+- **BI**: *Backend Implementation* — Desarrollol de clases, conexiones y logicas de componentes.
+- **DE**: *Deployment* — Despliegue continuo en producción.
+
+### 5.2.3.3. Sprint Backlog 3
+
+| # Orden | User Story Id | Título                                          | Descripción                                                                                                                                   | Story Points |
+| ------- | ------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1       | US24          | Información clara de gastos del condominio      | Como administrador, quiero poder revisar y corregir la información de gastos del condominio para mantener los datos organizados y confiables. | 3            |
+| 2       | US25          | Página de bienvenida con videos explicativos    | Como visitante, quiero ver una página de inicio con videos informativos para entender qué ofrece la plataforma.                               | 3            |
+| 3       | US26          | Mejora de la experiencia visual del sistema     | Como usuario, quiero que la aplicación se vea más ordenada y sin errores para poder usarla fácilmente.                                        | 3            |
+| 4       | US27          | Finalización de documentación del proyecto      | Como equipo, queremos completar la documentación pendiente del proyecto para cumplir con los requisitos de entrega.                           | 3            |
+| 5       | US28          | Organización del progreso del equipo            | Como equipo, queremos mantener actualizado el tablero de tareas para saber qué está terminado y qué falta.                                    | 2            |
+| 6       | US29          | Preparación de presentación final               | Como equipo, queremos preparar las diapositivas de la exposición para explicar el proyecto claramente.                                        | 2            |
+| 7       | US30          | Grabación del video de presentación del sistema | Como equipo, queremos grabar un video mostrando cómo funciona la plataforma para la sustentación.                                             | 2            |
+| 8       | US31          | Mejor experiencia para el residente             | Como residente, quiero ver la información de mis pagos, reservas y avisos de forma clara y sencilla.                                          | 2            |
+| 9       | US32          | Publicación de avisos del condominio            | Como administrador, quiero publicar avisos importantes para mantener informados a los residentes.                                             | 2            |
+| 10      | US33          | Revisión general del sistema antes de entrega   | Como equipo, queremos revisar toda la plataforma para corregir errores pequeños antes de la entrega final.                                    | 3            |
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3 se implementó y utilizó el backend para soportar las principales funcionalidades de la plataforma de gestión de condominios, permitiendo la gestión y consulta de información de residentes, administradores y comunicados, mientras que el frontend consumió estos servicios para validar los flujos de la aplicación y asegurar la integración entre ambas capas.
 
 ### Conclusiones 
 
@@ -2291,9 +2437,6 @@ Compendio de **evidencias gráficas** citadas en el informe. Las figuras **perma
 - ![Empathy Map — Roberto](../imagenes/EmpathyMapping_Roberto.png)
 - ![Empathy Map — Valeria](../imagenes/EmpathyMapping_Valeria.png)
 - ![Big Picture EventStorming](../imagenes/BigPictureEventstorming.png)
-- ![Big Picture EventStorming — Parte 1](../imagenes/BigPictureEventstormingPart1.png)
-- ![Big Picture EventStorming — Parte 2](../imagenes/BigPictureEventstormingPart2.png)
-- ![Big Picture EventStorming — Parte 3](../imagenes/BigPictureEventstormingPart3.png)
 - ![Impact Mapping](../imagenes/impactmap.png)
 
 ### Anexo F — *Style guidelines* y secciones de *landing*
@@ -2334,7 +2477,7 @@ Compendio de **evidencias gráficas** citadas en el informe. Las figuras **perma
 - ![Mock-up aplicación 8](../imagenes/mockup8app.png)
 - ![Mock-up aplicación 9](../imagenes/mockup9app.png)
 - ![Captura — prototipo / video](../imagenes/prototipovideoimg.png)
-- ![Figura adicional del informe](../imagenes/commit%201.png)
+- ![Figura adicional del informe](../imagenes/commit_1.png)
 
 ### Anexo H — Arquitectura de software y modelo de datos
 
