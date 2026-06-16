@@ -2087,6 +2087,228 @@ Esta sección se limita a lo que corresponde validar o registrar **dentro del al
 
 ![Network — colaboración](../imagenes/network-landingpage.png)
 
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+---
+
+## 5.3. Validation Interviews
+
+En esta sección se documentan las actividades de validación ejecutadas con usuarios reales pertenecientes a nuestros dos segmentos objetivo. El propósito es evaluar la usabilidad, claridad y propuesta de valor tanto de la Landing Page como de los prototipos navegables de la aplicación web de BuildingFex, garantizando que el sistema provea estrictamente el servicio sin flujos de asistencia innecesarios que desvíen la atención del usuario.
+
+### 5.3.1. Diseño de entrevistas
+
+#### Segmento 1: Juntas de Directiva y Residentes
+* **Objetivo de Validación:** Comprobar la claridad de los estados de cuenta presentados y la lógica del flujo para la provisión de reservas de áreas comunes.
+* **Escenarios de Demostración (User Flows):**
+  * **Dashboard y Finanzas:** Se proyectará el panel principal del residente, navegando hacia el detalle de la deuda y simulando el flujo exacto de la pasarela de pago.
+  * **Servicios:** Se mostrará en pantalla el calendario visual, seleccionando una fecha para el "GYM" y generando el código QR de acceso.
+* **Preguntas de Percepción (Post-Demostración):**
+  * Al observar el proceso de pago en la pantalla, ¿la transición entre el saldo deudor y la pasarela te pareció un flujo directo y enfocado estrictamente en la ejecución del servicio?
+  * Durante la demostración del calendario de reservas, ¿la disponibilidad de los horarios te resultó fácil de leer a simple vista?
+  * ¿Consideras que la interfaz gráfica proyecta de manera clara la información financiera sin elementos visuales que distraigan?
+
+#### Segmento 2: Empresas de Gestión de Edificios (Administradores)
+* **Objetivo de Validación:** Medir la percepción de eficiencia técnica al visualizar la gestión de volúmenes operativos, el alta de nuevos usuarios y la asignación de mantenimiento.
+* **Escenarios de Demostración (User Flows):**
+  * **Panel de Control:** Se mostrará el dashboard con los datos más relevantes para el administrador.
+  * **Gestión Avanzada:** Se ejecutará frente al usuario el registro manual de un nuevo residente en la plataforma, asignando sus datos y unidad correspondiente para actualizar el directorio del condominio además de la creación de espacios públicos.
+  * **Registro de residentes:** Se mostrará el proceso para permitir que los residentes creen sus cuentas en la plataforma a través del enlace de invitación del administrador.
+  * **Importación:** Se presentará la opción para subir archivos administrativos a la plataforma.
+  * **Finanzas:** Se mostrará al usuario la vista de finanzas y los estados de los pagos.
+  * **Generación:** Se ejecutará frente al usuario la generación de reservas de espacios e invitados.
+  * **Incidencias:** Se navegará hacia el panel de fallas reportadas y se realizará el cambio de estado asignando a un proveedor técnico para despachar el servicio.
+  * **Información:** Se ejecutará frente al usuario la generación de comunicados con su nivel de prioridad y duración.
+  * **Ayuda a residentes:** Se mostrará el chat asíncrono de ayuda a los residentes.
+  * **Recaudación y gastos de gestión:** Se presentará al usuario la recaudación de las cuotas de los residentes y la creación de gastos administrativos y montos fijos.
+  * **Ajustes:** Se presentará al usuario la vista para visualizar los datos de su cuenta y selección del plan de suscripción.
+* **Preguntas de Percepción (Post-Demostración):**
+  * Al ver cómo se procesa el registro manual de un nuevo residente en la plataforma, ¿el sistema te transmite seguridad sobre el manejo y control de los datos del condominio?
+  * Durante el cambio de pantallas entre el panel general y el de incidencias, ¿notaste fluidez y rapidez en la carga de la información?
+  * ¿El flujo mostrado para despachar una incidencia permite ejecutar el servicio técnico de manera ágil y sin pasos burocráticos?
+
+---
+
+### 5.3.2. Registro de Entrevistas
+
+A continuación, se detalla el registro de las sesiones de validación realizadas con los usuarios seleccionados, grabando la pantalla y la interacción directa con el sistema. 
+
+#### Segmento 1: Junta de Directiva y Residentes
+
+**Entrevista 1**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | Ismael Paredes |
+| **Edad** | 73 |
+| **Distrito** | Jesus Maria |
+| **URL del Video** | video1176560664.mp4 |
+| **Timing y Duración** | Inicio: 00:00 / Duración: 10:00 |
+| **Screenshot** | |
+| **Resumen de Apreciaciones** | Lo tengo en mi word |
+
+**Entrevista 2**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | |
+| **Edad** | |
+| **Distrito** | |
+| **URL del Video** | |
+| **Timing y Duración** | |
+| **Screenshot** | |
+| **Resumen de Apreciaciones**| |
+
+**Entrevista 3**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | |
+| **Edad** | |
+| **Distrito** | |
+| **URL del Video** | |
+| **Timing y Duración** | |
+| **Screenshot** | |
+| **Resumen de Apreciaciones**| |
+
+#### Segmento 2: Empresas de Gestión de Edificios 
+
+**Entrevista 4**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | Manuel Mera |
+| **Edad** | 45 |
+| **Distrito** | San Borja |
+| **URL del Video** | [upc-pre-202610-1asi0730-10203-BuildingFex-validation-sprint-4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312510_upc_edu_pe/IQCINfRRSwCQRZ_W8rjh5tdlAcO-UU8Ozm9a-5x6bFUAa4E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UrMJw7) |
+| **Timing y Duración** | Inicio: 00:00 / Duración: 14:06 |
+| **Screenshot** | ![Entrevista 4](../imagenes/validacion4-manuel.png) |
+| **Resumen de Apreciaciones**| Manuel percibe que el formulario para el registro manual de nuevos residentes es sumamente claro e intuitivo, destacando que no requiere de mayor capacitación para ser utilizado. Valora que la asignación de datos se actualice en tiempo real, ya que esto le transmite una sensación de tener la información bajo control y ayuda a evitar errores operativos al momento de dar de alta a un nuevo inquilino.<br><br>El entrevistado resalta la rapidez y la fluidez en la transición entre las distintas pantallas (como el paso del panel de control general al módulo de incidencias). Considera que, frente al volumen habitual de residentes e incidencias que se registran simultáneamente, el no tener que esperar a que carguen las pantallas o verse obligado a refrescar la página constantemente representa un ahorro significativo de tiempo y evita problemas en la gestión diaria.<br><br>Respecto al flujo para el despacho de incidencias, Manuel lo califica como un proceso ágil y clave para la operación. Aprecia que el sistema permita recibir un reporte y asignarlo directamente al proveedor correspondiente de forma inmediata. Destaca que esto elimina procesos burocráticos como llenar formularios adicionales, realizar llamadas de corroboración o pedir explicaciones extra, permitiendo que la gestión se enfoque de manera directa y exclusiva en la provisión del servicio. |
+
+**Entrevista 5**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | Adrián Delgado |
+| **Edad** | 24 |
+| **Distrito** | Surco |
+| **URL del Video** | [upc-pre-202610-1asi0730-10203-BuildingFex-validation-sprint-5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312510_upc_edu_pe/IQAsSRT6h-qbRZAt7aLpy6QoATwCvzRShHDtiA6paoyybPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4uohuD) |
+| **Timing y Duración** | Inicio: 00:00 / Duración: 9:46 |
+| **Screenshot** | ![Entrevista 5](../imagenes/validacion5-adrian.png) |
+| **Resumen de Apreciaciones**| Adrián percibe que la vista para el registro de nuevos residentes es muy intuitiva y cuenta con campos bien definidos. Valora que, tras guardar la información, el nuevo vecino aparece inmediatamente en la lista, lo que consolida su percepción de estar ante una herramienta B2B sólida y excelente para la gestión diaria.<br><br>El entrevistado destaca la buena optimización de la interfaz, notando una transición fluida al navegar entre el panel general y el módulo de incidencias. Resalta específicamente la ausencia de "loaders" o animaciones de carga que bloqueen la pantalla, permitiendo que la información aparezca de forma sencilla, rápida y muy ágil.<br><br>Respecto al flujo para el despacho de incidencias, Adrián señala que el proceso va directo al grano. Aprecia que el sistema omita pasos burocráticos, pantallas intermedias o módulos de asistencia presentes en otras alternativas, permitiendo que la gestión se reduzca puramente a seleccionar, asignar y proveer el servicio de mantenimiento al instante. |
+
+**Entrevista 6**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | Carlos Chang |
+| **Edad** | 24 |
+| **Distrito** | San Borja |
+| **URL del Video** | [upc-pre-202610-1asi0730-10203-BuildingFex-validation-sprint-6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312510_upc_edu_pe/IQCtrE24D9uxR6qNPq3deQwpAYR0KUtmOHkpUpA4ir3tYR4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=noq9ER) |
+| **Timing y Duración** | Inicio: 00:00 / Duración: 10:37 |
+| **Screenshot** | ![Entrevista 6](../imagenes/validacion6-carlos.png) |
+| **Resumen de Apreciaciones**| Carlos percibe que el formulario para el registro manual de nuevos inquilinos es mucho más claro y seguro frente al uso tradicional de hojas de Excel, un método que él considera un riesgo constante de errores operativos. Valora que el sistema le permita asignar directamente la unidad y los datos del residente, actualizando el directorio al instante, lo que le brinda una mayor tranquilidad y un control absoluto sobre la información del condominio.<br><br>El entrevistado resalta la rapidez en la transición entre las distintas pantallas, como al momento de pasar del panel general al módulo de incidencias. Menciona que, en su rol de administrador, suele saltar de un tema a otro constantemente durante el día, por lo que una interfaz que responde de inmediato y sin pantallas de carga le permite trabajar a su propio ritmo con una herramienta que se siente directa y eficiente.<br><br>Respecto al flujo para el despacho de incidencias, Carlos lo califica como perfecto por ir directo al grano. Aprecia que el sistema omita pasos intermedios burocráticos o módulos destinados a brindar asistencia y guiar al vecino, permitiendo que la gestión se enfoque pura y exclusivamente en visualizar la falla reportada, asignar a un proveedor técnico y ejecutar el servicio. Subraya que este nivel de automatización y practicidad es exactamente lo que busca para poder escalar su negocio. |
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas
+
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta. Para esto la sección debe contener la estructura del formato para evaluaciones de heurísticas indicado en el **Anexo D. Formato para Evaluación de User Experience según Heurísticas**. 
+
+---
+
+#### Formato para Evaluación de User Experience según Heurísticas 
+
+**UX Heuristics & Principles Evaluation**  
+*Usability – Inclusive Design – Information Architecture* 
+
+* **CARRERA:** Ingeniería de Software 
+* **CURSO:** Aplicaciones Web 
+* **SECCIÓN:** Código de la sección 
+* **PROFESORES:** Todos 
+* **AUDITOR:** Optiflow
+* **CLIENTE(S):** 
+  * u20241d317 - Atoche Gonzales, Nicolas Fernando
+  * u202411310 - Azama Fukuda, Juan Pablo
+  * u20241c101 - Capillo Lema, Mía Valentina
+  * u20241b843 - Mechan Montenegro, Luciana Carolina
+  * u202411521 - Morocho Pinedo, Mariana
+
+---
+
+**SITE o APP A EVALUAR:**  
+BuildingFex
+
+**TAREAS A EVALUAR:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas: 
+
+1. Visualización del panel de control del administrador.
+2. Registro manual de un residente nuevo y creación de espacios públicos.
+3. Creación de cuenta de residente mediante enlace de invitación.
+4. Subida de archivos administrativos a la plataforma.
+5. Visualización del estado de cuenta y pagos.
+6. Reserva de espacios e invitados.
+7. Asignación de proveedor técnico a una incidencia reportada.
+8. Generación de comunicados con prioridad y duración.
+9. Uso del chat asíncrono de ayuda a residentes.
+10. Visualización de recaudación y creación de gastos administrativos.
+11. Visualización de cuenta y selección del plan de suscripción.
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+* Procesamiento real de transacciones bancarias mediante la pasarela de pagos.
+* Emisión de facturas electrónicas.
+* Envío automático de notificaciones push a dispositivos móviles.
+* Exportación en PDF de los reportes financieros mensuales.
+
+**ESCALA DE SEVERIDAD:**  
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+| :---: | :--- |
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN:**
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :---: | :--- | :---: | :--- |
+| **1** | En la vista de Ajustes, la selección de un nuevo plan de suscripción no solicita confirmación, exponiendo al usuario a cambios de facturación accidentales. | 3 | Usability: Prevención de errores |
+| **2** | El panel de incidencias no cuenta con filtros o barra de búsqueda para localizar tickets específicos rápidamente. | 2 | Information Architecture: Is it findable? / Flexibilidad y eficiencia de uso |
+| **3** | Al copiar el enlace de invitación para nuevos residentes, el sistema no brinda retroalimentación de éxito. | 2 | Usability: Visibilidad del estado del sistema |
+| **4** | En el registro de residentes, el contraste visual del formulario sobre el fondo es muy bajo. | 3 | Usability: Proporciona experiencias comparables |
+
+---
+
+#### DESCRIPCIÓN DE PROBLEMAS: 
+
+**PROBLEMA #1: Falta de confirmación al cambiar el plan de suscripción en Ajustes**
+* **Severidad:** 3
+* **Heurística violada:** Usabilidad - Prevención de errores
+* **Problema:** Al evaluar la tarea de "Ajustes" para la visualización de la cuenta y selección del plan de suscripción, notamos que al hacer clic sobre un nuevo plan, el sistema aplica el cambio inmediatamente sin mostrar una ventana de confirmación. Esto es un error crítico, ya que un clic accidental podría generar un cambio de facturación no deseado para la empresa administradora, incurriendo en mayores costos o alterando los límites operativos sin previo aviso.
+![Problema1](../imagenes/problema1.png)
+* **Recomendación:** Implementar un modal de confirmación (ej. "¿Estás seguro de que deseas cambiar al Plan Estándar por S/ 80 al mes?") que requiera una acción afirmativa explícita antes de procesar cualquier alteración en el nivel de suscripción.
+
+**PROBLEMA #2: Carencia de filtros y búsqueda en el panel de Incidencias**
+* **Severidad:** 2
+* **Heurística violada:** Information Architecture - Is it findable?
+* **Problema:** Al evaluar la tarea de asignación de proveedores técnicos a incidencias reportadas, notamos que la tabla muestra todos los tickets en una lista plana. A medida que el volumen de reportes del edificio crezca, el administrador no podrá filtrar por estado (Abierto, En proceso, Cerrado) ni buscar una incidencia específica por unidad, obligándolo a realizar scroll de manera ineficiente y extendiendo el tiempo de resolución.
+![Problema2](../imagenes/problema2.png)
+* **Recomendación:** Incorporar una barra de búsqueda por palabra clave y un menú desplegable de filtros múltiples en la parte superior de la tabla de incidencias.  
+
+**PROBLEMA #3: Falta de retroalimentación al copiar el enlace de invitación de residentes**
+* **Severidad:** 2
+* **Heurística violada:** Usabilidad - Visibilidad del estado del sistema
+* **Problema:** En la tarea de registro de nuevos residentes, cuando el administrador hace clic sobre el enlace de invitación para compartirlo con los vecinos, el sistema no emite ninguna alerta visual. El usuario queda con la incertidumbre de si el enlace realmente se copió al portapapeles de su sistema operativo o si ocurrió un error, forzándolo a pegar el texto en otra ventana para comprobarlo.
+![Problema3](../imagenes/problema3.png)
+* **Recomendación:** Implementar un pequeño tooltip que aparezca sobre el enlace que diga "¡Copiado!" o un toast notification temporal en la esquina inferior tras hacer clic en la URL.
+
+**PROBLEMA #4: Bajo contraste en el selector de prioridad al registrar residentes**
+* **Severidad:** 1 *(Nota: La tabla resumen indica severidad 3)*
+* **Heurística violada:** Inclusive Design - Proporciona experiencias comparables
+* **Problema:** En el formulario de registro de residentes, los campos para llenar información utilizan colores de fondo y de texto iguales que evitan visualizar claramente lo que se está escribiendo. Distinguir qué es lo que se está llenando puede resultar complicado para usuarios con monitores de bajo brillo o dificultades visuales.
+![Problema4](../imagenes/problema4.png)
+* **Recomendación:** Utilizar un fondo más claro para el fondo del formulario o para el color del texto.
 ### 5.2.3. Sprint 3
 
 Este Sprint se enfoca en el levantamiento de observaciones a nivel de software, la corrección de la base de datos y la finalización de toda la documentación y sustentación en video correspondientes a la entrega final del proyecto **BuildingFex**.
