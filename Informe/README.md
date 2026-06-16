@@ -2135,6 +2135,22 @@ En esta sección se presentan los aspectos funcionales y técnicos abordados dur
 
 Durante el Sprint 3 se implementó y utilizó el backend para soportar las principales funcionalidades de la plataforma de gestión de condominios, permitiendo la gestión y consulta de información de residentes, administradores y comunicados, mientras que el frontend consumió estos servicios para validar los flujos de la aplicación y asegurar la integración entre ambas capas.
 
+### 5.2.3.7. Repositorio Back-End: BuildingFex/BackEnd
+
+En esta sección se detalla la estructura y alojamiento del código fuente correspondiente a la lógica de negocio y gestión de datos de la plataforma. El repositorio, denominado **BuildingFex/BackEnd**, contiene la implementación de la API (Application Programming Interface) desarrollada para el proyecto.
+
+Este entorno centraliza todos los microservicios y módulos principales que dan soporte a las operaciones de la aplicación, tales como:
+
+* **IAM (Identity and Access Management):** Gestión de usuarios, autenticación y seguridad.
+* **Finances:** Control de pagos, recibos y cuotas.
+* **Incidents:** Registro y seguimiento de incidencias.
+* **SocialSpaces:** Gestión y reserva de áreas comunes.
+
+A continuación, se evidencia el repositorio donde se almacena y versiona el código del Back-End:
+
+![Vista del Repositorio Back-End](../imagenes/reporte5.2.3.7.png)
+
+![Entorno de Desarrollo API](../imagenes/reporte15.2.3.7.png)
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
