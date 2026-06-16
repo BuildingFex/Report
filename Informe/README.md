@@ -2226,22 +2226,24 @@ A continuación, se detalla el registro de las sesiones de validación realizada
 | **Nombres y Apellidos** | Ismael Paredes |
 | **Edad** | 73 |
 | **Distrito** | Jesus Maria |
-| **URL del Video** | video1176560664.mp4 |
+| **URL del Video** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316829_upc_edu_pe/IQA4DLHn8NfxRo0dM2bNTpiQAQL1naof9qCHE5hKU73WqFE?e=eve8Lo |
 | **Timing y Duración** | Inicio: 00:00 / Duración: 10:00 |
-| **Screenshot** | |
-| **Resumen de Apreciaciones** | Lo tengo en mi word |
+| **Screenshot** | ![Entrevista 1](../imagenes/entrevista1_ismael.png) |
+| **Resumen de Apreciaciones** | El entrevistado considera que el sistema propuesto resulta útil para la administración del edificio, destacando especialmente el control de pagos, la gestión de reservas y el registro de invitados. Señala que estas funcionalidades permiten mantener un mejor orden y seguimiento de las actividades de los residentes. Asimismo, resalta la importancia de que el sistema esté respaldado por normas claras y formalizadas, ya que ello facilita la fiscalización, el control de accesos y el uso adecuado de las áreas comunes. Finalmente, valora positivamente la incorporación de mecanismos de identificación y videovigilancia, al considerarlos elementos que fortalecen la seguridad y la responsabilidad dentro de la comunidad.
+ |
 
 **Entrevista 2**
 
 | Campo | Detalle |
 | :--- | :--- |
-| **Nombres y Apellidos** | |
-| **Edad** | |
-| **Distrito** | |
-| **URL del Video** | |
-| **Timing y Duración** | |
-| **Screenshot** | |
-| **Resumen de Apreciaciones**| |
+| **Nombres y Apellidos** | Ana Vidalon |
+| **Edad** | 70 |
+| **Distrito** | Santiago de Surco |
+| **URL del Video** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316829_upc_edu_pe/IQC85d2EsWl0Roj1Kj1M0FawAXl852v_0bCJKmvAcA7amrQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dUBllM |
+| **Timing y Duración** | Inicio: 00:00 / Duración: 10:00|
+| **Screenshot** | ![Entrevista 2](../imagenes/entrevista2_ana.png) |
+| **Resumen de Apreciaciones**| La entrevistada, Ana, de 70 años, considera que la interfaz gráfica del sistema es clara, intuitiva y fácil de comprender. Señala que todos los elementos importantes son visibles y que el proceso de generación de reservas se entiende adecuadamente, ya que permite registrar de forma sencilla a los invitados que visitarán la residencia de un propietario. Asimismo, manifiesta una opinión positiva sobre el módulo de finanzas, destacando la organización de la información y la facilidad de uso del sistema en general, lo que favorece una experiencia accesible para usuarios de diferentes edades.
+ |
 
 **Entrevista 3**
 
