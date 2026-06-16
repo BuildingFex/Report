@@ -2077,6 +2077,21 @@ El flujo de trabajo técnico se gestionó bajo el modelo **GitFlow**. Se design�
 ![network-graph_report](../imagenes/network_graph_report.jpeg)
 ![network-graph_front](../imagenes/network_graph.jpeg)
 
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+El flujo de trabajo técnico se gestionó bajo el modelo **GitFlow**. Se designó la rama `main` como entorno de producción estable y se crearon ramas de características (`feat/*`) para cada módulo específico de las vistas. La integración del código se realizó estrictamente mediante *Pull Requests*, requiriendo revisión y aprobación antes de fusionar los cambios.
+
+![teamcollab1](../imagenes/team1report.png)
+![teamcollab2](../imagenes/team2report.png)
+![teamcollab3](../imagenes/team1front.png)
+![teamcollab4](../imagenes/team2front.png)
+![teamcollab5](../imagenes/team1back.png)
+![teamcollab6](../imagenes/team2back.png)
+
+---
+
 **5.3. Validation Interviews *(TB1)***
 
 Esta sección se limita a lo que corresponde validar o registrar **dentro del alcance de la TB1** (p. ej. revisión de la landing desplegada o criterios de usabilidad acordados con el curso). Entregas posteriores al **TB1** no se documentan aquí.
@@ -2087,9 +2102,6 @@ Esta sección se limita a lo que corresponde validar o registrar **dentro del al
 
 ![Network — colaboración](../imagenes/network-landingpage.png)
 
-### 5.2.3.8. Team Collaboration Insights during Sprint
-
----
 
 ## 5.3. Validation Interviews
 
