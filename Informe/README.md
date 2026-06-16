@@ -2077,6 +2077,63 @@ El flujo de trabajo técnico se gestionó bajo el modelo **GitFlow**. Se design�
 ![network-graph_report](../imagenes/network_graph_report.jpeg)
 ![network-graph_front](../imagenes/network_graph.jpeg)
 
+### 5.2.3. Sprint 3
+
+Este Sprint se enfoca en el levantamiento de observaciones a nivel de software, la corrección de la base de datos y la finalización de toda la documentación y sustentación en video correspondientes a la entrega final del proyecto **BuildingFex**.
+
+#### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | **Sprint 3** |
+| --- | --- |
+| ***Sprint Planning Background*** | |
+| **Date** | Lunes |
+| **Time** | 21:20 (GMT-5) |
+| **Location** | Reunión virtual por Discord |
+| **Prepared By** | Sebastian Martin Beingolea Montalvo |
+| **Attendees (to planning meeting)** | Sebastian Martin Beingolea Montalvo, Villanueva Rodríguez Giuseppe Adrián, Saul Ortega Muñoz, Alejandro Manuel Jave Chang, Valentin Nicolas Medina Mamani |
+| **Sprint n – 1 Review Summary** | Se revisaron los avances del frontend y la base de datos, identificando observaciones a levantar a nivel de software y la necesidad de ajustar los Story Points en la documentación del informe. |
+| **Sprint n – 1 Retrospective Summary** | El equipo acordó asignar responsabilidades específicas para la documentación final, preparar los slides para la exposición y grabar el video de demostración de manera formal después de clases. |
+| ***Sprint Goal & User Stories*** | |
+| **Sprint 3 Goal** | Para este sprint se requiere el cumplimiento de los siguientes objetivos: Levantar las observaciones de la entrega a nivel de software (incluyendo la revisión de la base de datos sobre distritos y gastos comunitarios) y agregar la "landing videos page". Además, se debe finalizar la redacción de los puntos pendientes del informe (Student Outcome, 5.2.3 al 5.2.3.8 y 5.4) y realizar la grabación del video formal de sustentación. La métrica de cumplimiento se basará en el proceso de cómo nuestro Board de Trello luzca con el paso del tiempo; nuestro resultado final debe mostrar todas las tareas (mínimo 10 por integrante) en el lado derecho de la herramienta, ubicándolas en la columna "Terminado". |
+| **Sprint 3 Velocity** |  estimación basada en 5 tareas/User Stories por integrante) |
+| **Sum of Story Points** | 25 |
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+En esta sección se presentan los aspectos funcionales y técnicos abordados durante el *Sprint 4*: **desarrollo de vistas de Administrador y Residente**. Para cada aspecto se asignó un **Líder (L)** y **Colaboradores (C)**.
+
+| Team Member (Last Name, First Name) | GitHub | FC | IN | BI | DE |
+| --- | --- |----|----|----|----|
+| Villanueva Rodríguez Giuseppe Adrián | [BuildingFex](https://github.com/BuildingFex) | C  | L  | L  | C  |
+| Alejandro Manuel Jave Chang | [BuildingFex](https://github.com/BuildingFex) | C  | C  | L  | L  |
+| Sebastian Martin Beingolea Montalvo | [BuildingFex](https://github.com/BuildingFex) | C  | L  | C  | L  |
+| Saul Ortega Muñoz | [BuildingFex](https://github.com/BuildingFex) | L  | L  | C  | C  |
+| Valentin Nicolas Medina Mamani | [BuildingFex](https://github.com/BuildingFex) | L  | C  | C  | C  |
+
+**Leyenda de aspectos técnicos**
+- **FC**: *Frontend Corrections* — Desarrollo de correciones del Front end.
+- **IN**: *Informe técnico* — Redacción y estructura del informe en el repositorio [**Report**](https://github.com/BuildingFex/Report.git) (`Informe/README.md`).
+- **BI**: *Backend Implementation* — Desarrollol de clases, conexiones y logicas de componentes.
+- **DE**: *Deployment* — Despliegue continuo en producción.
+
+### 5.2.3.3. Sprint Backlog 3
+
+| # Orden | User Story Id | Título                                          | Descripción                                                                                                                                   | Story Points |
+| ------- | ------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1       | US24          | Información clara de gastos del condominio      | Como administrador, quiero poder revisar y corregir la información de gastos del condominio para mantener los datos organizados y confiables. | 3            |
+| 2       | US25          | Página de bienvenida con videos explicativos    | Como visitante, quiero ver una página de inicio con videos informativos para entender qué ofrece la plataforma.                               | 3            |
+| 3       | US26          | Mejora de la experiencia visual del sistema     | Como usuario, quiero que la aplicación se vea más ordenada y sin errores para poder usarla fácilmente.                                        | 3            |
+| 4       | US27          | Finalización de documentación del proyecto      | Como equipo, queremos completar la documentación pendiente del proyecto para cumplir con los requisitos de entrega.                           | 3            |
+| 5       | US28          | Organización del progreso del equipo            | Como equipo, queremos mantener actualizado el tablero de tareas para saber qué está terminado y qué falta.                                    | 2            |
+| 6       | US29          | Preparación de presentación final               | Como equipo, queremos preparar las diapositivas de la exposición para explicar el proyecto claramente.                                        | 2            |
+| 7       | US30          | Grabación del video de presentación del sistema | Como equipo, queremos grabar un video mostrando cómo funciona la plataforma para la sustentación.                                             | 2            |
+| 8       | US31          | Mejor experiencia para el residente             | Como residente, quiero ver la información de mis pagos, reservas y avisos de forma clara y sencilla.                                          | 2            |
+| 9       | US32          | Publicación de avisos del condominio            | Como administrador, quiero publicar avisos importantes para mantener informados a los residentes.                                             | 2            |
+| 10      | US33          | Revisión general del sistema antes de entrega   | Como equipo, queremos revisar toda la plataforma para corregir errores pequeños antes de la entrega final.                                    | 3            |
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3 se implementó y utilizó el backend para soportar las principales funcionalidades de la plataforma de gestión de condominios, permitiendo la gestión y consulta de información de residentes, administradores y comunicados, mientras que el frontend consumió estos servicios para validar los flujos de la aplicación y asegurar la integración entre ambas capas.
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
@@ -2091,17 +2148,6 @@ El flujo de trabajo técnico se gestionó bajo el modelo **GitFlow**. Se design�
 ![teamcollab6](../imagenes/team2back.png)
 
 ---
-
-**5.3. Validation Interviews *(TB1)***
-
-Esta sección se limita a lo que corresponde validar o registrar **dentro del alcance de la TB1** (p. ej. revisión de la landing desplegada o criterios de usabilidad acordados con el curso). Entregas posteriores al **TB1** no se documentan aquí.
-
-![Commits — evidencia 1](../imagenes/aaaaaa.png)
-
-![Commits — evidencia 2](../imagenes/commit-repo.png)
-
-![Network — colaboración](../imagenes/network-landingpage.png)
-
 
 ## 5.3. Validation Interviews
 
@@ -2321,63 +2367,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 * **Problema:** En el formulario de registro de residentes, los campos para llenar información utilizan colores de fondo y de texto iguales que evitan visualizar claramente lo que se está escribiendo. Distinguir qué es lo que se está llenando puede resultar complicado para usuarios con monitores de bajo brillo o dificultades visuales.
 ![Problema4](../imagenes/problema4.png)
 * **Recomendación:** Utilizar un fondo más claro para el fondo del formulario o para el color del texto.
-### 5.2.3. Sprint 3
-
-Este Sprint se enfoca en el levantamiento de observaciones a nivel de software, la corrección de la base de datos y la finalización de toda la documentación y sustentación en video correspondientes a la entrega final del proyecto **BuildingFex**.
-
-#### 5.2.3.1. Sprint Planning 3
-
-| **Sprint #** | **Sprint 3** |
-| --- | --- |
-| ***Sprint Planning Background*** | |
-| **Date** | Lunes |
-| **Time** | 21:20 (GMT-5) |
-| **Location** | Reunión virtual por Discord |
-| **Prepared By** | Sebastian Martin Beingolea Montalvo |
-| **Attendees (to planning meeting)** | Sebastian Martin Beingolea Montalvo, Villanueva Rodríguez Giuseppe Adrián, Saul Ortega Muñoz, Alejandro Manuel Jave Chang, Valentin Nicolas Medina Mamani |
-| **Sprint n – 1 Review Summary** | Se revisaron los avances del frontend y la base de datos, identificando observaciones a levantar a nivel de software y la necesidad de ajustar los Story Points en la documentación del informe. |
-| **Sprint n – 1 Retrospective Summary** | El equipo acordó asignar responsabilidades específicas para la documentación final, preparar los slides para la exposición y grabar el video de demostración de manera formal después de clases. |
-| ***Sprint Goal & User Stories*** | |
-| **Sprint 3 Goal** | Para este sprint se requiere el cumplimiento de los siguientes objetivos: Levantar las observaciones de la entrega a nivel de software (incluyendo la revisión de la base de datos sobre distritos y gastos comunitarios) y agregar la "landing videos page". Además, se debe finalizar la redacción de los puntos pendientes del informe (Student Outcome, 5.2.3 al 5.2.3.8 y 5.4) y realizar la grabación del video formal de sustentación. La métrica de cumplimiento se basará en el proceso de cómo nuestro Board de Trello luzca con el paso del tiempo; nuestro resultado final debe mostrar todas las tareas (mínimo 10 por integrante) en el lado derecho de la herramienta, ubicándolas en la columna "Terminado". |
-| **Sprint 3 Velocity** |  estimación basada en 5 tareas/User Stories por integrante) |
-| **Sum of Story Points** | 25 |
-
-### 5.2.3.2. Aspect Leaders and Collaborators
-
-En esta sección se presentan los aspectos funcionales y técnicos abordados durante el *Sprint 4*: **desarrollo de vistas de Administrador y Residente**. Para cada aspecto se asignó un **Líder (L)** y **Colaboradores (C)**.
-
-| Team Member (Last Name, First Name) | GitHub | FC | IN | BI | DE |
-| --- | --- |----|----|----|----|
-| Villanueva Rodríguez Giuseppe Adrián | [BuildingFex](https://github.com/BuildingFex) | C  | L  | L  | C  |
-| Alejandro Manuel Jave Chang | [BuildingFex](https://github.com/BuildingFex) | C  | C  | L  | L  |
-| Sebastian Martin Beingolea Montalvo | [BuildingFex](https://github.com/BuildingFex) | C  | L  | C  | L  |
-| Saul Ortega Muñoz | [BuildingFex](https://github.com/BuildingFex) | L  | L  | C  | C  |
-| Valentin Nicolas Medina Mamani | [BuildingFex](https://github.com/BuildingFex) | L  | C  | C  | C  |
-
-**Leyenda de aspectos técnicos**
-- **FC**: *Frontend Corrections* — Desarrollo de correciones del Front end.
-- **IN**: *Informe técnico* — Redacción y estructura del informe en el repositorio [**Report**](https://github.com/BuildingFex/Report.git) (`Informe/README.md`).
-- **BI**: *Backend Implementation* — Desarrollol de clases, conexiones y logicas de componentes.
-- **DE**: *Deployment* — Despliegue continuo en producción.
-
-### 5.2.3.3. Sprint Backlog 3
-
-| # Orden | User Story Id | Título                                          | Descripción                                                                                                                                   | Story Points |
-| ------- | ------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1       | US24          | Información clara de gastos del condominio      | Como administrador, quiero poder revisar y corregir la información de gastos del condominio para mantener los datos organizados y confiables. | 3            |
-| 2       | US25          | Página de bienvenida con videos explicativos    | Como visitante, quiero ver una página de inicio con videos informativos para entender qué ofrece la plataforma.                               | 3            |
-| 3       | US26          | Mejora de la experiencia visual del sistema     | Como usuario, quiero que la aplicación se vea más ordenada y sin errores para poder usarla fácilmente.                                        | 3            |
-| 4       | US27          | Finalización de documentación del proyecto      | Como equipo, queremos completar la documentación pendiente del proyecto para cumplir con los requisitos de entrega.                           | 3            |
-| 5       | US28          | Organización del progreso del equipo            | Como equipo, queremos mantener actualizado el tablero de tareas para saber qué está terminado y qué falta.                                    | 2            |
-| 6       | US29          | Preparación de presentación final               | Como equipo, queremos preparar las diapositivas de la exposición para explicar el proyecto claramente.                                        | 2            |
-| 7       | US30          | Grabación del video de presentación del sistema | Como equipo, queremos grabar un video mostrando cómo funciona la plataforma para la sustentación.                                             | 2            |
-| 8       | US31          | Mejor experiencia para el residente             | Como residente, quiero ver la información de mis pagos, reservas y avisos de forma clara y sencilla.                                          | 2            |
-| 9       | US32          | Publicación de avisos del condominio            | Como administrador, quiero publicar avisos importantes para mantener informados a los residentes.                                             | 2            |
-| 10      | US33          | Revisión general del sistema antes de entrega   | Como equipo, queremos revisar toda la plataforma para corregir errores pequeños antes de la entrega final.                                    | 3            |
-
-### 5.2.3.6. Services Documentation Evidence for Sprint Review
-
-Durante el Sprint 3 se implementó y utilizó el backend para soportar las principales funcionalidades de la plataforma de gestión de condominios, permitiendo la gestión y consulta de información de residentes, administradores y comunicados, mientras que el frontend consumió estos servicios para validar los flujos de la aplicación y asegurar la integración entre ambas capas.
 
 ### Conclusiones 
 
