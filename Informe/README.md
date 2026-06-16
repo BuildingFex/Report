@@ -2135,12 +2135,12 @@ En esta sección se presentan los aspectos funcionales y técnicos abordados dur
 
 Durante este *Sprint*, el equipo trabajó en el repositorio **[BuildingFex/BackEnd](https://github.com/BuildingFex/BackEnd)**, desarrollando la lógica de negocio, persistencia de datos y servicios REST mediante **ASP.NET Core Web API** y **Entity Framework Core**, utilizando **JetBrains Rider** para la implementación, depuración y gestión de migraciones. Se implementaron los módulos de administración financiera, gestión de incidencias y administración de información del edificio, siguiendo una arquitectura basada en capas para garantizar escalabilidad, mantenibilidad e integración con el frontend desarrollado en Angular.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
-| --- | --- | --- | --- | --- | --- |
-| `BuildingFex/BackEnd` | `finances-admin` | *(hash)* | `feat(finance): implement financial management endpoints` | Desarrollo de controladores, servicios y repositorios para la gestión financiera, pagos y consultas administrativas. | *(31/05/2026)* |
-| `BuildingFex/BackEnd` | `incidents-admin` | *(hash)* | `feat(incidents): add incident tracking module` | Implementación de operaciones CRUD para incidencias, seguimiento de estados y registro de reportes. | *(01/06/2026)* |
-| `BuildingFex/BackEnd` | `information-admin` | *(hash)* | `feat(information): implement building information management` | Desarrollo de endpoints para la administración de información, anuncios y comunicaciones dirigidas a los residentes. | *(02/06/2026)* |
-
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on   |
+| --- | --- | --- | --- | --- |----------------|
+| `BuildingFex/BackEnd` | `main` | *(hash)* | `chore(core): setup backend architecture` | Configuración inicial de la API, estructura del proyecto, conexión a la base de datos y configuración de Entity Framework Core. | *(08/06/2026)* |
+| `BuildingFex/BackEnd` | `finances-admin` | *(hash)* | `feat(finance): implement financial management endpoints` | Desarrollo de controladores, servicios y repositorios para la gestión financiera, pagos y consultas administrativas. | *(10/06/2026)* |
+| `BuildingFex/BackEnd` | `incidents-admin` | *(hash)* | `feat(incidents): add incident tracking module` | Implementación de operaciones CRUD para incidencias, seguimiento de estados y registro de reportes. | *(12/06/2026)* |
+| `BuildingFex/BackEnd` | `information-admin` | *(hash)* | `feat(information): implement building information management` | Desarrollo de endpoints para la administración de información, anuncios y comunicaciones dirigidas a los residentes. | *(12/06/2026)* |
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
