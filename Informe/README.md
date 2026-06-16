@@ -948,6 +948,7 @@ link del Big Picture EventStorming https://miro.com/welcomeonboard/bXdOWFFHWU1GW
 | 11 | US11 | Como usuario, quiero cambiar el idioma para entender mejor el contenido de la plataforma. | 3 |
 | 12 | US12 | Como usuario interesado o registrado, quiero tener un botón visible para acceder a la aplicación web. | 1 |
 | 13 | US13 | Como junta directiva, quiero navegar fácilmente desde mi celular para acceder rápidamente a la información. | 3 |
+<<<<<<< Updated upstream
 | 14 | US14 | Como administrador, quiero registrar un nuevo edificio en el sistema, para empezar a gestionar sus finanzas de manera independiente. | 5 |
 | 15 | US15 | Como administrador, quiero subir un archivo Excel con los datos de los vecinos, para no tener que registrar departamento por departamento manualmente. | 5 |
 | 16 | US16 | Como administrador, quiero generar los recibos de mantenimiento de todos los departamentos con un solo clic, para ahorrar tiempo al inicio de cada mes. | 5 |
@@ -957,6 +958,27 @@ link del Big Picture EventStorming https://miro.com/welcomeonboard/bXdOWFFHWU1GW
 | 20 | US20 | Como residente, quiero reservar la zona de parrillas desde la plataforma, para asegurar mi turno sin buscar al conserje. | 3 |
 | 21 | US21 | Como residente, quiero generar un código QR de invitación, para que mis visitas puedan ingresar rápido y el conserje los valide. | 5 |
 | 22 | US22 | Como administrador, quiero ver un resumen visual de los ingresos y el porcentaje de morosidad, para conocer la salud financiera del edificio rápidamente. | 5 |
+=======
+| 14 | **US-14** | **Como** usuario registrado, **quiero** iniciar sesión con mis credenciales, **para** acceder a mi panel correspondiente. | 3 |
+| 15 | **US-15** | **Como** administrador, **quiero** registrar un nuevo edificio en el sistema, **para** empezar a gestionar sus finanzas de manera independiente. | 3 |
+| 16 | **US-16** | **Como** administrador, **quiero** subir un Excel con los datos de los vecinos, **para** agilizar la migración al sistema. | 5 |
+| 17 | **US-17** | **Como** residente, **quiero** visualizar una gráfica de mi estado de cuenta en el dashboard, **para** entender rápidamente mi balance de pagos. | 3 |
+| 18 | **US-18** | **Como** residente, **quiero** abrir modales de "Ver todos" para incidencias y reservas, **para** consultar mi historial sin salir de la vista principal. | 2 |
+| 19 | **US-19** | **Como** administrador, **quiero** crear comunicados con una duración específica, **para** asegurar que los anuncios antiguos dejen de mostrarse automáticamente. | 3 |
+| 20 | **US-20** | **Como** residente, **quiero** visualizar los anuncios vigentes en un carrusel interactivo, **para** mantenerme informado de forma cómoda. | 2 |
+| 21 | **US-21** | **Como** administrador, **quiero** que el sistema genere automáticamente la cuota mensual, **para** digitalizar el recaudo y ahorrar tiempo. | 5 |
+| 22 | **US-22** | **Como** residente, **quiero** pagar mis cuotas usando mi tarjeta mediante Mercado Pago, **para** mantener mi cuenta al día de forma segura. | 5 |
+| 23 | **US-23** | **Como** administrador, **quiero** visualizar el monto total de morosidad, **para** priorizar las acciones de cobranza. | 3 |
+| 24 | **US-24** | **Como** residente, **quiero** reportar una incidencia detallando el problema, **para** centralizar el reporte técnico. | 2 |
+| 25 | **US-25** | **Como** residente, **quiero** ver las áreas comunes disponibles, **para** conocer las instalaciones que puedo utilizar. | 2 |
+| 26 | **US-26** | **Como** residente, **quiero** ver qué días está disponible un área en un calendario visual, **para** programar mis eventos sin traslapes. | 5 |
+| 27 | **US-27** | **Como** residente, **quiero** generar un código QR para mis invitados, **para** automatizar la gestión en portería. | 5 |
+| 28 | **US-28** | **Como** administrador, **quiero** registrar y editar unidades, **para** controlar la capacidad del plan contratado en BuildingFlex. | 3 |
+| 29 | **US-29** | **Como** administrador, **quiero** visualizar un calendario de pagos semaforizado, **para** identificar rápidamente quiénes tienen cuotas vencidas. | 5 |
+| 30 | **US-30** | **Como** administrador, **quiero** registrar los gastos operativos, **para** obtener un balance neto real del mes. | 3 |
+| 31 | **US-31** | **Como** administrador, **quiero** asignar un proveedor y cambiar el estado de las incidencias, **para** que el residente esté informado. | 3 |
+| 32 | **US-32** | **Como** administrador, **quiero** responder mensajes de los residentes desde una bandeja centralizada, **para** brindar soporte directo en tiempo real. | 5 |
+>>>>>>> Stashed changes
 
 ---
 
