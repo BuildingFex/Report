@@ -2191,28 +2191,28 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 * **Severidad:** 3
 * **Heurística violada:** Usabilidad - Prevención de errores
 * **Problema:** Al evaluar la tarea de "Ajustes" para la visualización de la cuenta y selección del plan de suscripción, notamos que al hacer clic sobre un nuevo plan, el sistema aplica el cambio inmediatamente sin mostrar una ventana de confirmación. Esto es un error crítico, ya que un clic accidental podría generar un cambio de facturación no deseado para la empresa administradora, incurriendo en mayores costos o alterando los límites operativos sin previo aviso.
-* ![Problema1](../imagenes/problema1.png)
+![Problema1](../imagenes/problema1.png)
 * **Recomendación:** Implementar un modal de confirmación (ej. "¿Estás seguro de que deseas cambiar al Plan Estándar por S/ 80 al mes?") que requiera una acción afirmativa explícita antes de procesar cualquier alteración en el nivel de suscripción.
 
 **PROBLEMA #2: Carencia de filtros y búsqueda en el panel de Incidencias**
 * **Severidad:** 2
 * **Heurística violada:** Information Architecture - Is it findable?
 * **Problema:** Al evaluar la tarea de asignación de proveedores técnicos a incidencias reportadas, notamos que la tabla muestra todos los tickets en una lista plana. A medida que el volumen de reportes del edificio crezca, el administrador no podrá filtrar por estado (Abierto, En proceso, Cerrado) ni buscar una incidencia específica por unidad, obligándolo a realizar scroll de manera ineficiente y extendiendo el tiempo de resolución.
-* ![Problema2](../imagenes/problema2.png)
+![Problema2](../imagenes/problema2.png)
 * **Recomendación:** Incorporar una barra de búsqueda por palabra clave y un menú desplegable de filtros múltiples en la parte superior de la tabla de incidencias.  
 
 **PROBLEMA #3: Falta de retroalimentación al copiar el enlace de invitación de residentes**
 * **Severidad:** 2
 * **Heurística violada:** Usabilidad - Visibilidad del estado del sistema
 * **Problema:** En la tarea de registro de nuevos residentes, cuando el administrador hace clic sobre el enlace de invitación para compartirlo con los vecinos, el sistema no emite ninguna alerta visual. El usuario queda con la incertidumbre de si el enlace realmente se copió al portapapeles de su sistema operativo o si ocurrió un error, forzándolo a pegar el texto en otra ventana para comprobarlo.
-* ![Problema3](../imagenes/problema3.png)
+![Problema3](../imagenes/problema3.png)
 * **Recomendación:** Implementar un pequeño tooltip que aparezca sobre el enlace que diga "¡Copiado!" o un toast notification temporal en la esquina inferior tras hacer clic en la URL.
 
 **PROBLEMA #4: Bajo contraste en el selector de prioridad al registrar residentes**
 * **Severidad:** 1 *(Nota: La tabla resumen indica severidad 3)*
 * **Heurística violada:** Inclusive Design - Proporciona experiencias comparables
 * **Problema:** En el formulario de registro de residentes, los campos para llenar información utilizan colores de fondo y de texto iguales que evitan visualizar claramente lo que se está escribiendo. Distinguir qué es lo que se está llenando puede resultar complicado para usuarios con monitores de bajo brillo o dificultades visuales.
-* ![Problema4](../imagenes/problema4.png)
+![Problema4](../imagenes/problema4.png)
 * **Recomendación:** Utilizar un fondo más claro para el fondo del formulario o para el color del texto.
 
 ### Conclusiones 
