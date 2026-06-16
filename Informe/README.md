@@ -2131,6 +2131,17 @@ En esta sección se presentan los aspectos funcionales y técnicos abordados dur
 | 9       | US32          | Publicación de avisos del condominio            | Como administrador, quiero publicar avisos importantes para mantener informados a los residentes.                                             | 2            |
 | 10      | US33          | Revisión general del sistema antes de entrega   | Como equipo, queremos revisar toda la plataforma para corregir errores pequeños antes de la entrega final.                                    | 3            |
 
+### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante este *Sprint*, el equipo trabajó en el repositorio **[BuildingFex/BackEnd](https://github.com/BuildingFex/BackEnd)**, desarrollando la lógica de negocio, persistencia de datos y servicios REST mediante **ASP.NET Core Web API** y **Entity Framework Core**, utilizando **JetBrains Rider** para la implementación, depuración y gestión de migraciones. Se implementaron los módulos de administración financiera, gestión de incidencias y administración de información del edificio, siguiendo una arquitectura basada en capas para garantizar escalabilidad, mantenibilidad e integración con el frontend desarrollado en Angular.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
+| --- | --- | --- | --- | --- | --- |
+| `BuildingFex/BackEnd` | `finances-admin` | *(hash)* | `feat(finance): implement financial management endpoints` | Desarrollo de controladores, servicios y repositorios para la gestión financiera, pagos y consultas administrativas. | *(31/05/2026)* |
+| `BuildingFex/BackEnd` | `incidents-admin` | *(hash)* | `feat(incidents): add incident tracking module` | Implementación de operaciones CRUD para incidencias, seguimiento de estados y registro de reportes. | *(01/06/2026)* |
+| `BuildingFex/BackEnd` | `information-admin` | *(hash)* | `feat(information): implement building information management` | Desarrollo de endpoints para la administración de información, anuncios y comunicaciones dirigidas a los residentes. | *(02/06/2026)* |
+
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 3 se implementó y utilizó el backend para soportar las principales funcionalidades de la plataforma de gestión de condominios, permitiendo la gestión y consulta de información de residentes, administradores y comunicados, mientras que el frontend consumió estos servicios para validar los flujos de la aplicación y asegurar la integración entre ambas capas.
