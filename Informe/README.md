@@ -127,7 +127,7 @@ Gráfico de actividad durante la preparación del TB1. Los commits reflejan prog
 En esta sección se presenta la relación entre el trabajo realizado por el equipo y las dimensiones del Student Outcome establecido. Cada integrante ha colaborado en la redacción conjunta de los sustentos y evidencias que demuestran cómo las actividades desarrolladas en la **TB1** han contribuido al logro de este objetivo. A través de las acciones individuales y colectivas, se busca evidenciar de manera clara y organizada el impacto del proyecto en el desarrollo de las competencias señaladas.
 
 
-| Criterio específico | Acciones realizadas (TB1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Criterio específico | Acciones realizadas (TB1) | Conclusiones |
 | :--- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta | Sebastian Martin Beingolea Montalvo — U202217853<br>TB1: Asumí responsabilidades compartidas dentro del equipo, coordinando tareas y apoyando a mis compañeros para mantener una organización eficiente y colaborativa durante el desarrollo del trabajo.<br>TP: Colaboré en la organización de las mejoras del documento y en la coordinación de actividades relacionadas con el Sprint 2, promoviendo una comunicación constante entre los integrantes para mantener un trabajo colaborativo y ordenado.<br><br>Villanueva Rodríguez Giuseppe Adrián — U20221c554<br>TB1: Contribuí al liderazgo conjunto promoviendo la comunicación constante entre los integrantes y motivando la participación activa de todos en la toma de decisiones del proyecto.<br>TP: Participé activamente en la revisión y mejora del documento del proyecto, apoyando en la integración de aportes del equipo y fomentando un ambiente de trabajo participativo e inclusivo durante el desarrollo del Sprint 2.<br><br>Saul Ortega Muñoz — U20231c019<br>TB1: Participé activamente en la distribución equilibrada de tareas, colaborando con el equipo para garantizar que todos pudiéramos aportar y avanzar de manera coordinada. <br>TP: Colaboré en el desarrollo del frontend de la aplicación apoyando en la implementación de interfaces y en la integración de componentes visuales, manteniendo una comunicación constante con el equipo para fomentar un trabajo colaborativo e inclusivo.<br><br>Alejandro Manuel Jave Chang — U202312510<br>TB1: Apoyé en la coordinación de ideas y actividades grupales, fomentando un liderazgo colaborativo basado en el respeto, la cooperación y el cumplimiento de objetivos comunes.<br>TP: Apoyé en la elaboración del capítulo 5 y en la coordinación de tareas relacionadas con el Sprint 2, contribuyendo a que el equipo trabajara de manera organizada y alineada con los objetivos del proyecto.<br><br>Valentin Nicolas Medina Mamani — U202316829<br>TB1: Colaboré en la planificación de las actividades del equipo, impulsando un ambiente de trabajo participativo donde cada integrante pudiera asumir responsabilidades y contribuir al logro del proyecto. <br>TP: Colaboré en las mejoras del documento y en la revisión del contenido desarrollado para el Sprint 2, promoviendo el apoyo mutuo y la participación activa de todos los integrantes del equipo. | **Conclusión grupal:** Durante el desarrollo de la TB1, el equipo logró trabajar de manera colaborativa y organizada, promoviendo un liderazgo conjunto en cada una de las actividades realizadas. Todos los integrantes participaron activamente en la coordinación de tareas, la toma de decisiones y el apoyo mutuo, permitiendo mantener una comunicación efectiva y un ambiente de trabajo cooperativo. Gracias a ello, se fortaleció la capacidad del equipo para asumir responsabilidades compartidas y alcanzar los objetivos del proyecto de manera eficiente. <br> <br> **TP:**  Durante el desarrollo de la TP, el equipo trabajó de manera coordinada y colaborativa, compartiendo responsabilidades y apoyándose mutuamente en las distintas etapas del proyecto. La comunicación constante y la participación activa de todos los integrantes permitieron ejercer un liderazgo conjunto que facilitó la integración de ideas y el cumplimiento eficiente de las actividades asignadas. |
 | 5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Sebastian Martin Beingolea Montalvo — U202217853<br>TB1: Promoví un entorno colaborativo dentro del equipo al coordinar la definición de metas y la distribución de tareas, asegurando que todos los integrantes pudieran cumplir sus responsabilidades en los tiempos establecidos.<br>TP: Participé en la planificación de las actividades relacionadas con las mejoras del documento y el Sprint 2, cumpliendo con las tareas asignadas dentro de los plazos establecidos para asegurar el avance del proyecto.<br><br>Villanueva Rodríguez Giuseppe Adrián — U20221c554<br>TB1: Contribuí a mantener un ambiente inclusivo y organizado, apoyando en la planificación de actividades grupales y cumpliendo oportunamente con los objetivos asignados para el desarrollo del proyecto.<br>TP: Organicé mis actividades de revisión y actualización del documento de acuerdo con los objetivos del equipo, contribuyendo al cumplimiento oportuno de las entregas establecidas para la TP.<br><br>Saul Ortega Muñoz — U20231c019<br>TB1: Participé activamente en la planificación y seguimiento de tareas, fomentando la cooperación entre los integrantes para garantizar el cumplimiento de las metas establecidas en la TB1.<br>TP: Colaboré en la planificación y desarrollo de las funcionalidades del frontend, organizando mis tareas de acuerdo con los objetivos establecidos y cumpliendo oportunamente con la entrega de componentes para contribuir al avance del proyecto.<br><br>Alejandro Manuel Jave Chang — U202312510<br>TB1: Colaboré en la organización de las actividades del equipo y en la estimación de tiempos de trabajo, contribuyendo a un entorno de respeto y apoyo mutuo orientado al logro de objetivos comunes. <br>TP: Participé en la organización y desarrollo del capítulo 5 del proyecto, planificando mis tareas de manera responsable para cumplir con los objetivos y entregables definidos para el Sprint 2.<br><br>Valentin Nicolas Medina Mamani — U202316829<br>TB1: Apoyé en la coordinación de las tareas semanales y en la comunicación constante del equipo, promoviendo un ambiente participativo que permitió cumplir con los objetivos del reporte de manera eficiente.  <br>TP: Apoyé en la coordinación de las mejoras del documento y en la revisión de avances del Sprint 2, colaborando con el equipo para cumplir las metas propuestas de manera eficiente y organizada.                                                                                                                                                                 | **Conclusión grupal:** Durante el desarrollo de la TB1, el equipo logró crear un entorno colaborativo e inclusivo que facilitó la participación activa de todos los integrantes en las distintas actividades del proyecto. Se establecieron metas claras y se planificaron las tareas de manera organizada, permitiendo una adecuada distribución de responsabilidades y un seguimiento constante del progreso. Gracias a la comunicación efectiva, el apoyo mutuo y el cumplimiento oportuno de los entregables, el equipo pudo alcanzar los objetivos planteados de forma eficiente y coordinada.  <br> <br> **TP:**  En la TP, el equipo logró mantener un entorno colaborativo e inclusivo mediante una adecuada organización de tareas y una planificación constante de los objetivos del proyecto. Gracias a la distribución equilibrada de responsabilidades, el seguimiento de avances y el compromiso de cada integrante, se cumplieron satisfactoriamente las metas establecidas y los entregables definidos para la aplicación.                                                                                                                                                                                                                                                                                                                                                                             |
@@ -218,9 +218,8 @@ En esta sección se presenta la relación entre el trabajo realizado por el equi
   - 5.3.2 Registro de entrevistas  
   - 5.3.3 Validación según heurísticas  
 
+## Conclusiones
 ### Bibliografía
-
-
 ### Anexos
 
 
@@ -1998,6 +1997,241 @@ Esta sección se limita a lo que corresponde validar o registrar **dentro del al
 ![Commits — evidencia 2](../imagenes/commit-repo.png)
 
 ![Network — colaboración](../imagenes/network-landingpage.png)
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+---
+
+## 5.3. Validation Interviews
+
+En esta sección se documentan las actividades de validación ejecutadas con usuarios reales pertenecientes a nuestros dos segmentos objetivo. El propósito es evaluar la usabilidad, claridad y propuesta de valor tanto de la Landing Page como de los prototipos navegables de la aplicación web de BuildingFex, garantizando que el sistema provea estrictamente el servicio sin flujos de asistencia innecesarios que desvíen la atención del usuario.
+
+### 5.3.1. Diseño de entrevistas
+
+#### Segmento 1: Juntas de Directiva y Residentes
+* **Objetivo de Validación:** Comprobar la claridad de los estados de cuenta presentados y la lógica del flujo para la provisión de reservas de áreas comunes.
+* **Escenarios de Demostración (User Flows):**
+  * **Dashboard y Finanzas:** Se proyectará el panel principal del residente, navegando hacia el detalle de la deuda y simulando el flujo exacto de la pasarela de pago.
+  * **Servicios:** Se mostrará en pantalla el calendario visual, seleccionando una fecha para el "GYM" y generando el código QR de acceso.
+* **Preguntas de Percepción (Post-Demostración):**
+  * Al observar el proceso de pago en la pantalla, ¿la transición entre el saldo deudor y la pasarela te pareció un flujo directo y enfocado estrictamente en la ejecución del servicio?
+  * Durante la demostración del calendario de reservas, ¿la disponibilidad de los horarios te resultó fácil de leer a simple vista?
+  * ¿Consideras que la interfaz gráfica proyecta de manera clara la información financiera sin elementos visuales que distraigan?
+
+#### Segmento 2: Empresas de Gestión de Edificios (Administradores)
+* **Objetivo de Validación:** Medir la percepción de eficiencia técnica al visualizar la gestión de volúmenes operativos, el alta de nuevos usuarios y la asignación de mantenimiento.
+* **Escenarios de Demostración (User Flows):**
+  * **Panel de Control:** Se mostrará el dashboard con los datos más relevantes para el administrador.
+  * **Gestión Avanzada:** Se ejecutará frente al usuario el registro manual de un nuevo residente en la plataforma, asignando sus datos y unidad correspondiente para actualizar el directorio del condominio además de la creación de espacios públicos.
+  * **Registro de residentes:** Se mostrará el proceso para permitir que los residentes creen sus cuentas en la plataforma a través del enlace de invitación del administrador.
+  * **Importación:** Se presentará la opción para subir archivos administrativos a la plataforma.
+  * **Finanzas:** Se mostrará al usuario la vista de finanzas y los estados de los pagos.
+  * **Generación:** Se ejecutará frente al usuario la generación de reservas de espacios e invitados.
+  * **Incidencias:** Se navegará hacia el panel de fallas reportadas y se realizará el cambio de estado asignando a un proveedor técnico para despachar el servicio.
+  * **Información:** Se ejecutará frente al usuario la generación de comunicados con su nivel de prioridad y duración.
+  * **Ayuda a residentes:** Se mostrará el chat asíncrono de ayuda a los residentes.
+  * **Recaudación y gastos de gestión:** Se presentará al usuario la recaudación de las cuotas de los residentes y la creación de gastos administrativos y montos fijos.
+  * **Ajustes:** Se presentará al usuario la vista para visualizar los datos de su cuenta y selección del plan de suscripción.
+* **Preguntas de Percepción (Post-Demostración):**
+  * Al ver cómo se procesa el registro manual de un nuevo residente en la plataforma, ¿el sistema te transmite seguridad sobre el manejo y control de los datos del condominio?
+  * Durante el cambio de pantallas entre el panel general y el de incidencias, ¿notaste fluidez y rapidez en la carga de la información?
+  * ¿El flujo mostrado para despachar una incidencia permite ejecutar el servicio técnico de manera ágil y sin pasos burocráticos?
+
+---
+
+### 5.3.2. Registro de Entrevistas
+
+A continuación, se detalla el registro de las sesiones de validación realizadas con los usuarios seleccionados, grabando la pantalla y la interacción directa con el sistema. 
+
+#### Segmento 1: Junta de Directiva y Residentes
+
+**Entrevista 1**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | Ismael Paredes |
+| **Edad** | 73 |
+| **Distrito** | Jesus Maria |
+| **URL del Video** | video1176560664.mp4 |
+| **Timing y Duración** | Inicio: 00:00 / Duración: 10:00 |
+| **Screenshot** | |
+| **Resumen de Apreciaciones** | Lo tengo en mi word |
+
+**Entrevista 2**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | |
+| **Edad** | |
+| **Distrito** | |
+| **URL del Video** | |
+| **Timing y Duración** | |
+| **Screenshot** | |
+| **Resumen de Apreciaciones**| |
+
+**Entrevista 3**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | |
+| **Edad** | |
+| **Distrito** | |
+| **URL del Video** | |
+| **Timing y Duración** | |
+| **Screenshot** | |
+| **Resumen de Apreciaciones**| |
+
+#### Segmento 2: Empresas de Gestión de Edificios 
+
+**Entrevista 4**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | Manuel Mera |
+| **Edad** | 45 |
+| **Distrito** | San Borja |
+| **URL del Video** | [upc-pre-202610-1asi0730-10203-BuildingFex-validation-sprint-4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312510_upc_edu_pe/IQCINfRRSwCQRZ_W8rjh5tdlAcO-UU8Ozm9a-5x6bFUAa4E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UrMJw7) |
+| **Timing y Duración** | Inicio: 00:00 / Duración: 14:06 |
+| **Screenshot** | ![Entrevista 4](../imagenes/validacion4-manuel.png) |
+| **Resumen de Apreciaciones**| Manuel percibe que el formulario para el registro manual de nuevos residentes es sumamente claro e intuitivo, destacando que no requiere de mayor capacitación para ser utilizado. Valora que la asignación de datos se actualice en tiempo real, ya que esto le transmite una sensación de tener la información bajo control y ayuda a evitar errores operativos al momento de dar de alta a un nuevo inquilino.<br><br>El entrevistado resalta la rapidez y la fluidez en la transición entre las distintas pantallas (como el paso del panel de control general al módulo de incidencias). Considera que, frente al volumen habitual de residentes e incidencias que se registran simultáneamente, el no tener que esperar a que carguen las pantallas o verse obligado a refrescar la página constantemente representa un ahorro significativo de tiempo y evita problemas en la gestión diaria.<br><br>Respecto al flujo para el despacho de incidencias, Manuel lo califica como un proceso ágil y clave para la operación. Aprecia que el sistema permita recibir un reporte y asignarlo directamente al proveedor correspondiente de forma inmediata. Destaca que esto elimina procesos burocráticos como llenar formularios adicionales, realizar llamadas de corroboración o pedir explicaciones extra, permitiendo que la gestión se enfoque de manera directa y exclusiva en la provisión del servicio. |
+
+**Entrevista 5**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | Adrián Delgado |
+| **Edad** | 24 |
+| **Distrito** | Surco |
+| **URL del Video** | [upc-pre-202610-1asi0730-10203-BuildingFex-validation-sprint-5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312510_upc_edu_pe/IQAsSRT6h-qbRZAt7aLpy6QoATwCvzRShHDtiA6paoyybPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4uohuD) |
+| **Timing y Duración** | Inicio: 00:00 / Duración: 9:46 |
+| **Screenshot** | ![Entrevista 5](../imagenes/validacion5-adrian.png) |
+| **Resumen de Apreciaciones**| Adrián percibe que la vista para el registro de nuevos residentes es muy intuitiva y cuenta con campos bien definidos. Valora que, tras guardar la información, el nuevo vecino aparece inmediatamente en la lista, lo que consolida su percepción de estar ante una herramienta B2B sólida y excelente para la gestión diaria.<br><br>El entrevistado destaca la buena optimización de la interfaz, notando una transición fluida al navegar entre el panel general y el módulo de incidencias. Resalta específicamente la ausencia de "loaders" o animaciones de carga que bloqueen la pantalla, permitiendo que la información aparezca de forma sencilla, rápida y muy ágil.<br><br>Respecto al flujo para el despacho de incidencias, Adrián señala que el proceso va directo al grano. Aprecia que el sistema omita pasos burocráticos, pantallas intermedias o módulos de asistencia presentes en otras alternativas, permitiendo que la gestión se reduzca puramente a seleccionar, asignar y proveer el servicio de mantenimiento al instante. |
+
+**Entrevista 6**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombres y Apellidos** | Carlos Chang |
+| **Edad** | 24 |
+| **Distrito** | San Borja |
+| **URL del Video** | [upc-pre-202610-1asi0730-10203-BuildingFex-validation-sprint-6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312510_upc_edu_pe/IQCtrE24D9uxR6qNPq3deQwpAYR0KUtmOHkpUpA4ir3tYR4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=noq9ER) |
+| **Timing y Duración** | Inicio: 00:00 / Duración: 10:37 |
+| **Screenshot** | ![Entrevista 6](../imagenes/validacion6-carlos.png) |
+| **Resumen de Apreciaciones**| Carlos percibe que el formulario para el registro manual de nuevos inquilinos es mucho más claro y seguro frente al uso tradicional de hojas de Excel, un método que él considera un riesgo constante de errores operativos. Valora que el sistema le permita asignar directamente la unidad y los datos del residente, actualizando el directorio al instante, lo que le brinda una mayor tranquilidad y un control absoluto sobre la información del condominio.<br><br>El entrevistado resalta la rapidez en la transición entre las distintas pantallas, como al momento de pasar del panel general al módulo de incidencias. Menciona que, en su rol de administrador, suele saltar de un tema a otro constantemente durante el día, por lo que una interfaz que responde de inmediato y sin pantallas de carga le permite trabajar a su propio ritmo con una herramienta que se siente directa y eficiente.<br><br>Respecto al flujo para el despacho de incidencias, Carlos lo califica como perfecto por ir directo al grano. Aprecia que el sistema omita pasos intermedios burocráticos o módulos destinados a brindar asistencia y guiar al vecino, permitiendo que la gestión se enfoque pura y exclusivamente en visualizar la falla reportada, asignar a un proveedor técnico y ejecutar el servicio. Subraya que este nivel de automatización y practicidad es exactamente lo que busca para poder escalar su negocio. |
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas
+
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta. Para esto la sección debe contener la estructura del formato para evaluaciones de heurísticas indicado en el **Anexo D. Formato para Evaluación de User Experience según Heurísticas**. 
+
+---
+
+#### Formato para Evaluación de User Experience según Heurísticas 
+
+**UX Heuristics & Principles Evaluation**  
+*Usability – Inclusive Design – Information Architecture* 
+
+* **CARRERA:** Ingeniería de Software 
+* **CURSO:** Aplicaciones Web 
+* **SECCIÓN:** Código de la sección 
+* **PROFESORES:** Todos 
+* **AUDITOR:** Optiflow
+* **CLIENTE(S):** 
+  * u20241d317 - Atoche Gonzales, Nicolas Fernando
+  * u202411310 - Azama Fukuda, Juan Pablo
+  * u20241c101 - Capillo Lema, Mía Valentina
+  * u20241b843 - Mechan Montenegro, Luciana Carolina
+  * u202411521 - Morocho Pinedo, Mariana
+
+---
+
+**SITE o APP A EVALUAR:**  
+BuildingFex
+
+**TAREAS A EVALUAR:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas: 
+
+1. Visualización del panel de control del administrador.
+2. Registro manual de un residente nuevo y creación de espacios públicos.
+3. Creación de cuenta de residente mediante enlace de invitación.
+4. Subida de archivos administrativos a la plataforma.
+5. Visualización del estado de cuenta y pagos.
+6. Reserva de espacios e invitados.
+7. Asignación de proveedor técnico a una incidencia reportada.
+8. Generación de comunicados con prioridad y duración.
+9. Uso del chat asíncrono de ayuda a residentes.
+10. Visualización de recaudación y creación de gastos administrativos.
+11. Visualización de cuenta y selección del plan de suscripción.
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+* Procesamiento real de transacciones bancarias mediante la pasarela de pagos.
+* Emisión de facturas electrónicas.
+* Envío automático de notificaciones push a dispositivos móviles.
+* Exportación en PDF de los reportes financieros mensuales.
+
+**ESCALA DE SEVERIDAD:**  
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+| :---: | :--- |
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN:**
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :---: | :--- | :---: | :--- |
+| **1** | En la vista de Ajustes, la selección de un nuevo plan de suscripción no solicita confirmación, exponiendo al usuario a cambios de facturación accidentales. | 3 | Usability: Prevención de errores |
+| **2** | El panel de incidencias no cuenta con filtros o barra de búsqueda para localizar tickets específicos rápidamente. | 2 | Information Architecture: Is it findable? / Flexibilidad y eficiencia de uso |
+| **3** | Al copiar el enlace de invitación para nuevos residentes, el sistema no brinda retroalimentación de éxito. | 2 | Usability: Visibilidad del estado del sistema |
+| **4** | En el registro de residentes, el contraste visual del formulario sobre el fondo es muy bajo. | 3 | Usability: Proporciona experiencias comparables |
+
+---
+
+#### DESCRIPCIÓN DE PROBLEMAS: 
+
+**PROBLEMA #1: Falta de confirmación al cambiar el plan de suscripción en Ajustes**
+* **Severidad:** 3
+* **Heurística violada:** Usabilidad - Prevención de errores
+* **Problema:** Al evaluar la tarea de "Ajustes" para la visualización de la cuenta y selección del plan de suscripción, notamos que al hacer clic sobre un nuevo plan, el sistema aplica el cambio inmediatamente sin mostrar una ventana de confirmación. Esto es un error crítico, ya que un clic accidental podría generar un cambio de facturación no deseado para la empresa administradora, incurriendo en mayores costos o alterando los límites operativos sin previo aviso.
+![Problema1](../imagenes/problema1.png)
+* **Recomendación:** Implementar un modal de confirmación (ej. "¿Estás seguro de que deseas cambiar al Plan Estándar por S/ 80 al mes?") que requiera una acción afirmativa explícita antes de procesar cualquier alteración en el nivel de suscripción.
+
+**PROBLEMA #2: Carencia de filtros y búsqueda en el panel de Incidencias**
+* **Severidad:** 2
+* **Heurística violada:** Information Architecture - Is it findable?
+* **Problema:** Al evaluar la tarea de asignación de proveedores técnicos a incidencias reportadas, notamos que la tabla muestra todos los tickets en una lista plana. A medida que el volumen de reportes del edificio crezca, el administrador no podrá filtrar por estado (Abierto, En proceso, Cerrado) ni buscar una incidencia específica por unidad, obligándolo a realizar scroll de manera ineficiente y extendiendo el tiempo de resolución.
+![Problema2](../imagenes/problema2.png)
+* **Recomendación:** Incorporar una barra de búsqueda por palabra clave y un menú desplegable de filtros múltiples en la parte superior de la tabla de incidencias.  
+
+**PROBLEMA #3: Falta de retroalimentación al copiar el enlace de invitación de residentes**
+* **Severidad:** 2
+* **Heurística violada:** Usabilidad - Visibilidad del estado del sistema
+* **Problema:** En la tarea de registro de nuevos residentes, cuando el administrador hace clic sobre el enlace de invitación para compartirlo con los vecinos, el sistema no emite ninguna alerta visual. El usuario queda con la incertidumbre de si el enlace realmente se copió al portapapeles de su sistema operativo o si ocurrió un error, forzándolo a pegar el texto en otra ventana para comprobarlo.
+![Problema3](../imagenes/problema3.png)
+* **Recomendación:** Implementar un pequeño tooltip que aparezca sobre el enlace que diga "¡Copiado!" o un toast notification temporal en la esquina inferior tras hacer clic en la URL.
+
+**PROBLEMA #4: Bajo contraste en el selector de prioridad al registrar residentes**
+* **Severidad:** 1 *(Nota: La tabla resumen indica severidad 3)*
+* **Heurística violada:** Inclusive Design - Proporciona experiencias comparables
+* **Problema:** En el formulario de registro de residentes, los campos para llenar información utilizan colores de fondo y de texto iguales que evitan visualizar claramente lo que se está escribiendo. Distinguir qué es lo que se está llenando puede resultar complicado para usuarios con monitores de bajo brillo o dificultades visuales.
+![Problema4](../imagenes/problema4.png)
+* **Recomendación:** Utilizar un fondo más claro para el fondo del formulario o para el color del texto.
+
+### Conclusiones 
+
+* **Centralización y Transparencia Operativa:** El desarrollo de BuildingFlex demuestra que la digitalización de la gestión inmobiliaria resuelve directamente los cuellos de botella contables y de comunicación. Al automatizar la facturación y la conciliación mediante pasarelas de pago, el sistema elimina las fricciones tradicionales entre la junta directiva, la administración y los residentes.
+* **Escalabilidad del Modelo B2B:** La estructuración del producto en planes de suscripción (incluyendo una capa gratuita estratégica) valida a BuildingFlex como un SaaS (Software as a Service) altamente escalable. Su enfoque estricto en la provisión del servicio administrativo y financiero lo posiciona como una herramienta B2B sólida, alejándose de modelos de negocio informales y centrándose en la profesionalización de la gestión de condominios.
+* **Diseño Orientado al Dominio:** La aplicación de técnicas como el *Big Picture Event Storming* y el modelado estructurado de *User Stories* permitió descubrir y mapear correctamente los contextos delimitados del sistema (facturación, control de accesos mediante QR, gestión de incidencias). Esto garantiza que la arquitectura de software responda fielmente a las reglas de negocio y no solo a requerimientos técnicos aislados.
+* **Modernización Tecnológica:** La adopción de tecnologías de vanguardia para el desarrollo web asegura un ciclo de vida prolongado para el producto. El enfoque en una arquitectura limpia y modular facilita el mantenimiento y la futura integración de nuevos servicios para la comunidad.
+
+### Recomendaciones
+* **Claridad en la Documentación Arquitectónica:** A medida que la plataforma crezca y se agreguen nuevos microservicios, es vital mantener la limpieza en los diagramas C4 (creados con Structurizr o herramientas similares). Se recomienda establecer como política de equipo nombrar los contenedores y componentes por su función de negocio exacta, evitando prefijos redundantes a nivel de sistema que solo ensucian la lectura de la arquitectura.
+* **Monitoreo de Adopción de Pasarelas:** Aunque la integración inicial con Mercado Pago cubre la automatización del recaudo, se recomienda instrumentar métricas (analíticas) sobre la tasa de abandono en la pantalla de pago. Si se detecta fricción, el equipo debería evaluar en futuras iteraciones la integración de métodos de pago directo locales (como billeteras móviles) para maximizar la recaudación temprana.
+* **Gestión del Plan Freemium:** Se sugiere monitorear de cerca el costo de infraestructura que generen los edificios suscritos al plan gratuito. Es recomendable establecer límites técnicos claros (por ejemplo, en el almacenamiento de documentos históricos o fotos de incidencias) para asegurar que el modelo de adquisición de clientes sea sostenible a largo plazo sin saturar la base de datos.
 
 ## Bibliografía
 
