@@ -2174,6 +2174,19 @@ El flujo de trabajo técnico se gestionó bajo el modelo **GitFlow**. Se design�
 ![teamcollab5](../imagenes/team1back.png)
 ![teamcollab6](../imagenes/team2back.png)
 
+### 5.2.3.9. Software Deployment Evidence for Sprint Review
+
+El despliegue del backend se realizó vinculando el repositorio del proyecto desarrollado en **ASP.NET Core** con la plataforma **Railway**. Cada actualización integrada en la rama principal activa automáticamente el proceso de construcción y despliegue de la API. Adicionalmente, se creó y configuró una instancia de base de datos en Railway, estableciendo las variables de entorno necesarias para la conexión entre la aplicación y el sistema gestor de datos.
+
+**Plataforma de despliegue:** Railway  
+**Entorno de desarrollo:** JetBrains Rider  
+**Tecnología:** ASP.NET Core Web API  
+**Base de datos:** Instancia creada y gestionada en Railway  
+**Integración continua:** Configurada mediante la conexión directa con el repositorio de GitHub.  
+**Variables de entorno:** Configuradas en Railway para la cadena de conexión y parámetros de la aplicación.
+
+![backenddeploymentevidence.jpg](../imagenes/backenddeploymentevidence.jpg)
+
 ---
 
 ## 5.3. Validation Interviews
