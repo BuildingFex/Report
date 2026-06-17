@@ -2142,6 +2142,17 @@ Durante este *Sprint*, el equipo trabajó en el repositorio **[BuildingFex/BackE
 | `BuildingFex/BackEnd` | `incidents-admin` | *(hash)* | `feat(incidents): add incident tracking module` | Implementación de operaciones CRUD para incidencias, seguimiento de estados y registro de reportes. | *(12/06/2026)* |
 | `BuildingFex/BackEnd` | `information-admin` | *(hash)* | `feat(information): implement building information management` | Desarrollo de endpoints para la administración de información, anuncios y comunicaciones dirigidas a los residentes. | *(12/06/2026)* |
 
+### 5.2.3.5. Execution Evidence for Sprint Review
+El API se encuentra desarrollada y documentada, permitiendo consumir y gestionar los flujos de Finanzas, Incidencias, Servicios, Información y Gestión Avanzada tanto para los roles de Administrador como de Residente. A continuación, se detallan los controladores y endpoints disponibles en la plataforma:
+
+(../imagenes/1.png)
+
+(../imagenes/2.png)
+
+(../imagenes/3.png)
+
+(../imagenes/4.png)
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 3 se implementó y utilizó el backend para soportar las principales funcionalidades de la plataforma de gestión de condominios, permitiendo la gestión y consulta de información de residentes, administradores y comunicados, mientras que el frontend consumió estos servicios para validar los flujos de la aplicación y asegurar la integración entre ambas capas.
