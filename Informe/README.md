@@ -2145,13 +2145,13 @@ Durante este *Sprint*, el equipo trabajó en el repositorio **[BuildingFex/BackE
 ### 5.2.3.5. Execution Evidence for Sprint Review
 El API se encuentra desarrollada y documentada, permitiendo consumir y gestionar los flujos de Finanzas, Incidencias, Servicios, Información y Gestión Avanzada tanto para los roles de Administrador como de Residente. A continuación, se detallan los controladores y endpoints disponibles en la plataforma:
 
-(../imagenes/1.png)
+![teamcollab1](../imagenes/1.png).
 
-(../imagenes/2.png)
+![teamcollab1](../imagenes/2.png)
 
-(../imagenes/3.png)
+![teamcollab1](../imagenes/3.png)
 
-(../imagenes/4.png)
+![teamcollab1](../imagenes/4.png)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
