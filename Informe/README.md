@@ -2323,7 +2323,7 @@ A continuación, se detalla el registro de las sesiones de validación realizada
 
 ### 5.3.3. Evaluaciones según heurísticas
 
-Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta. Para esto la sección debe contener la estructura del formato para evaluaciones de heurísticas indicado en el **Anexo D. Formato para Evaluación de User Experience según Heurísticas**. 
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta. **. 
 
 ---
 
@@ -2334,7 +2334,7 @@ Esta sección contiene el proceso de evaluación de las sesiones de validación 
 
 * **CARRERA:** Ingeniería de Software 
 * **CURSO:** Aplicaciones Web 
-* **SECCIÓN:** Código de la sección 
+* **SECCIÓN:** 10203 
 * **PROFESORES:** Todos 
 * **AUDITOR:** Optiflow
 * **CLIENTE(S):** 
@@ -2415,12 +2415,17 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 * **Recomendación:** Implementar un pequeño tooltip que aparezca sobre el enlace que diga "¡Copiado!" o un toast notification temporal en la esquina inferior tras hacer clic en la URL.
 
 **PROBLEMA #4: Bajo contraste en el selector de prioridad al registrar residentes**
-* **Severidad:** 1 *(Nota: La tabla resumen indica severidad 3)*
+* **Severidad:** 3
 * **Heurística violada:** Inclusive Design - Proporciona experiencias comparables
 * **Problema:** En el formulario de registro de residentes, los campos para llenar información utilizan colores de fondo y de texto iguales que evitan visualizar claramente lo que se está escribiendo. Distinguir qué es lo que se está llenando puede resultar complicado para usuarios con monitores de bajo brillo o dificultades visuales.
 ![Problema4](../imagenes/problema4.png)
 * **Recomendación:** Utilizar un fondo más claro para el fondo del formulario o para el color del texto.
 
+---
+### 5.4. Video About-the-Product.
+
+
+---
 ### Conclusiones 
 
 * **Centralización y Transparencia Operativa:** El desarrollo de BuildingFlex demuestra que la digitalización de la gestión inmobiliaria resuelve directamente los cuellos de botella contables y de comunicación. Al automatizar la facturación y la conciliación mediante pasarelas de pago, el sistema elimina las fricciones tradicionales entre la junta directiva, la administración y los residentes.
