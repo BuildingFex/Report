@@ -2199,7 +2199,73 @@ El despliegue del backend se realizó vinculando el repositorio del proyecto des
 ![backenddeploymentevidence.jpg](../imagenes/backenddeploymentevidence.jpg)
 
 ---
+### 5.2.4. Sprint 4
 
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 4, enfocado en la fase de calidad tras el despliegue de la solución al 100%. Incluye como secciones internas: Sprint Planning 4, Aspect Leaders and Collaborators, Sprint Backlog 4, y Development Evidence for Sprint Review.
+
+#### 5.2.4.1. Sprint Planning 4
+
+Esta sección especifica los aspectos principales del Sprint Planning Meeting. Al ser la fase final del desarrollo, la reunión se enfocó en priorizar el reporte de errores post-despliegue, afinar la interfaz de usuario y asegurar la estabilidad de los servicios desplegados.
+
+| Sprint # | Sprint 4 |
+| --- | --- |
+| **Sprint Planning Background** | |
+| **Date** | 2026-06-29 |
+| **Time** | 21:09 (GMT-5) |
+| **Location** | Reunión Virtual por Discord |
+| **Prepared By** | Medina Mamani, Valentin Nicolas |
+| **Attendees (to planning meeting)** | Beingolea Montalvo, Sebastian Martin / Villanueva Rodriguez, Giuseppe Adrián / Ortega Muñoz, Saul / Jave Chang, Alejandro Manuel / Medina Mamani, Valentin Nicolas |
+| **Sprint 4 – 1 Review Summary** | Se culminó con éxito la implementación y el pase a producción al 100% de los Bounded Contexts principales. Las funcionalidades de administración de condominios operan correctamente en la nube. Sin embargo, durante las pruebas de integración finales y el feedback preliminar se identificaron bugs menores en la UI, errores de validación en algunos formularios y excepciones no controladas en el backend que afectan la experiencia del usuario final. |
+| **Sprint 4 – 1 Retrospective Summary** | El equipo logró una alta sincronización para alcanzar la meta de despliegue, pero el ritmo acelerado generó deuda técnica en el manejo de errores. Se acordó que para este Sprint final es imperativo pausar la creación de nuevos *features* y concentrar todos los esfuerzos colaborativos en el aseguramiento de calidad (QA) y la refactorización de código. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | **Our focus is on** resolving existing bugs and refining the user interface of the fully deployed BuildingFex application.<br>**We believe it delivers** a highly stable, error-free, and polished experience to property administrators and residents.<br>**This will be confirmed when** all high and medium severity bugs reported in the backlog are resolved, the frontend forms handle validation properly, and the application passes final quality assurance tests without critical interruptions. |
+| **Sprint 4 Velocity** | 18 |
+| **Sum of Story Points** | 18 |
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+Para este sprint de mantenimiento y estabilización, los aspectos del proyecto se han dividido por capas tecnológicas e infraestructura, con el fin de agilizar la corrección de errores específicos. Los aspectos evaluados son la estabilización del Front-End (donde se abordarán correcciones de sintaxis, *typos* de propiedades y directivas estructurales), la resolución de excepciones del Back-End y la validación final del despliegue en la nube.
+
+| Team Member (Last Name, First Name) | GitHub Username | Front-End Stabilization Leader (L) / Collaborator (C) | Back-End Bug Fixing Leader (L) / Collaborator (C) | Deployment Validation Leader (L) / Collaborator (C) |
+| :--- | :--- | :---: | :---: | :---: |
+| Jave Chang, Alejandro Manuel | alejandrojave | L | C | C |
+| Beingolea Montalvo, Sebastian | sbeingolea | C | L | C |
+| Villanueva Rodriguez, Giuseppe | gvillanueva | C | L | C |
+| Ortega Muñoz, Saul | sortega | C | C | L |
+| Medina Mamani, Valentin Nicolas | vmedina | C | C | L |
+
+### 5.2.4.3. Sprint Backlog 4
+
+El objetivo principal de este Sprint es la corrección de errores (*bug fixing*) y el refinamiento general en ambos repositorios tras el despliegue al 100% de la plataforma BuildingFex. A continuación, se presenta el tablero de control utilizado para el seguimiento de *issues* y la asignación de las tareas de estabilización.
+
+| User Story Id | Title | Work-Item / Task Id | Title | Description | Estimation (Hours) | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| US-32 | Chat de soporte directo entre residentes y administradores | T-32-1 | Implementación de conexión en tiempo real | Configurar el servicio de mensajería bidireccional en el backend para el soporte. | 4 | Jave Chang, A. | Done |
+| US-32 | Chat de soporte directo entre residentes y administradores | T-32-2 | Interfaz de chat y notificaciones | Desarrollar la vista del chat en el frontend y las alertas de nuevos mensajes. | 3 | Beingolea Montalvo, S. | Done |
+| US-28 | Facturación automatizada y procesamiento financiero | T-28-1 | Integración con API de Mercado Pago | Conectar el módulo de finanzas con el *gateway* de Mercado Pago para procesar los pagos del condominio. | 5 | Villanueva Rodriguez, G. | Done |
+| US-28 | Facturación automatizada y procesamiento financiero | T-28-2 | Generación de comprobantes | Crear el servicio que emite y notifica el recibo tras la transacción exitosa. | 3 | Ortega Muñoz, S. | Done |
+| US-14 | Login multi-rol y gestión de identidad | T-14-1 | Refinamiento de control de accesos | Ajustar los permisos y bloqueos de rutas en el frontend dependiendo de si el rol es administrador o residente. | 3 | Medina Mamani, V. | ToReview |
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+Durante este sprint de estabilización, el enfoque en el control de versiones se desplazó hacia la creación de *commits* de tipo `fix`. Los avances reflejan la solución de problemas puntuales en el código fuente de los repositorios de BackEnd y Frontend, garantizando que el software entregado cumpla con los más altos estándares de calidad.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| BuildingFex/BackEnd | main | 030d6c9 | fix: error¨ | - | 05/07/2026 |
+| BuildingFex/BackEnd | main | bb2d5f7 | fix: error login | - | 04/07/2026 |
+| BuildingFex/Fronted | feat/finances-admin | aa0bd3a | feat: finances admin - settings editor, login fixes, store scope fix | Added PATCH /financeSettings API call, updateSettings in financesStore, finance settings UI (base monthly expense + late fee rate). Fixed late fee rate InputNumber display. Added .env.development. Fixed login error handling. | 03/07/2026 |
+| BuildingFex/Fronted | main | 8fd5750 | fix: erros with ddd structure | - | 02/07/2026 |
+| BuildingFex/Fronted | main | e5f1f21 | fix: visuals erros | - | 01/07/2026 |
+| BuildingFex/Fronted | main | 2b2c5ed | fix: problems with IAM | - | 30/06/2026 |
+| BuildingFex/Fronted | main | 395ba39 | fix: dashboard view | - | 29/06/2026 |
+| BuildingFex/Fronted | main | 6b82ee3 | fix: new view | - | 28/06/2026 |
+| BuildingFex/Fronted | main | d0d3589 | fix: App Resident Incidents list fixed with only resident incidents fixed | - | 27/06/2026 |
+| BuildingFex/Fronted | main | d967fe4 | fix: ux experience in resident/ incidents view | - | 26/06/2026 |
+| BuildingFex/Fronted | main | bc1c2b5 | fix: db.json and fix views | - | 25/06/2026 |
+| BuildingFex/Fronted | develop | 3a6be96 | fix:card in What BuildingFex covers section | - | 20/06/2026 |
+
+---
 ## 5.3. Validation Interviews
 
 En esta sección se documentan las actividades de validación ejecutadas con usuarios reales pertenecientes a nuestros dos segmentos objetivo. El propósito es evaluar la usabilidad, claridad y propuesta de valor tanto de la Landing Page como de los prototipos navegables de la aplicación web de BuildingFex, garantizando que el sistema provea estrictamente el servicio sin flujos de asistencia innecesarios que desvíen la atención del usuario.
