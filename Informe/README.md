@@ -2265,6 +2265,9 @@ Durante este sprint de estabilización, el enfoque en el control de versiones se
 | BuildingFex/Fronted | main | bc1c2b5 | fix: db.json and fix views | - | 25/06/2026 |
 | BuildingFex/Fronted | develop | 3a6be96 | fix:card in What BuildingFex covers section | - | 20/06/2026 |
 
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Durante el Sprint 4, el backend se expandió para soportar operaciones críticas del condominio, implementando módulos avanzados de Finanzas (con integración a MercadoPago), Reservas de Áreas Sociales, Reporte de Incidencias, Gestión de Personal (Team Workers) y un sistema de Soporte mediante chats. Paralelamente, en el frontend se desarrollaron las interfaces correspondientes para administradores y residentes, permitiendo consumir estos nuevos servicios para validar flujos complejos como el pago de cuotas, la generación de invitaciones a áreas comunes y el seguimiento de reportes, consolidando una plataforma integral y altamente interactiva.
+
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 El flujo de trabajo técnico se gestionó bajo el modelo GitFlow. Se designó la rama main como entorno de producción estable y se crearon ramas de características (feat/*) para cada módulo específico de las vistas. La integración del código se realizó estrictamente mediante Pull Requests, requiriendo revisión y aprobación antes de fusionar los cambios.
 
