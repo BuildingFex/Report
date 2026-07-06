@@ -2265,6 +2265,16 @@ Durante este sprint de estabilización, el enfoque en el control de versiones se
 | BuildingFex/Fronted | main | bc1c2b5 | fix: db.json and fix views | - | 25/06/2026 |
 | BuildingFex/Fronted | develop | 3a6be96 | fix:card in What BuildingFex covers section | - | 20/06/2026 |
 
+### 5.2.4.8. Team Collaboration Insights during Sprint
+El flujo de trabajo técnico se gestionó bajo el modelo GitFlow. Se designó la rama main como entorno de producción estable y se crearon ramas de características (feat/*) para cada módulo específico de las vistas. La integración del código se realizó estrictamente mediante Pull Requests, requiriendo revisión y aprobación antes de fusionar los cambios.
+
+![teamcollab1](../imagenes/informe4.png)
+![teamcollab2](../imagenes/informe5.png)
+![teamcollab3](../imagenes/informe6.png)
+![teamcollab4](../imagenes/informe7.png)
+![teamcollab5](../imagenes/informe8.png)
+![teamcollab6](../imagenes/informe9.png)
+
 ---
 ## 5.3. Validation Interviews
 
