@@ -2197,22 +2197,22 @@ El objetivo principal de este Sprint es la corrección de errores (*bug fixing*)
 
 ### 5.2.4.4. Development Evidence for Sprint Review
 
-Durante este sprint de estabilización, el enfoque en el control de versiones se desplazó hacia la creación de *commits* de tipo `fix`. Los avances reflejan la solución de problemas puntuales en el código fuente de los repositorios de BackEnd y Frontend, garantizando que el software entregado cumpla con los más altos estándares de calidad.
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint. Durante esta iteración final, el esfuerzo de control de versiones refleja la corrección de errores (*fixes*), nuevas implementaciones (como JWT) y la actualización general de los repositorios de Frontend y Backend.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| BuildingFex/BackEnd | main | 030d6c9 | fix: error¨ | - | 05/07/2026 |
-| BuildingFex/BackEnd | main | bb2d5f7 | fix: error login | - | 04/07/2026 |
-| BuildingFex/Fronted | feat/finances-admin | aa0bd3a | feat: finances admin - settings editor, login fixes, store scope fix | Added PATCH /financeSettings API call, updateSettings in financesStore, finance settings UI (base monthly expense + late fee rate). Fixed late fee rate InputNumber display. Added .env.development. Fixed login error handling. | 03/07/2026 |
-| BuildingFex/Fronted | main | 8fd5750 | fix: erros with ddd structure | - | 02/07/2026 |
-| BuildingFex/Fronted | main | e5f1f21 | fix: visuals erros | - | 01/07/2026 |
-| BuildingFex/Fronted | main | 2b2c5ed | fix: problems with IAM | - | 30/06/2026 |
-| BuildingFex/Fronted | main | 395ba39 | fix: dashboard view | - | 29/06/2026 |
-| BuildingFex/Fronted | main | 6b82ee3 | fix: new view | - | 28/06/2026 |
-| BuildingFex/Fronted | main | d0d3589 | fix: App Resident Incidents list fixed with only resident incidents fixed | - | 27/06/2026 |
-| BuildingFex/Fronted | main | d967fe4 | fix: ux experience in resident/ incidents view | - | 26/06/2026 |
-| BuildingFex/Fronted | main | bc1c2b5 | fix: db.json and fix views | - | 25/06/2026 |
-| BuildingFex/Fronted | develop | 3a6be96 | fix:card in What BuildingFex covers section | - | 20/06/2026 |
+| BuildingFex/Fronted | main | 4054582 | Actualización del Frontend | - | 06/07/2026 |
+| BuildingFex/BackEnd | main | df9d871 | Actualización del Backend | - | 06/07/2026 |
+| BuildingFex/Fronted | main | c81942f | fix:new | - | 05/07/2026 |
+| BuildingFex/Fronted | main | ad20b3f | fix:error | - | 05/07/2026 |
+| BuildingFex/Fronted | main | 1489c1c | fix: error | - | 05/07/2026 |
+| BuildingFex/BackEnd | main | 63912fb | feat:new | - | 05/07/2026 |
+| BuildingFex/BackEnd | main | 8706f78 | feat: new JWT | - | 05/07/2026 |
+| BuildingFex/BackEnd | main | 6c106c8 | fix:error | - | 05/07/2026 |
+| BuildingFex/Fronted | main | 7c838f4 | fix: errors | - | 19/06/2026 |
+| BuildingFex/Fronted | main | 5dda309 | fix: errors | - | 19/06/2026 |
+| BuildingFex/Fronted | main | 39bd646 | Merge pull request #11 from BuildingFex/develop | Develop | 19/06/2026 |
+| BuildingFex/Fronted | develop | 543c2db | Merge branch 'main' into develop | - | 19/06/2026 |
 
 ---
 ## 5.3. Validation Interviews
