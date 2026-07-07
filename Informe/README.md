@@ -2269,17 +2269,17 @@ En esta sección se explica y presenta los avances en implementación con relaci
 ## Resumen de Ejecución
 Esta sección documenta la ejecución exitosa de los módulos desarrollados durante el presente Sprint, verificando que la lógica de negocio y las integraciones del sistema operan según lo previsto en el entorno de desarrollo y pruebas.
 
-## Detalles de la Ejecución
+Detalles de la Ejecución
 
-### 1. Validación de Pruebas Unitarias y de Integración
+1. Validación de Pruebas Unitarias y de Integración
 * **Estado:** Todos los casos de prueba ejecutados han retornado un estado de **"Passed"**.
 * **Cobertura:** Las pruebas abarcan tanto la capa de persistencia (conexión a base de datos MySQL) como la capa de servicios (Endpoints API), asegurando que las reglas de negocio implementadas cumplen con los criterios de aceptación definidos.
 
-### 2. Comportamiento en Tiempo de Ejecución
+2. Comportamiento en Tiempo de Ejecución
 * **Flujos Principales:** La ejecución de los procesos de gestión administrativa (incluyendo `AdminManagementExpenses`) ha sido validada sin errores de tiempo de ejecución (*runtime exceptions*).
 * **Consistencia de Datos:** La interacción con el modelo de datos demuestra una sincronización correcta entre las peticiones del cliente y el estado de la base de datos, garantizando la integridad referencial en operaciones críticas.
 
-### 3. Evidencia del Sistema
+3. Evidencia del Sistema
 Las capturas de pantalla adjuntas (referenciadas como `5.2.4.5 12`, `erer`, `5.2.4.5`, y `5.4.2.5`) sirven como evidencia tangible de:
 * La correcta inicialización de los servicios.
 * La ausencia de bloqueos o errores de red durante la ejecución.
@@ -2294,21 +2294,21 @@ Las capturas de pantalla adjuntas (referenciadas como `5.2.4.5 12`, `erer`, `5.2
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 Durante el Sprint 4, el backend se expandió para soportar operaciones críticas del condominio, implementando módulos avanzados de Finanzas (con integración a MercadoPago), Reservas de Áreas Sociales, Reporte de Incidencias, Gestión de Personal (Team Workers) y un sistema de Soporte mediante chats. Paralelamente, en el frontend se desarrollaron las interfaces correspondientes para administradores y residentes, permitiendo consumir estos nuevos servicios para validar flujos complejos como el pago de cuotas, la generación de invitaciones a áreas comunes y el seguimiento de reportes, consolidando una plataforma integral y altamente interactiva.
 
-5.2.4.7. Software Deployment Evidence for Sprint Review
-## Descripción del Entorno de Producción
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Descripción del Entorno de Producción
 Actualmente, el proyecto se encuentra desplegado en la plataforma **Railway**, operando bajo una arquitectura de microservicios contenerizados que garantiza escalabilidad y aislamiento. El entorno está compuesto por dos servicios principales interconectados:
 
 * **Servicio BackEnd:** Aplicación principal conectada a un repositorio de GitHub, la cual se despliega automáticamente tras cada *push* a la rama de producción.
 * **Servicio MySQL:** Instancia de base de datos relacional persistente, configurada con un volumen de almacenamiento (`mysql-volume`) para garantizar la integridad de los datos ante reinicios o nuevas implementaciones.
 
-## Evidencia de Operatividad y Monitoreo
+Evidencia de Operatividad y Monitoreo
 La plataforma proporciona métricas en tiempo real que confirman la estabilidad del sistema:
 
 * **Estado de los Servicios:** Ambos servicios (BackEnd y MySQL) presentan un estado **"Online"**, confirmando una comunicación fluida entre el backend y la base de datos.
 * **Métricas de Rendimiento:** El monitoreo de recursos indica un consumo estable de memoria y CPU, consistente con la carga actual del sistema. El tráfico de red y la distribución de peticiones HTTP (códigos de respuesta 2xx) demuestran que la API está respondiendo correctamente a las solicitudes de los clientes.
 * **Gestión de Dependencias y Logs:** El despliegue actual, identificado como "Actualización del Backend", fue realizado satisfactoriamente a través de la integración continua con GitHub. El sistema mantiene un registro histórico de despliegues, facilitando la trazabilidad y la reversión a estados anteriores en caso de ser necesario.
 
-## Verificación de la API
+Verificación de la API
 La capa de aplicación está expuesta a través de una red pública mediante el dominio `backend-production-5e544.up.railway.app`. Se ha verificado la correcta integración de la documentación interactiva (**Swagger**), la cual permite validar los *endpoints* disponibles, como se observa en la gestión de `AdminManagementExpensesCompat`. La base de datos muestra correctamente la estructura de tablas migradas, confirmando que el esquema de datos está sincronizado con la última versión del código fuente.
 """
 ![teamcollab1](../imagenes/12.png)
