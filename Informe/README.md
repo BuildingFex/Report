@@ -154,12 +154,12 @@ Gráfico de actividad durante la preparación del TB1. Los commits reflejan prog
 
 | Evidencia                           | Descripción |
 |-------------------------------------| -- |
-| Actividad TB-1 Report (BuildingFex) | ![Actividad en el repositorio del reporte](../imagenes/repo-git.png) |
-| Actividad TB-1 Landing (BuildingFex) | ![Actividad en el repositorio del reporte](../imagenes/Landing-page-repo.png) |
-| Commits TB-1 Report                 | ![Actividad en el repositorio del reporte](../imagenes/commit-repo.png) |
-| Commits TB-1 Landing-Page           | ![Actividad en el repositorio del reporte](../imagenes/aaaaaa.png) |
-| Network TB-1 Report                 | ![Actividad en el repositorio del reporte](../imagenes/network-report.png) |
-| Network TB-1 Landing page           | ![Actividad en el repositorio del reporte](../imagenes/network-landingpage.png) |
+| Actividad TB-2 Report (BuildingFex) | ![Actividad en el repositorio del reporte](../imagenes/report-tb2.png) |
+| Actividad TB-2 Landing (BuildingFex) | ![Actividad en el repositorio del reporte](../imagenes/landin-tb2.png) |
+| Commits TB-2 Report                 | ![Actividad en el repositorio del reporte](../imagenes/report-ins.png) |
+| Commits TB-2 Landing-Page           | ![Actividad en el repositorio del reporte](../imagenes/landin-ins.png) |
+| Network TB-2 Report                 | ![Actividad en el repositorio del reporte](../imagenes/report-net.png) |
+| Network TB-2 Landing page           | ![Actividad en el repositorio del reporte](../imagenes/landin-net.png) |
 | Frontend Deployment 1               | ![img_6.png](../imagenes/img_6.png)|
 | Frontend Deployment 2               |![img_1.png](../imagenes/commit_1.png) |
 | Commits TP Frontend                 | ![img_2.png](../imagenes/img_2.png)|
