@@ -13,8 +13,8 @@
 | **Código**    | Aplicaciones Web - Virtual 1ASI0730-2610-10203 |
 | **NRC**       | 10203                                          |
 | **Profesor**  | Alex Humberto Sánchez Ponce                    |
-| **Documento** | Informe de Trabajo Final (entrega TP)          |
-| **Ciclo**     | 2026-01                                        |
+| **Documento** | Informe de Trabajo Final                       |
+| **Ciclo**     | 2026-10                                        |
 | **Facultad**  | Facultad de Ingeniería                         |
 
 # Startup: BuildingFex  
